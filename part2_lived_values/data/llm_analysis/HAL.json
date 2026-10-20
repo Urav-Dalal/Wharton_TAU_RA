@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The environment field is a summary of achievements led by Dow Jones Sustainability Index recognition of Halliburton as 'best in class' on environmental leadership and vision, placed beside human-capital development and diversity-initiative accomplishments.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The 2017 excerpts repeat the 2016 achievement-summary structure (DJSI environment and human-capital recognition) and add that the company kept its people processes running 'despite the significant headcount reduction.'",
+    "notable_shifts": "Versus 2016, the DJSI environment recognition is retained, but the people narrative now acknowledges a significant headcount reduction, shifting from development and succession toward executing through cuts."
+  },
+  "2018": {
+    "emphasis_summary": "The environment field is now the Health, Safety and Environment Committee charter, covering oversight of 'health, safety, environmental, and sustainable development' policies and risk management, and the excerpts contain no climate or emissions language.",
+    "notable_shifts": "Compared with 2017's DJSI achievement list, 2018 replaces accomplishments with governance-charter language, and the human-capital field goes blank, so people content cannot be compared directly with prior years."
+  },
+  "2019": {
+    "emphasis_summary": "The environment field repeats the 2018 HSE committee charter (sustainable development policies, oversight of compliance with applicable goals and legal requirements), and the rest of the excerpts are nominee and director-biography text.",
+    "notable_shifts": "The environment and governance text is nearly identical to 2018, so this year shows no substantive change in environmental emphasis, and the diversity field is again the standard board-diversity definition."
+  },
+  "2020": {
+    "emphasis_summary": "The environment field is enterprise-risk-management text that places 'health, safety, environment, and sustainability' inside Internal Assurance Services audit scope, and the human-capital field frames the pandemic outlook around safety, service quality, capital discipline and margins.",
+    "notable_shifts": "Versus 2019's charter language, 2020 treats environment as a risk-control and audit item within ERM, and pandemic-era capital-discipline language enters the human-capital text."
+  },
+  "2021": {
+    "emphasis_summary": "The excerpts point to a 2020 Sustainability Report as the environmental reference and lead with capital discipline (capital expenditures cut 52% to $728 million in 2020) and free cash flow, while the nominee list adds an independent LyondellBasell CEO.",
+    "notable_shifts": "Compared with 2020's ERM framing, 2021 cites a standalone Sustainability Report and leads with the 52% capex cut, and the nominee list adds a director whose profile the 2022 excerpts later tie to emissions-reduction expertise."
+  },
+  "2022": {
+    "emphasis_summary": "Energy transition and emissions become explicit: a director nominee is recommended partly for 'emissions reduction and safety expertise,' the environment field credits technology that helps reduce emissions and the Halliburton Labs accelerator for low-carbon technology, and ESG-related metrics enter the annual incentive plan effective January 1, 2022.",
+    "notable_shifts": "Compared with 2021's capital-discipline emphasis, 2022 is the first year the sample connects the environment theme to executive pay (ESG metrics in the annual incentive plan) and to board selection (emissions expertise), with Halliburton Labs introduced as the vehicle for low-carbon technology."
+  },
+  "2023": {
+    "emphasis_summary": "The 2023 excerpts frame 'sustainable energy' as a stated objective, using Halliburton Labs to develop low-carbon solutions that lower operators' emissions and support renewable energy applications, and citing Dow Jones Sustainability Index recognition of the top 10% most sustainable companies per industry.",
+    "notable_shifts": "Relative to 2022's incentive-metric and expertise framing, 2023 converts environment into a named strategic objective with DJSI recognition, and the DE&I text is reframed around DE&I performance and strategies alongside the energy mix transition."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 environment text lists forward-looking energy-transition actions (carbon capture and storage, hydrogen and geothermal project participation, solutions that lower operators' emissions, and lowering Halliburton's own emissions) alongside a third consecutive year in the DJSI North America index.",
+    "notable_shifts": "Compared with 2023's general 'sustainable energy' objective, 2024 adds specific technology lines and an in-house emissions-reduction commitment, the DJSI recognition now runs three consecutive years, and the DE&I field is blank."
+  }
+}

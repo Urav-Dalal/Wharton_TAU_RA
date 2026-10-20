@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Environmental language is minimal and limited to the mission of delivering energy 'in a safe, efficient and environmentally responsible way,' while the excerpts center on board diversity and independence and on the workforce and operating-excellence framework in the human-capital field.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The environment field defines sustainability through four pillars (operational excellence, environmental commitment, social responsibility and economic performance), and the governance field centers on a proxy-access bylaw and best-practices list rather than climate.",
+    "notable_shifts": "The 2016 Chairman/CEO rationale is replaced by the proxy-access and best-practice governance text, and the company now defines sustainability explicitly as four pillars, while the board-diversity text carries over in expanded form."
+  },
+  "2018": {
+    "emphasis_summary": "Environmental content is operational, a single line from the 2017 performance review ('Operating Excellence... focus on safety, asset availability and environmental stewardship'), and the human-capital field's most specific content is a talent-management measure called 'High-Performing Organization.'",
+    "notable_shifts": "The four-pillar sustainability definition of 2017 collapses into one operating-excellence line, and the human-capital field moves from 2017's workforce-skills and training text to a talent-management metric; the diversity field is blank in 2018, so board-diversity language is not captured this year."
+  },
+  "2019": {
+    "emphasis_summary": "The sustainability section defines the term as 'affordable, clean products' delivered safely and cites over $900 million invested in 2018 in reliability, safety and environmental projects, under a 'Corporate Responsibility and Sustainability' heading in the human-capital field.",
+    "notable_shifts": "Versus 2018's operating-excellence line, 2019 adds a dedicated corporate responsibility section with a working definition and a dollar figure for environmental project spending, and the diversity field is blank again."
+  },
+  "2020": {
+    "emphasis_summary": "The 2020 excerpts make the sample's first explicit climate statement ('climate change is a global issue that requires long-term commitment, action by every segment of society, technology and free-market solutions' and 'we accept the climate challenge'), repeated across the environment, governance and compensation fields.",
+    "notable_shifts": "Relative to 2019's sustainability-definition framing, 2020 is the first year with direct climate-policy language committing to 'a lower carbon future,' so climate moves from an operational topic to a stated corporate position."
+  },
+  "2021": {
+    "emphasis_summary": "The compensation text centers on two new bonus metrics, 'Low Carbon Priorities' and 'Greenhouse Gas Priorities,' added with a changed weighting for 2021, alongside a 'Corporate Responsibility and Sustainability' vision statement.",
+    "notable_shifts": "Versus 2020's stated climate position, 2021 converts climate into pay design through the two new low-carbon and GHG bonus metrics, so the emphasis moves from commitments to incentive mechanics; the diversity field is blank in 2021."
+  },
+  "2022": {
+    "emphasis_summary": "The environment and compensation text centers on quantified GHG targets set in 2021 to reduce greenhouse gas emissions intensity from operations and energy products, along with a Lobbying Activities Report and named opportunities in sustainable aviation fuel, batteries, carbon capture and hydrogen.",
+    "notable_shifts": "Compared with 2021's metric-weighting change, 2022 reports the targets themselves (a 2030 intensity goal, with 2050 targets announced earlier that year), a lobbying report prompted by a shareholder request on climate lobbying, and specific low-carbon businesses rather than general commitments."
+  },
+  "2023": {
+    "emphasis_summary": "The environment excerpt is mostly forward-looking-statement text with the caveat that 'our sustainability goals are aspirational and may change,' and the substantive business content centers on the Business Transformation's more than $500 million in run-rate savings.",
+    "notable_shifts": "Relative to 2022's target-setting language, the 2023 environmental framing is more hedged and the operating emphasis moves toward cost reduction, with sustainability mentioned mainly in disclaimers and the human-capital field pointing readers to separate Sustainability, Lobbying and Human Capital reports."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 excerpts pair sustainability and human-capital disclosures with a Business Transformation target of $1.4 billion in annual sustainable savings by year-end 2024, and note that GHG target enhancements were announced in October 2023.",
+    "notable_shifts": "Versus 2023's caveated sustainability framing, 2024 places climate targets next to a cost target and an updated 2023 target announcement, and the board-diversity field now states a commitment to seek women and underrepresented groups for director searches."
+  }
+}

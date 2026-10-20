@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Opens with third-party recognition (a Street list of top directors and a 'Winning W' award) and then lists pay-governance practices: stock ownership guidelines, a fraud or restatement clawback, double-trigger vesting and limited perquisites.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Repeats the 2016 recognition and practices list, adds the 'Winning W' recognition for holding 20% of board seats with women, and stresses that executives and directors comply with stock ownership guidelines.",
+    "notable_shifts": "Long-term incentive and performance-award language collapses from 19 mentions to two, while say-on-pay references appear for the first time (three mentions, after none in 2016)."
+  },
+  "2018": {
+    "emphasis_summary": "Lists pay practices (double-trigger equity vesting, no excise tax gross-ups, and generally no executive-only perquisites such as company cars, security systems or financial planning) alongside stock ownership compliance and a clawback policy.",
+    "notable_shifts": "CEO pay-ratio language appears for the first time (three mentions, after none in 2017) and the say-on-pay count falls from three to two. The perquisites bullet now gives specific examples, and the 'Winning W' board-diversity recognition drops out of the excerpts."
+  },
+  "2019": {
+    "emphasis_summary": "Emphasizes stock ownership compliance, standard employee benefits with very limited perquisites, no excise tax gross-ups in a change of control, and a proxy-access discussion that peaks in this year.",
+    "notable_shifts": "Proxy-access mentions triple (two to six), and Optum is referenced for the first time (four mentions), while the 2018 list of executive-only perquisites is replaced by the 'standard benefits and very limited perquisites' wording."
+  },
+  "2020": {
+    "emphasis_summary": "Dominated by COVID-19 response content (OptumCare shifting more than 4,000 physicians to telehealth and a newly FDA-approved self-administered swab protocol) and governance-table items on independence, executive sessions and limits on outside board service.",
+    "notable_shifts": "COVID-19 references jump from zero to 17 and Optum-related operational disclosure rises to five, while proxy-access mentions fall from six to two and clawback references fall from three to one."
+  },
+  "2021": {
+    "emphasis_summary": "Centers on a Public Policy Strategies and Responsibility Committee charter, commitments to seek women and racially or ethnically diverse director candidates, and a perfect 100 score on the Human Rights Campaign Corporate Equality Index.",
+    "notable_shifts": "Racial and ethnic diversity language appears for the first time (four mentions) alongside the first disability references (two), while COVID-19 references halve (17 to eight) and long-term incentive language drops from two mentions to zero."
+  },
+  "2022": {
+    "emphasis_summary": "Focuses on the governance committee's nomination duties and on the newly created Chief Sustainability Officer role, framed as the owner of a comprehensive ESG strategy with annual and long-term sustainability goals.",
+    "notable_shifts": "Lobbying and political-activity references jump from one to ten and sustainability mentions rise from three to seven, with the Chief Sustainability Officer role described as the new governance structure for achieving those goals."
+  },
+  "2023": {
+    "emphasis_summary": "Covers advisory say-on-pay and say-on-pay-frequency proposals, governance committee duties, and environmental sustainability content that rises to 15 mentions, with sustainability and ESG oversight referenced repeatedly.",
+    "notable_shifts": "Environmental references roughly double (seven to 15), sustainability references rise from seven to 14, and say-on-pay mentions climb from two to seven, while COVID-19 references fall from seven to zero."
+  },
+  "2024": {
+    "emphasis_summary": "Anchors on sustainability priorities aligned with long-term strategy and on risk oversight, with peer-group comparisons and long-term pay content, and sustainability references at their highest level in the sample (26).",
+    "notable_shifts": "Sustainability mentions nearly double again (14 to 26) and peer-group references return (two to four), while Medicare appears for the first time and women-related mentions drop from one to zero."
+  }
+}

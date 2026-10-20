@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Emphasizes executive perquisites (limited personal use of company aircraft and cars, taxable to the NEOs, and security provided for executives), a pay-for-performance framing, and the board's oversight of political support; the diversity section is blank.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Centers on a pay-for-performance alignment section and a list of key 2017 compensation actions, along with a shareholder proposal requesting a report on board oversight of product safety and quality.",
+    "notable_shifts": "TSR references peak (one to eight) and peer-group mentions rise from zero to five, while aircraft-use language is cut from two to one."
+  },
+  "2018": {
+    "emphasis_summary": "Presents a do-and-do-not practices table (double-trigger vesting, no tax gross-ups), stock ownership guidelines for directors and executives, board risk oversight, and disclosure of corporate political spending.",
+    "notable_shifts": "Stock-ownership guideline language first appears (three mentions, after none in 2017), along with hedging restrictions (zero to four), while peer-group references fall from five to one and TSR references from eight to five."
+  },
+  "2019": {
+    "emphasis_summary": "Emphasizes a formal stock ownership policy requiring the CEO and senior executives to acquire shares, other compensation practices, and a corporate mission framing around medicines, vaccines and a sustainable food supply.",
+    "notable_shifts": "Tax-related references peak at nine (from three) and vaccine references return (three, from zero), while emissions references drop from one to zero."
+  },
+  "2020": {
+    "emphasis_summary": "Covers say-on-pay support (93% of votes cast in 2019) and a proxy-access bylaw amendment adopted after shareholder engagement, with a lead-director focus and a women-related board-composition discussion.",
+    "notable_shifts": "Women-related references rise from zero to eight and proxy-access language returns (three mentions, after none in 2019), while tax references fall from nine to four."
+  },
+  "2021": {
+    "emphasis_summary": "Frames diversity and inclusion across gender, race, ethnicity, faith, disability, veteran and LGBTQ status, with an enterprise risk management section covering six risk areas and a commitment to political-spending transparency.",
+    "notable_shifts": "Diversity-section mentions rise from three to 17, with the first veteran, disability and LGBTQ references appearing; climate and emissions language reappears (two mentions each, from zero), and pay-ratio language returns (two mentions)."
+  },
+  "2022": {
+    "emphasis_summary": "Describes the board's ESG charter role (public policy, political engagement and corporate responsibility) and an ESG strategy organized around access to health, employees, environmental sustainability and ethics.",
+    "notable_shifts": "Sustainability references rise from three to 10 and lobbying references from two to five, while climate and emissions language drops to zero and speak-up or harassment language appears (two mentions)."
+  },
+  "2023": {
+    "emphasis_summary": "Highlights climate-goal and emissions-reduction commitments, board oversight of political engagement, and access to LAGEVRIO for COVID-19, with research and development references at their highest level in the sample (13).",
+    "notable_shifts": "Climate and emissions references return (four each, from zero), R&D references rise from eight to 13, and sustainability mentions fall from 10 to four."
+  },
+  "2024": {
+    "emphasis_summary": "Describes a Company Scorecard for the annual cash incentive (revenue, non-GAAP pre-tax income and R&D) and a Strategic Policy and Sustainability Council overseeing sustainability, with the board's oversight charter now using 'sustainability' in place of ESG.",
+    "notable_shifts": "Sustainability mentions jump from four to 17 as ESG wording is replaced with sustainability in the board-oversight charter, while climate and emissions references drop back to zero (four each in 2023)."
+  }
+}

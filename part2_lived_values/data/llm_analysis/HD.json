@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The human-capital excerpt is a shareholder proposal for an employment diversity report (women 47.8% of the workforce but 29.2% of executives and managers) that the board opposes by citing associate resource groups and a careers diversity microsite, while the environment excerpt is a strategy narrative built on customer experience, product authority and capital allocation.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The human-capital excerpt repeats the employment diversity report proposal with updated figures (women 29.73% of executives and managers), and the environment excerpt is a shareholder proposal touching on climate change and political candidate support.",
+    "notable_shifts": "The environment excerpt switches from the 2016 strategy narrative to a shareholder proposal on climate change and political engagement, while the executive-level representation figures tick up (women 29.2% to 29.73%; the other group 12.2% to 14.01%)."
+  },
+  "2018": {
+    "emphasis_summary": "The human-capital excerpt keeps the diversity-report proposal with the same representation figures as 2017, and the environment excerpt is a shareholder proposal on executive pay recoupment (clawback) policies tied to sustainable value creation.",
+    "notable_shifts": "Human-capital figures are unchanged from 2017, while the environment excerpt moves from a climate and political-spending proposal to a clawback proposal that ties executive pay to long-term value."
+  },
+  "2019": {
+    "emphasis_summary": "The human-capital excerpt highlights the February 2019 cut in the special-meeting threshold from 25% to 15% and an updated compensation clawback policy, and the environment excerpt describes an ESG engagement program with institutional shareholders that produced governance changes.",
+    "notable_shifts": "Governance changes now carry the human-capital excerpt, and the environment excerpt reframes sustainability as an ESG engagement dialogue, replacing the 2018 clawback-proposal text."
+  },
+  "2020": {
+    "emphasis_summary": "The environment excerpt recounts ESG engagement outcomes with institutional investors, and the human-capital excerpt restates the special-meeting threshold and clawback changes as completed prior-year actions.",
+    "notable_shifts": "The structure is nearly unchanged from 2019, but the governance changes are now described as outcomes of completed engagement rather than as new actions."
+  },
+  "2021": {
+    "emphasis_summary": "The diversity excerpt is the first substantive DEI section in the HD series, describing the enhanced Office of Diversity, Equity and Inclusion and expanded community support, while the human-capital excerpt highlights SASB- and TCFD-aligned disclosure and expanded government-relations reporting.",
+    "notable_shifts": "The diversity section is populated for the first time, and the human-capital excerpt moves from rebutting an EEO proposal to climate-framework disclosure commitments."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts describe ESG engagement outreach to institutional investors and new climate-related goals, with the human-capital excerpt citing the consolidated EEO-1 report and the 2021 ESG Report.",
+    "notable_shifts": "Climate-related goals and EEO-1 workforce reporting move into the human-capital excerpt, and the environment excerpt adds more explicit ESG-engagement language."
+  },
+  "2023": {
+    "emphasis_summary": "The human-capital excerpt covers the 2022 CEO transition from Craig Menear to Ted Decker, and the diversity excerpt adds pay-equity disclosures made in response to investor engagement.",
+    "notable_shifts": "Climate-goal framing gives way to leadership-succession and pay-equity content, shifting the emphasis from ESG engagement to workforce pay and executive transition."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts are a list of 2024 shareholder proposals on biodiversity impact, clawback policy and civil liberties, each recommended against, plus a note on structural leadership changes that elevated Ann-Marie Campbell to senior executive vice president.",
+    "notable_shifts": "The pay-equity and CEO-transition disclosures from 2023 give way to a catalogue of shareholder proposals with board recommendations, and the environment content turns to strategic leadership structure."
+  }
+}

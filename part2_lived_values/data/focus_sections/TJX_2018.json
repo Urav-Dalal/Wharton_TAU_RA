@@ -1,0 +1,18 @@
+{
+  "ticker": "TJX",
+  "year": "2018",
+  "sections_found": {
+    "human_capital": false,
+    "diversity_dei": false,
+    "environment_sustainability": false,
+    "compensation_philosophy": false,
+    "governance_ethics": false
+  },
+  "sections": {
+    "human_capital": "",
+    "diversity_dei": "",
+    "environment_sustainability": "",
+    "compensation_philosophy": "",
+    "governance_ethics": ""
+  }
+}

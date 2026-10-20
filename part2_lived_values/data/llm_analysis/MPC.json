@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Refinery safety and process-safety programs (Responsible Care, OSHA VPP, Safety 1, fatigue management) fill the excerpts, while environmental content is limited to a shareholder proposal for quantitative GHG emission-reduction goals and a mention of voluntary energy-efficiency and emissions disclosure.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The environment field is a governance-highlights page whose only climate item is a shareholder proposal for a 'Climate-Related 2-Degree Transition Plan' that the board opposes, and the rest of the excerpts cover the meeting notice and audit pre-approval policy.",
+    "notable_shifts": "The GHG-reduction-goals proposal of 2016 is replaced by a 2-degree transition-plan proposal, and the safety and fatigue-management text that filled the 2016 DEI and environment fields is gone, with the DEI field blank in 2017."
+  },
+  "2018": {
+    "emphasis_summary": "The only substantive environmental content is the chairman's letter announcing the company's first 'Perspectives on Climate-Related Scenarios' report, with the rest of the environment field being table of contents and the diversity field centered on the board's January 2018 commitment to seek women and diverse candidates.",
+    "notable_shifts": "Climate discussion moves from a shareholder proposal the board opposed to the company's own scenario-analysis report, the DEI field gains a formal board-diversity commitment absent in 2017, and CEO pay-ratio text appears in the human-capital field, which was blank in 2017."
+  },
+  "2019": {
+    "emphasis_summary": "The environment field centers on the Sustainability Committee formed in late 2018, whose charter covers health, environmental, safety and security policies and review of the Climate-Related Scenarios and Citizenship reports, alongside ERM monitoring of environmental trends.",
+    "notable_shifts": "Relative to 2018's single-report announcement, 2019 describes a standing board-level Sustainability Committee with a written mandate to review climate reporting, while the diversity text restates the 2018 board-diversity commitment, pointing to governance codification rather than new climate content."
+  },
+  "2020": {
+    "emphasis_summary": "Most of the environment field is table-of-contents text, and the substantive lines state that the board oversees 'risks associated with sustainability and climate change policy' and that the Sustainability Committee oversees health, environment, safety and security programs.",
+    "notable_shifts": "Climate language shifts from describing a committee charter to an explicit board risk-oversight statement for climate change policy, and the table of contents adds a 'Corporate Responsibility and Sustainability' section and a 'Community Impacts Report.'"
+  },
+  "2021": {
+    "emphasis_summary": "The excerpts stress 'extensive voluntary disclosures' on energy efficiency and environmental performance and a 'Sustainability at MPC' chapter (Leading in Sustainable Energy, Human Rights, Human Capital Management and Inclusion), with the governance highlights noting 'transparent sustainability reporting overseen by Sustainability Committee.'",
+    "notable_shifts": "Versus 2020, sustainability moves from board-oversight wording to listed governance practices (voluntary energy-efficiency and emissions disclosure, a Human Rights Policy, sustainability risks reviewed inside ERM), and it now sits as a numbered chapter with human-capital and inclusion subsections."
+  },
+  "2022": {
+    "emphasis_summary": "The environment field is almost entirely table-of-contents text naming a 'Sustainability at MPC' chapter (Challenging Ourselves to Lead in Sustainable Energy, Advancing Supply Chain Sustainability), while the substantive text sits in the diversity field, which lists 'Diversity, Equity and Inclusion, and environmental and safety metrics' next to a Just Transition Report and a 40% reduction in refining process-safety events since 2016.",
+    "notable_shifts": "The Just Transition Report appears in the sample for the first time, and environmental and safety measures are now presented in a highlights list alongside DEI, a move from 2021's disclosure-only framing toward named performance measures."
+  },
+  "2023": {
+    "emphasis_summary": "The environment excerpt is table-of-contents heavy but its headings are specific: 'Oversight of Climate Risk,' 'Lowering Our Carbon Footprint and Conserving Natural Resources,' and 'Preparing for a Just and Responsible Transition,' listed alongside shareholder Proposal 9 ('Report on Just Transition') and Proposal 10 (audited asset retirement obligations report).",
+    "notable_shifts": "Compared with 2022's highlights-level mention of a Just Transition Report, 2023 turns transition into a shareholder-proposal agenda item and adds standalone climate-risk and carbon-footprint headings, and the diversity field now carries a 'Board Diversity' section with women and racial/ethnic statistics."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 excerpts repeat the 2023 climate and transition headings ('Oversight of Climate Risk,' 'Lowering Our Carbon Footprint,' 'Working Toward a Just and Responsible Transition') and add a glossary defining GHG and ESG, so the environmental emphasis is carbon footprint and transition framing carried over from 2023.",
+    "notable_shifts": "The environmental headings are largely unchanged from 2023, with the main additions being the GHG/ESG glossary and amendment proposals (Proposals 5 to 7) in the appendices, so 2024 shows continuity rather than a shift in climate emphasis."
+  }
+}

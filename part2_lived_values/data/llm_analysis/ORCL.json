@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The populated sections are compensation and governance, focused on pay-for-performance outcomes (FY2016 PSU payouts set by revenue and operating cash flow growth, zero annual bonuses, a 'results-aligned' philosophy), with no human-capital or DEI content.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The DEI and human-capital sections are now substantive, stressing diversity and inclusion (the Oracle Women's Leadership program, unconscious-bias training for all employees, a pay-equity commitment) and quantifying Board diversity at 33 percent (three of 12 directors are women).",
+    "notable_shifts": "Versus 2016, which had no DEI or human-capital text, 2017 adds these topics in detail, including a board-diversity figure and the Oracle Women's Leadership and unconscious-bias training programs."
+  },
+  "2018": {
+    "emphasis_summary": "The diversity and pay-equity content is largely the company's rebuttal to a shareholder proposal requesting a gender pay gap report, arguing the report would be costly, that pay ranges by job prevent gender pay differences, and that the metric is not meaningful, alongside a DEI section that repeats 2017 wording.",
+    "notable_shifts": "Board diversity drops from 33 percent (three of 12) in 2017 to 29 percent (three of 14) in 2018 as the board grows without adding women, and the workforce is cited as about 137,000 employees."
+  },
+  "2019": {
+    "emphasis_summary": "The human-capital and DEI sections are dominated by a stockholder proposal's supporting statement for gender pay-equity reporting, which cites McKinsey, Morgan Stanley, and Mercer research, followed by the company's opposition.",
+    "notable_shifts": "Versus 2018, the 2019 text adds references to litigation (a Department of Labor pay-and-hiring suit and an employee pay-discrimination suit, both within the proponent's supporting statement) and third-party research on gender diversity, neither of which appears in the 2018 excerpt."
+  },
+  "2020": {
+    "emphasis_summary": "The human-capital and governance labels focus on Board risk oversight (committee risk roles, CEO and CTO succession reviews, an off-site strategy session), with talent acquisition and retention mentioned only briefly and a short women-and-diversity DEI passage.",
+    "notable_shifts": "Versus 2019, the gender pay-equity proposal debate is no longer the lead item, and the main human-capital content becomes Board risk oversight and CEO/CTO succession planning, with human capital management listed only as a bullet in a committee risk list."
+  },
+  "2021": {
+    "emphasis_summary": "The human-capital label is now an explicit 'Oversight of Human Capital Management' block assigned to the Compensation Committee (talent acquisition and retention), and the DEI section stresses diversity and inclusion with women and race references and no quantified workforce data.",
+    "notable_shifts": "Versus 2020, human-capital oversight gets its own block under the Compensation Committee rather than a single bullet, and the filing refers readers to the fiscal 2021 Form 10-K for workforce and diversity data, so the proxy itself reports no metrics."
+  },
+  "2022": {
+    "emphasis_summary": "The DEI section is the most specific yet, with diversity, inclusion, women, gender, and race references, while the human-capital label is mostly table-of-contents and Compensation Committee role text.",
+    "notable_shifts": "Versus 2021, 'inclusion' appears for the first time and diversity mentions rise from four to six, though no new workforce data is given."
+  },
+  "2023": {
+    "emphasis_summary": "The human-capital label loses its talent and retention language and is mostly table-of-contents text, so the workforce discussion sits in the DEI section (diversity, gender, race), which also includes a Board-diversity review tied to a skills matrix that breaks down ESG oversight by committee.",
+    "notable_shifts": "Versus 2022, the excerpts add the Board-diversity matrix linking ESG oversight to committees, drop talent and retention wording from the human-capital section, and cut diversity mentions from six to four."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts are almost entirely board risk-oversight and governance text (committee risk roles, CEO and CTO succession reviews, strategy review, director independence), with climate and environment wording limited to one mention each.",
+    "notable_shifts": "The 2024 excerpts repeat the 2023 risk-oversight, succession, and Board-diversity matrix text almost verbatim, so no new workforce, pay-equity, or diversity metrics appear."
+  }
+}

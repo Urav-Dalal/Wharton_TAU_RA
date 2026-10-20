@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts are dominated by executive pay-plan content (a 25-million-share Equity Incentive Plan amendment, performance-vested awards, and the 2016-2018 LTIP's ROE and relative TSR goals), with no human-capital or diversity text extracted.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The chairman's letter dominates, stressing a 23-25% Wealth Management profit-margin target, $1 billion of Project Streamline cost cuts, and a $4.8 billion capital return, with sustainability reduced to a single added-disclosure line.",
+    "notable_shifts": "Versus 2016, the equity-plan and LTIP mechanics drop out and sustainability moves from a performance-criteria reference to an explicit disclosure commitment ('At your request, we have also added disclosure reflecting our sustainability efforts')."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts focus on CEO pay design, with 2017 CEO compensation of $27 million, 74% deferred over three years and subject to clawback, alongside a 'people and culture' framing of human capital and succession planning for a 'sustainable, long-term strategy'.",
+    "notable_shifts": "The human-capital section now opens with 'people and culture' and talent-bench language instead of the 2017 strategy-letter wording, and the CEO deferral and clawback terms are stated more concretely than in 2017."
+  },
+  "2019": {
+    "emphasis_summary": "The excerpts emphasize board renewal and governance mechanics, including a proxy-access bylaw change, director equity ownership requirements, women directors reaching nearly a third of the board, and the Board's oversight of 'culture, values and conduct'.",
+    "notable_shifts": "Diversity language enters the extracted text for the first time (women directors near one-third, 'a diverse employee base and a talented leadership pipeline'), while the 2018 CEO deferral and clawback detail is no longer featured."
+  },
+  "2020": {
+    "emphasis_summary": "The excerpts combine director independence and equity-ownership standards with the 2020-2022 LTIP performance conditions, and the human-capital text stresses recruiting 'diverse talent', 'fostering a culture of inclusion', and ensuring 'equity in pay for all employees'.",
+    "notable_shifts": "The human-capital text adds explicit pay-equity language ('assessing our rewards structure and decisions to help ensure equity in pay for all employees') that was absent in 2019, and the board-culture oversight wording from 2019 is replaced by award mechanics."
+  },
+  "2021": {
+    "emphasis_summary": "The chairman's letter frames the year around employee health and well-being during the pandemic and a strengthened commitment to diversity and inclusion, with board climate deep-dives and succession content following.",
+    "notable_shifts": "Versus 2020, the pay-equity framing gives way to a general diversity-and-inclusion commitment, and the board's climate deep-dive briefings are named as a new oversight activity."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts emphasize workforce demographics and the integration of E*TRADE and Eaton Vance, stating that employees should 'reflect the demographics of the communities in which we live and work' within 'a diverse and equitable work environment'.",
+    "notable_shifts": "Acquisition integration displaces the 2021 pandemic framing as the main business context, and the workforce-representation goal is stated as a demographic target rather than a general inclusion commitment."
+  },
+  "2023": {
+    "emphasis_summary": "This year carries the most DEI and climate content in the MS sample, including a commitment to 'recruit, advance and retain diverse talent' and a standalone Environmental and Social Policy Statement describing due diligence on environmental and social risk.",
+    "notable_shifts": "Keyword counts roughly double for climate (4 to 13) and sustainability (6 to 13) and rise for diversity (5 to 10) versus 2022, and the DEI language moves from aspiration to a described program (professional development, health and wellbeing, benefits, culture)."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts center on the CEO succession to Ted Pick, 'Say on Pay' shareholder engagement, and a list of shareholder proposal topics on de-banking, lobbying transparency, and clean-energy financing.",
+    "notable_shifts": "Versus 2023, shareholder-proposal and engagement content replaces the DEI and climate program language, which no longer appears among the top extracted terms; the only carbon reference is the rationale for holding the meeting virtually."
+  }
+}

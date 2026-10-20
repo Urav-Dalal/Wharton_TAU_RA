@@ -1,0 +1,34 @@
+{
+  "2016": {
+    "emphasis_summary": "The human-capital excerpt is a shareholder proposal on human rights and the Holy Land Principles, which the board opposes because of the franchised structure, plus a proposal to phase out routine antibiotic use in meat supply chains that the board calls redundant given its Global Vision.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The human-capital excerpt lists board oversight duties for compliance, cybersecurity and human capital management, and the environment excerpt is a CEO-led turnaround narrative under Steve Easterbrook's mandate to restore sustainable growth.",
+    "notable_shifts": "The 2016 human-rights and antibiotics proposals give way to a board-oversight list, and the emphasis moves to the CEO-led turnaround story, with the environment excerpt citing 2015-2016 business performance."
+  },
+  "2018": {
+    "emphasis_summary": "The environment excerpt centers on the Scale for Good sustainability vision and its embedding into market business plans, and the human-capital excerpt covers enhanced enterprise risk management and cybersecurity oversight.",
+    "notable_shifts": "Sustainability moves from a turnaround side note in 2017 to the main environment theme (about 17 references), and the human-capital excerpt shifts toward enterprise risk management."
+  },
+  "2019": {
+    "emphasis_summary": "The human-capital excerpt highlights Compensation Committee charter amendments tied to human capital and to the Sustainability & Corporate Responsibility Committee's oversight of diversity and inclusion, and the environment excerpt is a shareholder letter about delivering value through disciplined growth.",
+    "notable_shifts": "Sustainability references fall from about 17 to 4 in the environment excerpt, replaced by shareholder-return messaging, while the human-capital excerpt ties diversity oversight to compensation governance."
+  },
+  "2020": {
+    "emphasis_summary": "The environment excerpt is a COVID-19 crisis-response letter framing the company's 'Our Bright Future' outlook, and the human-capital excerpt reports outreach to shareholders representing nearly 50% of outstanding shares on human-capital and sustainability topics.",
+    "notable_shifts": "COVID-19 becomes the dominant framing for the environment excerpt, replacing the 2019 shareholder-value narrative, and the human-capital excerpt expands shareholder outreach while diversity references rise to about 12."
+  },
+  "2021": {
+    "emphasis_summary": "The human-capital excerpt says half of the 12 Board members are women or racially diverse, and the environment excerpt describes a sustainable-growth-for-all-stakeholders strategy alongside a new leadership team under CEO Christopher Kempczinski.",
+    "notable_shifts": "Board diversity becomes an explicit quantified claim (half of 12 directors), and the sustainability narrative adds stakeholder language and a leadership reshuffle in place of the 2020 COVID-19 framing."
+  },
+  "2023": {
+    "emphasis_summary": "The environment excerpt states a climate ambition to reach net-zero emissions globally by 2050 and cites new U.S. virtual power purchase agreements for renewable energy, while the diversity excerpt highlights new director appointments, including a Salesforce CFO with technology expertise.",
+    "notable_shifts": "Compared with 2021 (2022 is missing from the sample), the emphasis moves from broad stakeholder language to concrete climate targets (net zero by 2050 and U.S. VPPAs) and to specific board-refreshment choices."
+  },
+  "2024": {
+    "emphasis_summary": "The human-capital excerpt describes DEI initiatives, a third-party civil rights audit and safe, respectful workplaces, and the environment excerpt covers sustainability initiatives on climate change and animal health and welfare.",
+    "notable_shifts": "The 2023 climate-ambition framing broadens to animal health and welfare, the human-capital excerpt adds a third-party civil rights audit and workplace-safety emphasis, and the board-diversity text is now mostly table of contents."
+  }
+}

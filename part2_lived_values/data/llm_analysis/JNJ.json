@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Excerpts are dominated by the voting overview table, a board skills matrix and committee-charter language (Science, Technology & Sustainability), with the human-capital and diversity sections empty.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Covers 10 director nominees, a frequency-of-say-on-pay advisory proposal, and the Regulatory, Compliance & Government Affairs committee's annual review of political contributions and lobbying.",
+    "notable_shifts": "The director nominee slate falls from 11 to 10, executive-pay mentions triple (four to 12) and lead-director references rise from seven to 11. The human-capital and diversity sections remain empty."
+  },
+  "2018": {
+    "emphasis_summary": "Presents an 11-nominee board, a say-on-pay vote, and the September 2016 United Nations Sustainable Development Goals commitment organized into five focus areas, with lead-director references at their series peak (16).",
+    "notable_shifts": "Lobbying references drop from four to zero and executive-pay-mix language drops from 12 to zero, while the human-capital section is populated for the first time. The lead-director count reaches its highest level in the sample."
+  },
+  "2019": {
+    "emphasis_summary": "Introduces a Human Capital Management discussion of talent development and succession, and highlights a compensation recoupment policy, a policy against pledging company stock, and cybersecurity oversight in the governance highlights.",
+    "notable_shifts": "Clawback and recoupment mentions jump from zero to nine and peer-group mentions from three to 10, while executive pay-mix references restart (zero to seven) and perquisite references appear (zero to four)."
+  },
+  "2020": {
+    "emphasis_summary": "Covers board refreshment and nominee composition, the Code of Business Conduct, the ban on pledging, hedging and short-selling company stock, cybersecurity oversight, and a disclosure on drug pricing in Janssen U.S.",
+    "notable_shifts": "The say-on-pay discussion surfaces (five mentions, from three) and attributes the 2019 low vote to a one-time 2018 supplemental severance payment, while severance references triple (three to nine). Opioid references appear for the first time (three mentions)."
+  },
+  "2021": {
+    "emphasis_summary": "Dominated by COVID-19 response content, including an 'Our COVID-19 Response Efforts' section, access to vaccines and therapeutics, and Item 4 on government financial support for COVID-19 vaccines and therapeutics.",
+    "notable_shifts": "COVID-19 mentions surge from zero to 45 and vaccine references appear (nine, from zero), while severance references fall from nine to four."
+  },
+  "2022": {
+    "emphasis_summary": "Emphasizes global equity in the COVID-19 response, an extensive review of the corporate political giving program and the Johnson & Johnson PAC, and a compensation summary in which executive pay-mix references peak at 26.",
+    "notable_shifts": "Lobbying references rise from zero to seven after the political-giving review, ownership-guideline references peak at 17, and COVID-19 references drop from 45 to eight."
+  },
+  "2023": {
+    "emphasis_summary": "Centers on the Regulatory Compliance & Sustainability Committee and full Board review of political contributions and lobbying, alongside share ownership, clawback and peer-group pay benchmarking.",
+    "notable_shifts": "Executive pay-mix references fall from 26 to four and COVID-19 references disappear (eight to zero), while clawback mentions rise from eight to 10 and pay-for-performance references hold at 10."
+  },
+  "2024": {
+    "emphasis_summary": "Centers on pay-for-performance and peer-group comparisons, long-term incentive and perquisite disclosure, and patient safety and product quality, with a table of contents that lists 'Pay for performance' and 'Peer group comparisons'.",
+    "notable_shifts": "Women-related mentions jump from one to nine and tax references go from zero to five, while AI is mentioned for the first time (two) and peer-group mentions fall from 14 to four. Lead-director references rise from seven to 15."
+  }
+}

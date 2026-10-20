@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Excerpts are dominated by director biographies and a human-capital passage on process safety, with the only concrete environmental claims being a 45 percent cut in equity flaring and venting emissions since 2003 and a formal environmental stewardship process.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Environmental content is still mostly director bios, but the human-capital excerpt adds a spill-reduction claim (93 percent since 2011), restates the 45 percent flaring and venting reduction since 2003, and cites a CO2 injection project the company says it will soon operate.",
+    "notable_shifts": "The 2016 claim about spill volumes over six years is replaced by a 93 percent reduction since 2011, and a new CO2 injection project claim appears, while the 2003 flaring baseline is repeated unchanged, so the environmental material is more quantified but still a small share of the text."
+  },
+  "2018": {
+    "emphasis_summary": "Board refreshment and board diversity language dominates, with environmental content reduced to a generic pledge to continuously improve environmental performance and a director bio describing environmental oversight at another company.",
+    "notable_shifts": "The flaring, spill and CO2 metrics from 2016 and 2017 drop out of the excerpts, and the diversity_dei section is populated for the first time, so the environmental material shifts from operational results toward board composition."
+  },
+  "2019": {
+    "emphasis_summary": "The excerpts are mostly table-of-contents text and board-diversity content, with the human-capital section stressing diversity (four mentions) and environmental statements limited to a generic commitment to environmental performance.",
+    "notable_shifts": "Environmental wording is essentially unchanged from 2018 (still a generic pledge), but the table of contents now lists an 'environmental, social, and governance engagement' heading, the first explicit ESG label in the CVX excerpts."
+  },
+  "2020": {
+    "emphasis_summary": "The excerpts stress board oversight, with a table-of-contents entry titled 'Board Oversight of Environmental Issues' and a generic environmental-performance commitment, while the human-capital passage mentions diversity and ESG.",
+    "notable_shifts": "The 2020 filing adds an explicit board-oversight heading for environmental issues, the first sign that environmental oversight is being named as a governance topic, though substantive environmental text is still absent from the excerpt."
+  },
+  "2021": {
+    "emphasis_summary": "The 2021 letter is the first substantive climate statement in the CVX sample, citing a Climate Change Resilience Report, a 35 percent carbon-intensity reduction target by 2028 from 2016, zero routine flaring by 2030, and alignment with the Paris Agreement.",
+    "notable_shifts": "This is a sharp break from 2016 through 2020, when environmental content was headings or generic pledges, and it introduces dated, quantified targets that appear in no earlier excerpt."
+  },
+  "2022": {
+    "emphasis_summary": "The 2022 letter stresses that Chevron has voluntarily reported greenhouse gas emissions for nearly two decades and that its Climate Change Resilience Report sets new targets for lower-carbon energy, while the diversity section now covers board diversity and refreshment.",
+    "notable_shifts": "The 2021 numeric targets (35 percent by 2028, zero routine flaring by 2030) are not restated, so the framing shifts from target-setting to a claim of long-running transparency and a lower-carbon energy goal, with a populated diversity section appearing alongside it."
+  },
+  "2023": {
+    "emphasis_summary": "The 2023 filing is the most climate-dense in the CVX sample, centering on the first Methane Report (released in October), a 'Higher Returns, Lower Carbon' strategy, and a set of stockholder proposals on Scope 3 emissions targets, decarbonization risk and emissions-baseline recalculation that the board opposes.",
+    "notable_shifts": "Climate language moves from company target-setting in 2021 and 2022 to defending the company against activist proposals, and the diversity section now carries a stockholder proposal calling for an audit of racial and environmental racism."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 excerpts emphasize reporting and transparency, citing the 2023 Climate Change Resilience Report and an Approach to Tax and Transparency report, along with the board's opposition to a stockholder proposal on voluntary carbon reduction risks.",
+    "notable_shifts": "Compared with 2023's multi-proposal dispute, the excerpt is narrower (a single carbon-risk proposal), and the diversity section drops out entirely, reversing the 2022 and 2023 pattern."
+  }
+}

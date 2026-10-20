@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The compensation excerpts emphasize peer benchmarking and 2015 operating highlights (immuno-oncology progress, clinical and regulatory achievements and business development), alongside board-qualification language.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The excerpts largely repeat the 2016 benchmarking and governance text, with the Benchmarking Process description now placed in the human-capital excerpt and a note on targeting total direct compensation above the primary peer median.",
+    "notable_shifts": "Little changed from 2016: the benchmarking description is newly placed in the human-capital excerpt, and the peer-positioning emphasis is unchanged."
+  },
+  "2018": {
+    "emphasis_summary": "Supply-chain quality and integrity lead ('Drive supply chain leadership on quality and integrity', with suppliers in high-risk countries assessed for labor and integrity standards), alongside a cumulative indexed total shareholder return graph.",
+    "notable_shifts": "The 2018 text adds the supply-chain integrity commitments and a cumulative indexed total shareholder return graph, neither of which appears in the 2017 excerpts, while the peer benchmarking carries over."
+  },
+  "2019": {
+    "emphasis_summary": "Supply-chain quality and integrity remains the lead, paired with Board-management partnership language and a reference to economic factors affecting healthcare systems' capacity to provide rapid, sustainable patient access.",
+    "notable_shifts": "The 2019 text repeats the 2018 supply-chain commitments and adds Board-management partnership and patient-access risk language."
+  },
+  "2020": {
+    "emphasis_summary": "Company values and inclusion lead, with six values (passion, innovation, urgency, accountability, integrity and inclusion) and eight People and Business Resource Groups each focused on a dimension of diversity.",
+    "notable_shifts": "The 2020 excerpts move from the 2019 supply-chain integrity focus to a values-and-inclusion narrative, and R&D language (about 18 to about 45 hits) and diversity language (about 14 to about 26 hits) both roughly double or more."
+  },
+  "2021": {
+    "emphasis_summary": "Values and the COVID-19 response lead, including the restated six values, a Board that met 13 times on the pandemic response and Celgene integration, and the sharing of discovery-library compounds and trials of Orencia and Eliquis.",
+    "notable_shifts": "COVID-19 becomes a board-level topic (13 Board meetings covering the response and the Celgene integration), and diversity language rises from about 26 to about 39 hits."
+  },
+  "2022": {
+    "emphasis_summary": "Pandemic resilience and pipeline growth lead, with the company prioritizing workforce health and safety, relief efforts, a doubled pipeline, digital drug-discovery investment, and a reference to its first Diversity and Inclusion Report.",
+    "notable_shifts": "The 2022 text moves from the 2021 Celgene-integration and COVID-trial narrative toward a pipeline-doubling and digital-R&D message, and it references the first Diversity and Inclusion Report, issued the prior year."
+  },
+  "2023": {
+    "emphasis_summary": "Diversity, equity and inclusion dominates, reporting 2022 results such as 58% of U.S. clinical trial sites in highly diverse communities and women at 48.7% of global executives, and including a shareholder proposal that criticizes DEI policies and seeks a civil rights audit.",
+    "notable_shifts": "This is the largest DEI shift in the sample: the 2023 excerpt adds 2022 DEI metrics and a shareholder proposal that attacks DEI policies and asks for a civil rights audit, text that appears in no other BMY year."
+  },
+  "2024": {
+    "emphasis_summary": "CEO succession and board skills lead, reporting that Giovanni Caforio retired as CEO after an eight-year tenure with Chris Boerner taking over on November 1, 2023, and describing the Board's skills mix (science, manufacturing, regulatory compliance, commercialization).",
+    "notable_shifts": "The 2024 excerpts drop the 2023 DEI-proposal content and move to leadership transition and board-skills framing, with the inclusion and diversity goals referenced only in table-of-contents text."
+  }
+}

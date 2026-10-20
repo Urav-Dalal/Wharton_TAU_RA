@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Emphasizes change-in-control severance terms, executive perquisites (including corporate aircraft use allowed for Lechleiter in 2015), and board diversity counts of 14 directors including four women and four ethnically diverse members.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Highlights change-in-control severance plan design (double trigger, no tax gross-ups, 18-month benefit continuation), a broad compensation recovery policy, and the ban on hedging or pledging company stock.",
+    "notable_shifts": "The board grows to 16 directors with five ethnically diverse members and the compensation recovery policy language appears in the practices bullets, while aircraft and perquisite language is essentially unchanged. The core pay-program description is largely static from 2016 to 2017."
+  },
+  "2018": {
+    "emphasis_summary": "Repeats the compensation-practices bullets (recovery policy, ownership guidelines, anti-hedging) and adds CEO pay-ratio disclosure and management proposals to eliminate the classified board and supermajority voting, with 14 directors including four women.",
+    "notable_shifts": "CEO pay-ratio language appears for the first time (zero mentions in 2017, five in 2018), and severance references fall from 20 to 8, indicating the change-in-control discussion was condensed. Board-declassification and supermajority-elimination proposals are introduced as management items."
+  },
+  "2019": {
+    "emphasis_summary": "Emphasizes robust stock ownership and retention guidelines with an anti-hedging and anti-pledging rule, a 14-director board with five women and four ethnically diverse members, and renewed proposals to eliminate the classified board and supermajority voting.",
+    "notable_shifts": "The word 'retention' is added to the ownership-guidelines language and the board's women count rises from four to five. The CEO pay-ratio discussion drops out (five mentions in 2018, zero in 2019) and TSR references roughly double (two to four)."
+  },
+  "2020": {
+    "emphasis_summary": "Centers on shareholder proposals (a feasibility report on drug prices in executive pay, a bonus deferral policy, clawback disclosure) and a proxy-access bylaw amendment adopted after shareholder engagement, alongside ESG engagement on drug pricing, product quality and cybersecurity.",
+    "notable_shifts": "Compliance mentions double (nine to 18) and the term 'clawback' appears for the first time (six mentions, after none in 2019), while aircraft-use language disappears from the excerpts. The disclosure focus moves from pay mechanics toward shareholder proposals and proxy access."
+  },
+  "2021": {
+    "emphasis_summary": "Foregrounds DEI and human capital, opening with a 'workforce of top talent from different backgrounds' framing and describing a 15-director board with six women and seven underrepresented members, alongside drug-pricing access to COVID-19 therapies and a virtual annual meeting.",
+    "notable_shifts": "LGBTQ representation is named for the first time and the human-capital section now leads with DEI language, while aircraft and perquisite references drop to zero (two perquisite mentions in 2020). COVID-19 references rise from one to four."
+  },
+  "2022": {
+    "emphasis_summary": "Frames DEI as 'critical components of how we do business' and lists ESG priorities (drug-pricing transparency, product quality and safety, executive compensation, human capital), with management proposals to eliminate the classified board and supermajority voting.",
+    "notable_shifts": "Lobbying and political-activity references rise from three to four and the company says it has recently enhanced those disclosures, while lead-director references nearly double (seven to 14) and COVID-19 references fall from four to zero."
+  },
+  "2023": {
+    "emphasis_summary": "Reads as a governance-table-heavy excerpt cataloguing board oversight of ESG, cybersecurity, political activity and DEI, alongside clawback and hedging/pledging restrictions and an Item 13 shareholder proposal to disclose political-expenditure policies before contributions.",
+    "notable_shifts": "Cybersecurity mentions rise from zero to six, hedging and pledging restrictions from zero to 10, and clawback references from zero to five, while lobbying references triple (four to 12). Emissions language appears at four mentions after none in 2022, and the political-activity shareholder proposal is new in this year's excerpts."
+  },
+  "2024": {
+    "emphasis_summary": "Built around shareholder proposals on evaluating extended patent exclusivities and adopting a human-rights policy, plus oversight tables for cybersecurity, political activity and sustainability, with AI mentioned for the first time.",
+    "notable_shifts": "AI references appear for the first time (eight mentions) and the human-rights policy proposal is added, while lobbying falls from 12 to three and emissions references drop to zero. Proxy-access detail (3% holders for three years, the greater of two directors or 20% of the board) returns, and safety references fall from six to zero."
+  }
+}

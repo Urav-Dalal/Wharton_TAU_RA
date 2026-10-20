@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The only human-capital text in the 2016 excerpts is a stockholder proposal asking for EEO-1-style workforce data by race and gender (the diversity section itself is empty), surrounded by code-of-conduct and governance-framework references.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The excerpts stress American Express's company-authored diversity record, including its 'gender pay equity commitment', 'Developing Women Leaders' focus, and recognition as a D&I leader, alongside three-year ROE-based performance RSUs for NEOs.",
+    "notable_shifts": "Versus 2016, the diversity content is company-authored (gender pay equity, developing women leaders) instead of the EEO-1 proposal text, and the board section adds that there is no specific board-diversity policy and that non-management directors average 7.5 years of tenure."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts frame diversity and inclusion as cultural practice ('fostering a diverse and inclusive culture') and workforce representativeness with customers and communities, alongside a summary compensation table and TDC methodology note.",
+    "notable_shifts": "The 2018 extract is more general than 2017's named programs: the gender-pay and women-leaders specifics are replaced by culture-level language in the extracted sentences."
+  },
+  "2019": {
+    "emphasis_summary": "The excerpts emphasize a colleague scorecard that ties talent retention and diversity-and-inclusion efforts to incentive pay, alongside a 2018 financial narrative of over $40 billion in revenue and 9% growth.",
+    "notable_shifts": "Versus 2018, the scorecard link between diversity and retention metrics and incentive pay is stated explicitly, and board nominee skills add 'talent management and compensation' while the 2018 culture language gives way to financial results."
+  },
+  "2020": {
+    "emphasis_summary": "The excerpts highlight a shareholder proposal from Arjuna Capital on gender pay, citing women's full-time income at 80% of men's, alongside company data that women are 55% of the workforce but 30% of senior leadership and 96.5% say-on-pay support.",
+    "notable_shifts": "Human-capital text gains concrete representation data (women at 30% of senior leadership) and a gender-pay proposal debate, replacing the 2019 scorecard-based description of diversity metrics."
+  },
+  "2021": {
+    "emphasis_summary": "The excerpts center on a new ESG framework, including an ESG Steering Committee launched in 2020, an ESG issue assessment built on interviews with more than 30 stakeholders, a TCFD-aligned climate risk scenario analysis, and an 'Advance Climate Solutions' commitment to a low-carbon future.",
+    "notable_shifts": "Versus 2020, the excerpts add a full ESG governance and climate narrative (steering committee, climate scenario analysis, colleague ESG survey), and the gender-pay proposal debate from 2020 no longer appears."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts say executive pay is 'increasingly linked' to ESG goals, describing colleague-scorecard diversity, retention, and culture metrics in the past tense ('in years past') and the 2021 move of key ESG initiatives into the Strategic scorecard category.",
+    "notable_shifts": "The emphasis shifts from describing ESG program build-out in 2021 to how ESG goals are built into incentive pay, and the 2022 text adds a comprehensive clawback policy and annual compensation risk assessment among governance highlights."
+  },
+  "2023": {
+    "emphasis_summary": "The excerpts state that executive compensation is linked to ESG goals, including diversity representation, talent retention, culture and inclusion metrics in the Colleague category of the Scorecard, alongside a comprehensive clawback policy.",
+    "notable_shifts": "Versus 2022, the past-tense framing ('in years past') is dropped and the diversity and inclusion scorecard metrics are described as current, while the 2021-style ESG program narrative no longer leads the extracted text."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts list Compensation Committee review areas covering diversity, equity and inclusion, key talent metrics, pay equity, and colleague health and well-being, alongside a risk-aware culture overseen by the Risk Committee.",
+    "notable_shifts": "Versus 2023, pay equity and colleague health and well-being are added to the committee's explicit remit, and 'Human Capital Management' appears as a named nominee skill, while the 2023 scorecard-metric wording becomes committee oversight language."
+  }
+}

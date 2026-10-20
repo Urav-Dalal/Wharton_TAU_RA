@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The human-capital and governance text is almost entirely a stockholder proposal asking for public EEO-1 workforce data by race and gender, followed by the board's opposition citing the company's Human Rights Campaign 100% rating and non-discrimination policy.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The same EEO-1 disclosure proposal and board opposition recur, with the company's 100% Human Rights Campaign rating and its anecdotal diversity disclosures highlighted, while the compensation and governance excerpts are mostly tables of contents and director retainer terms.",
+    "notable_shifts": "The text is nearly identical to 2016, with the only substantive change being that the confidential EEO-1 filing is now described as going to the Office of Federal Contract Compliance Programs as well as the EEOC."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts repeat the EEO-1 proposal and board opposition, with the same argument that the company's 'Everyone Matters' commitment and non-discrimination policy already address the issue, alongside director-biography tables.",
+    "notable_shifts": "Substantively unchanged from 2017; the main difference is the updated start year in the proposal's data-request language."
+  },
+  "2019": {
+    "emphasis_summary": "The excerpts still center on the EEO-1 proposal and the company's rebuttal, but add the company's own inclusion statement that diversity 'means building and maintaining an environment where everyone feels valued'.",
+    "notable_shifts": "The environment_sustainability field begins to carry text for the first time, but it is the company's inclusion statement rather than any environmental content (no climate or sustainability terms appear)."
+  },
+  "2020": {
+    "emphasis_summary": "The excerpts still center on the EEO-1 proposal, now with a second stockholder request for workforce pay data by race and gender that the company already provides to the EEOC, alongside a board statement that over 85% of directors are independent.",
+    "notable_shifts": "The stockholder-proposal material widens from headcount disclosure to pay data by race and gender, which extends the diversity block to pay as well as representation."
+  },
+  "2021": {
+    "emphasis_summary": "The excerpts are largely board and committee governance content, and the only workforce-diversity language points readers to the company's website for workforce data.",
+    "notable_shifts": "The stockholder-proposal debate and the workforce-disclosure discussion of 2016-2020 disappear, and diversity and human-capital text collapses to a single website-pointer sentence."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts consist almost entirely of governance logistics (where to find committee charters, the Code of Business Conduct and Ethics, and paper copies), with no workforce, diversity, or environmental content extracted.",
+    "notable_shifts": "Unlike 2021, 2022 contains no diversity or human-capital text at all, making it the thinnest year in the SCHW sample."
+  },
+  "2023": {
+    "emphasis_summary": "The excerpts include the company's own pay-equity result, with female employees earning about 99.2 cents for every dollar earned by similarly situated male employees, and a board rebuttal that a stockholder diversity-disclosure proposal is unnecessary given existing programs.",
+    "notable_shifts": "Diversity text returns with company-originated quantitative content (the 2022 pay-equity analysis) and a business-case framing ('Through diversity, we gain a wider range of perspectives'), replacing the purely proposal-driven text of earlier years."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts list 2024 stockholder proposals on workforce discrimination risk oversight and pay-equity disclosure, and describe board diversity gains (three women directors and one underrepresented minority director added since July 2020).",
+    "notable_shifts": "Versus 2023, the company's own pay-equity figure gives way to shareholder proposals asking for pay-equity disclosure and discrimination-risk oversight, and the Nominating and Corporate Governance Committee's ESG-policy oversight is newly stated."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The human_capital field is the compensation strategy statement and benefits philosophy (pay to attract, retain, and motivate employees and reward business results, and benefits for income security), while the environment field is the proxy summary and nominee table, noting that 79 percent of nominees are independent and listing a sustainability-related committee.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The compensation strategy statement and benefits language carry over from 2016 unchanged, and the environment field keeps the nominee table with sustainability-and-innovation committee assignments.",
+    "notable_shifts": "Compared with 2016, the human_capital keyword profile is identical (41 HC-term and 14 compensation-term hits) and the environment field changes by one hit (20 to 19), so the excerpts show no meaningful change. Net tone rises from 2.30 to 4.95 without a visible textual change."
+  },
+  "2018": {
+    "emphasis_summary": "The compensation strategy statement appears a third consecutive year in human_capital, and the environment field remains nominee-table and governance text, so 2018 is nearly identical in content to 2016 and 2017 while its net tone (6.74) is the highest of the first three years.",
+    "notable_shifts": "Compared with 2017 the text is unchanged in human_capital and nearly unchanged in environment (18 vs 19 environment hits), while net tone rises from 4.95 to 6.74, so the tone movement again has no matching textual change in these sections."
+  },
+  "2019": {
+    "emphasis_summary": "Compensation governance content returns, with a say-on-pay practices list (annual say-on-pay, pay for performance, peer group use, and a double-trigger change-in-control provision for equity grants) and an announced alliance agreement with Volkswagen on commercial vans, both in the human_capital field.",
+    "notable_shifts": "Compared with 2018, human_capital shifts from the static compensation strategy statement to a say-on-pay and compensation-practices list (compensation-term hits rise from 14 to 42), and it adds a strategic partnership item. Net tone falls from 6.74 to 2.02, a drop of about 4.7 points and the largest decline in the series."
+  },
+  "2020": {
+    "emphasis_summary": "The human_capital field is a shareholder-letter passage about the pandemic and purpose (references to unprecedented times and to the talent, dedication, and determination of employees), while the environment and governance fields hold nominee and board text (18 governance-term hits).",
+    "notable_shifts": "Compared with 2019, the say-on-pay and compensation practices list drops out of human_capital (compensation-term hits fall from 42 to 2) and is replaced by letter-style language about employees and the crisis, so the field shifts from pay mechanics to purpose and people messaging. Net tone rises from 2.02 to 4.39."
+  },
+  "2021": {
+    "emphasis_summary": "The human_capital field is a shareholder letter on mission, describing the company's aim of developing vehicles, technologies, and services that improve people's lives, and the diversity_dei field appears with 10 diversity-term hits.",
+    "notable_shifts": "Compared with 2020, the crisis-response letter gives way to a mission-and-stakeholder letter, and diversity_dei fills for the first time in the series (10 hits, versus zero in 2016-2020). Net tone rises from 4.39 to 6.06."
+  },
+  "2022": {
+    "emphasis_summary": "The human_capital field leads with Ford Fund workforce-development and educational programs for under-resourced individuals and with a compensation governance list (say-on-pay, pay for performance, and non-compete conditions on long-term incentive grants), while the diversity_dei field (12 hits) describes DEI embedded in corporate strategy and governance.",
+    "notable_shifts": "Compared with 2021, diversity_dei now describes a DEI program rather than only a diversity count, and compensation-term hits in human_capital rise from 5 to 17 as incentive-program and say-on-pay content enters the excerpts. Net tone falls from 6.06 to 2.36."
+  },
+  "2023": {
+    "emphasis_summary": "The human_capital field lists compensation design principles (inclusive and equitable regardless of gender or race, responsive to changing priorities, and simple and transparent programs), and the compensation field details pay-for-performance practices, stock ownership guidelines, and hedging and pledging limits (29 compensation-term hits).",
+    "notable_shifts": "Compared with 2022, the Ford Fund and workforce-development narrative gives way to compensation design principles, and the compensation field goes from no compensation-term hits to 29. Net tone jumps from 2.36 to 9.50, the largest increase in the series."
+  },
+  "2024": {
+    "emphasis_summary": "The compensation design principles repeat from 2023 nearly verbatim, and the compensation field carries incentive-plan and pay-for-performance detail (14 compensation-term hits), while human_capital continues to cite the workforce and the same principles.",
+    "notable_shifts": "Compared with 2023, the principles text is essentially unchanged, but compensation-term hits fall from 29 to 14 in the compensation field and from 21 to 17 in human_capital, so part of the 2023 compensation detail is absent from the 2024 excerpts. Net tone falls from 9.50 to 6.48."
+  }
+}

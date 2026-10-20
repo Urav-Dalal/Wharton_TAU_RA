@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts are mostly board committee descriptions (Audit, Compensation, Sustainability and Executive committees) plus a compensation discussion that stresses performance-based incentive pay, with no human-capital or DEI text captured.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The governance excerpt is a committee table and independence analysis, and the compensation excerpt describes an incentive-heavy pay program for named executive officers, including former CFO Donald Blair.",
+    "notable_shifts": "The governance excerpt updates board leadership, attributing the Lead Independent Director role to Timothy Cook and reflecting Philip Knight's retirement in the independence analysis, while the committee descriptions and pay program are largely unchanged from 2016."
+  },
+  "2018": {
+    "emphasis_summary": "The environment excerpt describes the Sustainability & Governance Committee and its oversight of sustainability and governance, and the compensation excerpt is a CD&A on pay decisions with an emphasis on performance-based incentives.",
+    "notable_shifts": "The Sustainability Committee is renamed the Sustainability & Governance Committee, signaling a combined sustainability and governance remit, while the CD&A structure is largely unchanged."
+  },
+  "2019": {
+    "emphasis_summary": "The environment excerpt is a CEO letter about running sustainably and staying on the offense, emphasizing board refreshment through three new independent directors, and the compensation excerpt is a CD&A table of contents and objectives section.",
+    "notable_shifts": "The environment excerpt moves from committee charters to a shareholder letter stressing board refreshment, and diversity references appear for the first time in it (6 references, up from 1)."
+  },
+  "2020": {
+    "emphasis_summary": "The environment excerpt is a shareholder letter about sustainable growth under the Consumer Direct Acceleration strategy, retaining the director skills matrix introduced the year before, and the compensation excerpt is a condensed CD&A introduction written for readability.",
+    "notable_shifts": "The 2020 letter adds Consumer Direct Acceleration strategy messaging, and the compensation text shifts from committee mechanics toward making the CD&A easier for shareholders to read."
+  },
+  "2021": {
+    "emphasis_summary": "The human-capital excerpt sets workforce and leadership goals, including increasing U.S. racial and ethnic minority representation at the Director level and above, and the diversity excerpt covers DE&I and pay equity at all levels with 58 diversity references.",
+    "notable_shifts": "DE&I content moves from absent in 2020 to the most substantive section in the NKE series, with specific representation targets and pay-equity commitments."
+  },
+  "2022": {
+    "emphasis_summary": "The human-capital excerpt repeats the 2021 workforce and minority-representation targets, and the diversity excerpt describes committee oversight of DE&I objectives and of the social, political and environmental impact of company activities.",
+    "notable_shifts": "The 2021 targets carry forward with little change, and the DE&I text shifts from target-setting to committee oversight, while the compensation excerpt explains an evolved long-term incentive program."
+  },
+  "2023": {
+    "emphasis_summary": "The environment excerpt describes a director-resignation policy routed through the Sustainability & Governance Committee, the compensation excerpt covers the say-on-pay results and the company's response plus revised political-activity transparency, and the human-capital excerpt repeats the minority-representation targets.",
+    "notable_shifts": "A director-resignation procedure tied to majority voting appears in the governance text, and the compensation section adds a say-on-pay response and expanded political-contribution transparency in place of 2022's long-term incentive emphasis."
+  },
+  "2024": {
+    "emphasis_summary": "The human-capital excerpt reports pay-equity and representation data (women at 51% of the workforce and 44% of leadership) with a best-practice pay-equity reporting method, and the compensation excerpt lists shareholder proposals alongside the say-on-pay vote.",
+    "notable_shifts": "Human capital moves from goal-level language to quantified pay-equity and representation data, and the compensation section adds a shareholder-proposal section that the earlier years lack."
+  }
+}

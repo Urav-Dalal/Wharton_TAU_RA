@@ -1,0 +1,34 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts are dominated by board nomination criteria and the Nominating/Governance Committee's oversight of the Global Responsibility Report, plus a shareholder human rights review proposal (Proposal 6) that the board recommended against; the human_capital and diversity_dei fields are empty.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The text is nearly a verbatim repeat of 2016's nominations-policy and Global Responsibility Report passages, including the minimum director criteria and a 'desirable qualities' list that calls for diversity of perspectives and experience.",
+    "notable_shifts": "Substantive content is almost unchanged from 2016 even though the classical net tone fell from 5.53 to 3.48, so the tone drop does not show up in these excerpts. The visible differences are formatting artifacts and a Chair-review paragraph, which points to a shifted extraction window rather than a change in disclosure."
+  },
+  "2018": {
+    "emphasis_summary": "This is the first year the human_capital and diversity_dei fields are populated, and their text centers on a shareholder proposal for paid family leave that cites Bureau of Labor Statistics and New York Times data and invokes Starbucks's commitment to non-discrimination and inclusion.",
+    "notable_shifts": "Compared with 2017, the human_capital and diversity_dei fields go from empty to populated, so much of the apparent increase in those themes is a coverage change; the content that now appears is a labor-policy debate rather than the nominations and CSR text of the earlier years."
+  },
+  "2019": {
+    "emphasis_summary": "The diversity_dei field is mostly environmental material, led by a shareholder proposal on sustainable packaging (Proposal 5) and a separate proposal the board recommended against (Proposal 4), while human_capital is mainly board biographies and skills summaries such as one director's experience leading a multinational enterprise.",
+    "notable_shifts": "Packaging and sustainability proposals take over the diversity field from the paid-leave debate, and human_capital moves from labor policy to director biographies. Net tone rises modestly from 6.01 to 6.28."
+  },
+  "2020": {
+    "emphasis_summary": "The diversity_dei field carries the heaviest diversity language in the series so far (51 hits), while human_capital pairs a skills matrix that includes Human Capital Management Experience with a Talent and Culture statement tying nominee selection to board diversity and collaborative chemistry, plus an independent external board review every three years.",
+    "notable_shifts": "Diversity keywords in diversity_dei jump from 1 to 51 relative to 2019, and the field stops carrying environmental proposal text, making this the clearest diversity shift in the series. Net tone rises from 6.28 to 6.81."
+  },
+  "2021": {
+    "emphasis_summary": "Board composition is framed around a stated commitment to inclusion and diversity, with a statement that Starbucks recently joined the Board Diversity Action Alliance, alongside the expected succession of Mellody Hobson as independent board chair and a likely new Audit Committee chair.",
+    "notable_shifts": "The diversity emphasis continues (27 hits in diversity_dei) but now points to a named external commitment and a board leadership transition rather than general nominee criteria. Net tone edges up from 6.81 to 6.91."
+  },
+  "2022": {
+    "emphasis_summary": "Inclusion and belonging are described as everyday realities and diversity goals are said to be tracked with transparency, alongside mentorship, on-site training, paid leave, childcare benefits, and workforce retention investments; this filing has the highest net tone in the series (9.59).",
+    "notable_shifts": "Relative to 2021 the text moves from board-composition statements toward a narrative of people investments and diversity-goal tracking, and compensation-term hits in the compensation field rise from 12 to 22. Net tone climbs from 6.91 to 9.59."
+  },
+  "2023": {
+    "emphasis_summary": "Human capital and sustainability lead the excerpts, with a shareholder-engagement summary listing inclusion, human rights, supply chain, and sustainability programs, a board skills matrix that adds Environmental/Climate Change Experience, and an interim-CEO pay disclosure (a $1 base salary and no annual cash incentive eligibility).",
+    "notable_shifts": "Diversity keywords in the diversity_dei field fall from 26 in 2022 to 4, while climate and sustainability wording enters the skills matrix and the human_capital field takes on the interim-CEO pay disclosure. Net tone falls from 9.59 to 6.92."
+  }
+}

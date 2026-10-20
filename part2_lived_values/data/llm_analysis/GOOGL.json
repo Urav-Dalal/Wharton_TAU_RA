@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The human_capital and environment excerpts are mostly shareholder-proponent text (women make up about 30% of employees and 21% of leadership, and the proponent urges Google to challenge the Chamber of Commerce's climate policy), so company-authored content is limited to governance and compensation boilerplate and diversity_dei is empty.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The human_capital excerpt shifts to company content on gender pay equity (pay targets set by job and regular pay-equity analyses), while the environment excerpt repeats the 2016 proponent climate text with Google replaced by Alphabet.",
+    "notable_shifts": "The human_capital section moves from proponent criticism of women's representation to company description of pay-equity practice, including a commitment to update workforce diversity data annually. The environment text is carried over almost verbatim."
+  },
+  "2018": {
+    "emphasis_summary": "Human_capital is proponent text citing 2017 press on racial and gender discrimination and calling for diversity metrics in executive pay, and diversity_dei lists stockholder proposals on board diversity rather than company commitments.",
+    "notable_shifts": "The 2018 human_capital text drops the company-side pay-equity description from 2017 in favor of proponent-authored critique citing Washington Post, Guardian and NPR reporting. The diversity_dei section, empty in 2017, now holds a list of stockholder proposals."
+  },
+  "2019": {
+    "emphasis_summary": "The human_capital section is a proponent case for tracking gender pay gaps, followed by Alphabet's opposing statement, and the diversity_dei and environment sections describe Alphabet's DEI and renewable-energy work in company voice.",
+    "notable_shifts": "The company now responds in its own voice, describing an annual pay-equity analysis that accounts for location, level and performance. It also adopts a DEI framing that commits to more transparency on representation, hiring, retention and compensation, which the 2018 excerpts do not contain."
+  },
+  "2020": {
+    "emphasis_summary": "The COVID-19 workforce response leads human_capital, followed by company sustainability claims (carbon-neutral since 2007, the largest corporate renewable energy purchase in 2019) and an emphasis on human-rights impact assessments under the UN Guiding Principles.",
+    "notable_shifts": "The proponent-authored climate and pay-equity text of 2016 to 2019 is replaced by company-voiced metrics, including a pay-equity report covering 93% of Googlers, alongside a new COVID-19 workforce narrative."
+  },
+  "2021": {
+    "emphasis_summary": "The most quantified commitments in the sample appear here: 24/7 carbon-free energy in all data centers, 5 gigawatts of new carbon-free energy, 1 gigaton of city emissions reductions, and a 30% improvement in underrepresented-group leadership representation by 2025.",
+    "notable_shifts": "The 24/7 carbon-free energy goal and the 2025 underrepresented-leadership target first appear in 2021. The term carbon-free appears roughly ten times in the 2021 excerpts and not at all in 2020."
+  },
+  "2022": {
+    "emphasis_summary": "Board committee oversight and a carbon-free moonshot narrative dominate, with the Leadership Development, Inclusion and Compensation Committee's remit expanded to human capital management, DEI, workplace safety and corporate culture.",
+    "notable_shifts": "The committee's mandate is expanded to cover workplace environment, safety and corporate culture. The compensation section also adds an ESG bonus for Google's senior executive team, which first appears in this sample in 2022."
+  },
+  "2023": {
+    "emphasis_summary": "Civil-rights audit results, a company-wide human-rights due diligence approach and board composition (sixty-four percent of directors female or from an underrepresented community) lead the excerpts, with the ESG bonus still in the pay section.",
+    "notable_shifts": "The 2023 excerpts introduce a voluntary civil rights audit conducted by an outside law firm, which appears in no earlier year. They also state board composition as a 64% figure, alongside a company-wide human-rights due diligence approach."
+  },
+  "2024": {
+    "emphasis_summary": "Human capital and talent management lead the board-level discussion, with the Board Diversity Matrix and pay-design bullets on continuous risk oversight, while climate and sustainability content appears mainly as board-engagement narrative.",
+    "notable_shifts": "The ESG bonus that appeared in the 2022 and 2023 pay best-practices lists is gone in 2024. The 2024 list instead adds continuous risk oversight and independent compensation consultant language."
+  }
+}

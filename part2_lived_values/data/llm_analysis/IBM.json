@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts are mostly governance and compensation-committee charter text (officer pay oversight, executive compensation philosophy, Board independence criteria, stockholder-proposal review), with seven climate-related mentions in the environment label and no DEI section.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The 2017 excerpts are nearly identical to 2016, repeating the committee-charter description (workforce diversity, environment, public-interest proposals) and the compensation committee's equity-plan and officer-pay responsibilities, with seven climate mentions again.",
+    "notable_shifts": "Little changes versus 2016: the committee-charter and compensation-committee passages recur with near-identical wording and the climate-mention count is unchanged, so no new commitments or metrics appear."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts center on director nomination and Board composition, with the nominating committee now explicitly screening candidates for gender and ethnic diversity, and an environment label that is partly table-of-contents text with general sustainability wording.",
+    "notable_shifts": "Versus 2017, the nominating committee's stated criteria add gender and ethnic diversity of candidates, and the environment label drops its climate wording (seven mentions in 2017, none in 2018) in favor of general sustainability language (three mentions)."
+  },
+  "2019": {
+    "emphasis_summary": "The DEI and environment sections are now populated with program-level detail: named diversity programs (Tech Re-Entry, Business Resource Groups), supplier diversity and the Responsible Business Alliance supplier code, and Sustainable Development Goal alignment including renewable-energy sourcing.",
+    "notable_shifts": "Versus 2018, the 2019 text adds named DEI programs, supplier-diversity and supplier-code commitments, and explicit SDG framing (renewable-energy sourcing, product reuse and recycling), where 2018 offered only general sustainability references and no DEI section."
+  },
+  "2020": {
+    "emphasis_summary": "The governance and human-capital labels center on the CEO transition (Ginni Rometty to Executive Chairman, Arvind Krishna as CEO effective April 6, 2020 after the Red Hat acquisition), and the environment label is now climate-focused under a 'Sustainability is Smart Business' framing.",
+    "notable_shifts": "Versus 2019, the environment label gains six climate mentions (none in 2019) and the excerpts add a director-tenure discussion (average tenure under six years) and the history of the Lead Director role, while the 2019 DEI program detail is no longer the lead item."
+  },
+  "2021": {
+    "emphasis_summary": "The excerpts lead with the Board chair transition (Krishna elected Chairman effective January 1, 2021 after Rometty retired as Executive Chairman) and the independent Lead Director role, followed by stockholder engagement on diversity, inclusion, and environmental goals, with environment and DEI text more specific than in 2020.",
+    "notable_shifts": "Versus 2020, 'inclusion' appears in the DEI text and 'renewable' and 'emission' appear in the environment label (renewable-energy and emissions wording), where the 2020 text used only climate and energy language."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts are governance-heavy (director nominees, auditor ratification, equity plan amendment), with the human-capital section mostly table-of-contents text apart from a statement advocating policies against workforce discrimination, and the DEI label carrying performance-metric language.",
+    "notable_shifts": "Versus 2021, the turnover metrics drop out of the workforce text and are replaced by policy-advocacy language on discrimination and inequities, and the environment section drops its sustainability references (four in 2021, none in 2022)."
+  },
+  "2023": {
+    "emphasis_summary": "The environment section returns with renewable-energy, climate (four mentions), and sustainability (three mentions) language, the compensation label covers related-person transactions and committee independence rather than pay design, and DEI is limited to a few diversity, women, and equity mentions.",
+    "notable_shifts": "Versus 2022, the environment section adds sustainability and renewable-energy wording and raises climate mentions from two to four, while the compensation label contains no pay-design content."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts emphasize stockholder feedback and board practices (an 'Enhancing Practices' passage, a 13-director board after the 2024 meeting, a director-selection process built on core attributes) and risk oversight.",
+    "notable_shifts": "Versus 2023, the 2024 excerpt adds overboarding discussion (none in 2023, four in 2024) and a stockholder-feedback passage crediting 2023 changes (trade-association disclosure, a director overboarding policy), and climate mentions fall from four to one."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Excerpts emphasize workforce culture and pay design (a consistent approach to compensation at all levels regardless of nationality, supporting a diverse workforce), with environmental content limited to director biographies and sustainability-committee membership lines.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Diversity becomes a populated topic in the board-nominee section (three women nominees and eight non-U.S. nominees), while the environmental excerpt carries a pay-scorecard item on sustainable operations and reduced non-productive time with safety references.",
+    "notable_shifts": "Compared with 2016, the diversity_dei section is populated for the first time, and the environmental excerpt shifts from director bios to an operational scorecard item that ties sustainability to safety and productivity."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts are mostly board skill matrices and a risk-oversight table that assigns environmental, social and governance risks to a board committee, with the workforce paragraph unchanged from 2016 and 2017.",
+    "notable_shifts": "The 2017 scorecard item on sustainable operations and safety drops out, and ESG content becomes governance-oriented (board-committee ESG risk oversight) rather than performance-oriented."
+  },
+  "2019": {
+    "emphasis_summary": "This is the most substantive environmental excerpt in the SLB sample so far, describing a climate-risk review by an independent consultant that covers sea-level change, SLB's geologic carbon storage research dating to the mid-1990s, and a goal to lower greenhouse gas emissions in field operations.",
+    "notable_shifts": "This is the first year the SLB excerpts carry concrete climate and carbon-storage content (about 26 climate and carbon mentions, against essentially none in 2016 through 2018), replacing the director-bio and risk-table text of earlier years."
+  },
+  "2020": {
+    "emphasis_summary": "The 2020 excerpts are mostly table-of-contents headings ('Protecting the Environment and Addressing Climate Change', 'Board Oversight of Environmental Issues') and an ESG engagement description, with human capital setting a 25 percent gender-balance goal across the workforce by 2025.",
+    "notable_shifts": "The 2019 carbon-storage and field-emissions specifics disappear from the excerpt, leaving environmental headings only, while the concrete social commitment (25 percent gender balance by 2025) becomes the most quantified item."
+  },
+  "2021": {
+    "emphasis_summary": "The 2021 excerpts are the most quantified on emissions in the SLB sample, citing a 14 percent reduction in Scope 1 and Scope 2 emissions in 2020, more than 100 impact-reducing technologies, and New Energy ventures in hydrogen, lithium and carbon capture and sequestration.",
+    "notable_shifts": "Compared with 2020's headings-only environmental text, the 2021 excerpt adds a specific 2020 reduction figure and a count of decarbonization technologies, and carbon and ESG-scorecard items appear in the compensation section, tying sustainability more directly to performance."
+  },
+  "2022": {
+    "emphasis_summary": "The 2022 excerpts describe product and portfolio decarbonization, including a Transition Technology portfolio for decarbonizing oil and gas operations and Schlumberger New Energy's low-carbon projects, alongside an upgraded MSCI AA rating and an ESG award.",
+    "notable_shifts": "The 2021 focus on a quantified 2020 emissions cut gives way to product-and-portfolio framing, and the compensation section now states that every named executive has at least one personal objective on sustainability, new energy or HSE, making ESG a universal pay element rather than a scorecard item."
+  },
+  "2023": {
+    "emphasis_summary": "The 2023 excerpts emphasize workforce gender targets (women at 25 percent of salaried employees by 2025 and 30 percent by 2030, including executive roles) and an 'Energy Innovation, Lower Carbon and Higher Value' strategy, with carbon content limited to strategy statements.",
+    "notable_shifts": "Diversity moves from board-composition language to quantified workforce milestones, and the environmental text loses the 2022 product specifics in favor of strategy-level lower-carbon language."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 excerpts tie pay to emissions: the 2023 short-term incentive plan adds a quantitative component on Scope 3 emissions intensity and gender diversity, and the letter reports Scope 1, 2 and 3 emissions intensity reduced in 2023 against a 2025 commitment.",
+    "notable_shifts": "This is a clearer step than the 2023 strategy language: emissions reduction becomes a quantified short-term incentive component, and the letter reports actual 2023 intensity reductions across Scope 1, 2 and 3 instead of describing intent."
+  }
+}

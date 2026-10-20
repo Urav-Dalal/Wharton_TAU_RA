@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The environment excerpt pairs Tesla's sustainable-transport mission with a defense of its limited supermajority voting provisions against a stockholder proposal for simple majority voting, while the compensation and governance excerpts are mostly table-of-contents pages.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The environment excerpt argues that staggered three-year board terms enable long-term decisions such as Gigafactory 1, the Supercharger network and the SolarCity acquisition, and it opposes a stockholder proposal to declassify the board.",
+    "notable_shifts": "The focus moves from supermajority voting thresholds to board classification, and the sustainable-energy mission is now tied to specific strategic decisions rather than stated as a goal."
+  },
+  "2018": {
+    "emphasis_summary": "The environment excerpt restates the mission of accelerating the world's transition to sustainable energy but is mostly compensation text, while the compensation excerpt adds a pay-ratio disclosure.",
+    "notable_shifts": "The mission statement widens from electric vehicles to energy storage and solar installation, and the 2018 compensation section is the first in the sample to list a pay-ratio disclosure."
+  },
+  "2019": {
+    "emphasis_summary": "The human-capital and environment excerpts are board-refreshment text about renominating two Class III directors and a workforce-optimization review, and the compensation excerpt is a table of contents.",
+    "notable_shifts": "Board nomination and workforce-optimization language replaces the 2018 mission framing, so the sustainability theme is largely absent and the excerpts concentrate on board composition."
+  },
+  "2020": {
+    "emphasis_summary": "The environment excerpt is a proponent's supporting statement urging Tesla to use advertising to promote climate-damage avoidance and tying that to human-rights concerns, while the human-capital excerpt covers the SEC settlement over Elon Musk's 2018 Twitter post and workforce matters.",
+    "notable_shifts": "Environment shifts from board-structure text to a proponent statement on climate advertising, and the human-capital excerpt adds diversity references (17) and the SEC settlement, introducing a legal-risk element absent in 2019."
+  },
+  "2021": {
+    "emphasis_summary": "The diversity excerpt is dominated by a stockholder proposal that critiques Tesla's 2020 Diversity, Equity and Inclusion Impact Report and asks for more disclosure on human-capital management effectiveness, and the human-capital excerpt lists proposals on human-rights reporting and a board-level human-capital committee.",
+    "notable_shifts": "Diversity becomes the largest theme (the diversity section rises from empty to 56 diversity references), and the proposal set moves from climate advertising in 2020 to human-capital, diversity and human-rights reporting."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts list stockholder proposals on board diversity, employee arbitration and lobbying, each marked AGAINST, and the environment excerpt is a director biography rather than an environmental discussion.",
+    "notable_shifts": "The diversity topic shifts from DEI reporting to board-diversity and governance proposals, adding employee-arbitration and lobbying reports, while the environment excerpt loses its climate content to director-bio text."
+  },
+  "2023": {
+    "emphasis_summary": "The excerpts are largely table-of-contents pages, with board-diversity disclosure (21 references) as the main substantive topic and a board statement on workforce management in the human-capital excerpt.",
+    "notable_shifts": "The stockholder-proposal framing from 2022 disappears, and the environment excerpt returns to a sustainable-energy mission narrative built on historical decisions such as Gigafactory and the SolarCity acquisition."
+  },
+  "2024": {
+    "emphasis_summary": "The environment excerpt is a shareholder-letter passage on factory ramp-up, energy storage, full self-driving and Optimus, while the other excerpts remain table-of-contents and workforce-oversight text.",
+    "notable_shifts": "The environment excerpt moves from a historical account of past decisions (2023) to forward-looking growth bets, and it adds a reference to letters received from thousands of stockholders."
+  }
+}

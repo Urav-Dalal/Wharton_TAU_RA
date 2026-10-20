@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Anchored in say-on-pay support history (95% in 2015, 96% in 2014) and stockholder-engagement feedback on the compensation program, with patient-safety and product-quality commitments; the human-capital and diversity sections are blank.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Reports 2016 say-on-pay support of 94% and explains that the compensation peer group was simplified into the AbbVie Health Care Peer Group, with long-term incentive design as the main compensation topic.",
+    "notable_shifts": "Reported say-on-pay support slips from 95% to 94%, and long-term incentive references rise from nine to 16. The peer group is simplified, while environmental and climate language remains almost absent (one environment mention)."
+  },
+  "2018": {
+    "emphasis_summary": "Introduces substantial environmental and social content, including a CDP A- climate score, Dow Jones Sustainability Index leadership, workforce diversity recognition and a human-rights commitment.",
+    "notable_shifts": "Environmental references go from one to 19 and emissions references from zero to 16 for the first time, while the compensation-program language recedes (long-term incentive references fall from 16 to two). Women-related and human-rights references also appear (four and five mentions)."
+  },
+  "2019": {
+    "emphasis_summary": "Highlights a women-in-management push (47% of management positions globally held by women) with a new Women's Leadership Program, plus human-rights and occupational-safety recognition from the Dow Jones Sustainability Index.",
+    "notable_shifts": "Women-related references surge from four to 15 and emissions references drop from 16 to zero, while peer-group discussion peaks at eight mentions (from one)."
+  },
+  "2020": {
+    "emphasis_summary": "Focuses on COVID-19 (a virtual annual meeting for stockholder safety), responsible drug-pricing commitments, and a broad clawback authority to recover incentive-plan awards.",
+    "notable_shifts": "Drug-pricing references jump from two to 10 and COVID-19 appears for the first time (one mention), while women-related mentions fall from 15 to six."
+  },
+  "2021": {
+    "emphasis_summary": "Centers on the COVID-19 response (including the NIH-led ACTIV partnership), publication of the EEO-1 report, board diversity data, and expanded anti-hedging and clawback language.",
+    "notable_shifts": "COVID-19 references surge from one to 23 and anti-hedging references jump from two to eight, while drug-pricing references fall from 10 to zero."
+  },
+  "2022": {
+    "emphasis_summary": "Describes an environmental sustainability strategy built on reducing the company's environmental footprint and growing sustainably, with an expanded clawback description, board diversity data and rising majority-voting and proxy-access references.",
+    "notable_shifts": "Sustainability references nearly triple (eight to 23) and environment references jump from one to 12 in the human-capital excerpt, while COVID-19 references drop from 23 to zero."
+  },
+  "2023": {
+    "emphasis_summary": "Points to the ESG Action Report and 2023 ESG highlights, and frames environmental strategy as reducing footprint and growing sustainably through innovation, with clawback and board diversity data.",
+    "notable_shifts": "Greenhouse-gas and carbon-target language appears (two mentions, from zero) and emissions references return (two, from zero), while the broader sustainability-strategy language stays roughly flat at 24 mentions."
+  },
+  "2024": {
+    "emphasis_summary": "Centers on the ESG Action Report's alignment with the UN Sustainable Development Goals and SASB, a board-diversity and EEO-1 workforce overview, and majority-voting, clawback and anti-hedging policies.",
+    "notable_shifts": "Majority-voting references jump from seven to 20 and clawback references rise from three to six, while sustainability mentions fall from 24 to 13 and greenhouse-gas target language drops from two to one."
+  }
+}

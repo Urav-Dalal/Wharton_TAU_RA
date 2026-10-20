@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts are mostly CD&A and governance boilerplate: the human capital section carries compensation-philosophy and say-on-pay text, the environment section is dominated by risk-committee oversight of credit, market, operational and reputational risk, and DEI is absent.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Compensation and governance excerpts are heavily table-of-contents driven with say-on-pay and shareholder-proposal framing, the environment section centers on ESG and proposal-list text, and DEI remains empty.",
+    "notable_shifts": "The CD&A business summary now explicitly ties 'reinforcing our corporate culture' and 'long-term investments in our people' to firm performance, and the human capital excerpt adds a clawbacks cross-reference and ROTCE footnote. Governance adds Supplier Code of Conduct and Code of Ethics for Finance Professionals entries alongside the existing Code of Conduct text."
+  },
+  "2018": {
+    "emphasis_summary": "Human capital is now dominated by the Firm's risk-oversight and employee-conduct framework (risk language is the most frequent theme), the environment section shifts to shareholder-engagement statistics (more than 80 discussions with holders of over 45% of shares in 2017), compensation keeps the pay-for-performance framework with a CEO pay ratio, and DEI remains empty.",
+    "notable_shifts": "Environment is rebuilt around quantified shareholder outreach, a new engagement-based ESG framing that did not appear in the 2016-2017 excerpts. Governance adds a Proposal 2 entry to ratify special-meeting provisions in the By-Laws and a Section 16(a) compliance heading."
+  },
+  "2019": {
+    "emphasis_summary": "The 2019 excerpts are mainly governance-structure and table-of-contents text: human capital describes Board oversight of ESG, human capital strategy and stakeholder engagement, the environment section is a list of ESG and related-party topics, and compensation and governance focus on pay practices and the Code of Conduct, with DEI still empty.",
+    "notable_shifts": "Human capital now names 'human capital strategy' and 'how we advance sustainability' as explicit Board oversight areas and adds an 'Active Board engagement' framework that includes employees, while the environment section adds 'Engagement with ESG stakeholders' and political activities and lobbying headings. Governance adds a Compensation Committee interlocks and insider participation disclosure, and compensation's pay-ratio discussion is carried forward with little other change."
+  },
+  "2020": {
+    "emphasis_summary": "The 2020 excerpts pivot to say-on-pay and shareholder engagement, reporting the 2019 say-on-pay vote at 72% support after several years above 91%, while governance expands the Code of Conduct (27 mentions of the term) and the environment section lists shareholder proposals on climate risk reporting and gender and racial pay equity; DEI remains empty.",
+    "notable_shifts": "The 2019 say-on-pay drop to 72% is new and drives a broader shareholder-outreach program with a heightened focus on executive compensation feedback. The Code of Conduct description gains annual affirmation, training and speak-up requirements, and the environment excerpt now carries a proposal list that includes climate change risk reporting and gender and racial pay equity."
+  },
+  "2021": {
+    "emphasis_summary": "The 2021 excerpts are shaped by the pandemic and climate: human capital inventories COVID-era employee benefits (over $100 million in special payments, childcare support and expanded well-being resources), the DEI section is framed around 'advancing climate solutions' after a 48.6% shareholder vote on climate risk reporting, the environment section highlights Paris-aligned financing, $220 billion for SDG-linked transactions and a $1 billion green bond, and governance expands on the Code of Conduct and supplier code.",
+    "notable_shifts": "The DEI section appears for the first time, but it is organized around climate rather than workforce or program metrics, tied to the 48.6% climate-proposal vote. Human capital adds a detailed pandemic-response inventory, and environment adds 2020 commitments to align financing with the Paris Agreement, the inaugural $1 billion green bond and the Board's role in sustainability."
+  },
+  "2022": {
+    "emphasis_summary": "The 2022 excerpts emphasize management development, succession and human-capital oversight, with the DEI section largely a list of shareholder proposals (a board diversity resolution, public benefit corporation conversion and absolute GHG contraction targets) rather than program content, while compensation is mostly table-of-contents text and governance restates the Code of Conduct.",
+    "notable_shifts": "The DEI section shifts from climate framing to a list of governance-related shareholder proposals, and environment adds management-development and 'deep bench of potential leaders' language tied to firm culture. Human capital now explicitly lists DEI, climate change risk and ESG-related disclosures among the topics the Board engages management on."
+  },
+  "2023": {
+    "emphasis_summary": "The 2023 excerpts center on JPMorgan's racial-equity and board-diversity disclosures, including a $30 billion Racial Equity Commitment with nearly $29 billion of reported progress by end-2022 and a board diversity matrix covering gender, race and ethnicity, LGBTQ+ status and military status, while the say-on-pay response commits to no future special awards to Jamie and Mr. Pinto and governance adds more Code of Conduct training language.",
+    "notable_shifts": "Human capital and DEI both acquire specific, quantified commitments, with the Racial Equity Commitment progress figure and the board matrix appearing for the first time in this sample. Compensation adds a shareholder-engagement response to the prior year's say-on-pay vote and a commitment not to grant future special awards, tied to the one-time awards made in 2021."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 excerpts reframe DEI as both 'a moral imperative and a strategic driver' while rejecting 'simplistic statements or arbitrary rules,' the environment section adds AI investment and misuse controls alongside Board oversight of climate and DEI, compensation adds a pay-versus-performance disclosure, and governance centers on the Code of Conduct and the anonymous hotline.",
+    "notable_shifts": "The DEI language is rewritten, moving away from the 2023 board-matrix and racial-equity metrics toward a principles-based statement that the Firm will make decisions 'rather than adhering to simplistic statements or arbitrary rules.' Environment adds AI as a strategic and risk topic, and compensation adds a pay-versus-performance disclosure section that was absent in the 2023 excerpt."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts are dominated by director biographies and Chairman-authority governance text, with environmental content limited to a general commitment to safety, health, the environment and social responsibility and a director's environmental-programs experience.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The environment field is production- and cost-focused ('sustainable competitive advantages due to our portfolio, technology and people,' lower production costs while keeping the dividend), and the governance field lists the Environmental, Health and Safety Committee's compliance review duties.",
+    "notable_shifts": "Versus 2016's director-biography focus, 2017 shifts to operating-performance language on cost reduction and the dividend, and environmental content is framed as committee oversight rather than a director's experience."
+  },
+  "2018": {
+    "emphasis_summary": "The 2018 excerpts are the first to reference the company's climate report, 'Climate-Related Risks and Opportunities: Positioning for a Lower-Carbon Economy,' said to be shaped by shareholder meetings, and the EHS Committee's remit extends to reviewing climate-related matters.",
+    "notable_shifts": "Compared with 2017's cost and production framing, 2018 adds a dedicated climate report and gives the EHS Committee a climate-risk review role, so environmental content now has its own disclosure document."
+  },
+  "2019": {
+    "emphasis_summary": "The environmental focus is operational: Permian Basin water recycling capacity to minimize freshwater use, the first climate report plus CDP climate and water reports, and the formation of Oxy Low Carbon Ventures to advance low-carbon technologies.",
+    "notable_shifts": "Compared with 2018's climate-disclosure framing, 2019 adds operating-level water actions and a dedicated low-carbon business unit, so the environmental emphasis moves from reporting toward project execution."
+  },
+  "2020": {
+    "emphasis_summary": "The compensation and governance text is dominated by COVID-era pay reductions (base salaries of the other named officers cut by an average of 64% and director compensation cut 15%), with climate appearing only as references to the CDP climate and water reports.",
+    "notable_shifts": "Relative to 2019's water and low-carbon project detail, 2020 is dominated by crisis-driven compensation cuts and the environmental language recedes to report references."
+  },
+  "2021": {
+    "emphasis_summary": "Environment becomes the lead theme: an 'Advancing a Low-Carbon Future' passage commits to net-zero emissions from operations before 2040 and net-zero product-use emissions by 2050, and the bonus design ties pay to 'net emission reduction efforts' through a larger sustainability metric.",
+    "notable_shifts": "Versus 2020's pay-cut emphasis, 2021 is the first year the sample shows net-zero (set in November 2020), and the bonus gives the sustainability metric more weight, with CEO direct target pay cut 29% against pre-COVID levels, so the emphasis moves from crisis cost-cutting to decarbonization commitments."
+  },
+  "2022": {
+    "emphasis_summary": "The environment field carries the most climate and GHG detail in the sample, describing net-zero goals for total Scope 1, 2 and 3 carbon inventory and a shareholder proposal for quantitative, Paris-consistent GHG targets that the board recommends against.",
+    "notable_shifts": "Compared with 2021's operations-focused net-zero target, 2022 extends the goal to Scope 1, 2 and 3 emissions, adds methane as a named topic (absent from 2021's environment field), and records shareholder pressure for quantitative targets that the board opposes."
+  },
+  "2023": {
+    "emphasis_summary": "The environment field reports operational decarbonization milestones (Zero Routine Flaring achieved ahead of the World Bank's 2030 initiative, a Direct Air Capture plant under construction, and over 400 square miles secured for Gulf Coast sequestration hubs) under a 'Strategy to Achieve Net Zero' heading.",
+    "notable_shifts": "Versus 2022's commitments and shareholder-proposal language, 2023 reports delivery milestones, and methane mentions in the environment field fall from 8 to 2."
+  },
+  "2024": {
+    "emphasis_summary": "The environment field centers on the net-zero pathway for Scope 1, 2 and 3 emissions, carbon dioxide removal credit contracts, and the November 2023 acquisition of the remaining equity of 'CE' to accelerate direct air capture cost reductions, framed alongside a 'sustainable and growing dividend.'",
+    "notable_shifts": "Compared with 2023's plant and acreage milestones, 2024 shifts to capital allocation and market development (full ownership of the DAC business and carbon removal contracts), and the dividend and debt-reduction framing now sits in the same text as the decarbonization goals."
+  }
+}

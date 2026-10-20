@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts stress supply-chain ethics (conflict-minerals sourcing), energy-efficiency and climate-related environmental goals, and a diversity commitment (a $300 million effort and a goal of full representation of women and underrepresented minorities in the U.S. workforce), placed mostly outside the empty DEI label, with governance text on Lead Director retirement.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The excerpts restate the $300 million diversity commitment, and the human-capital and governance text centers on a Lead Director transition (Donahoe and Plummer retiring, Aneel Bhusri named the new Lead Director) and supply-chain responsibility language.",
+    "notable_shifts": "Versus 2016, the 2017 excerpt restates the $300 million commitment and attaches a 2020 target date to the full-representation goal, with the Lead Director transition as the main governance change."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts emphasize supply-chain human-rights risk (forced and bonded labor, responsible minerals), Board turnover (three long-tenured directors retiring and a new independent director), and sustainability-focused environment text.",
+    "notable_shifts": "Versus 2017, the 2018 excerpt adds forced and bonded labor language (four mentions, none in 2017), doubles sustainability references from three to six, and gives the compensation text two philosophy and two target mentions, up from one each."
+  },
+  "2019": {
+    "emphasis_summary": "The excerpts are ESG-framed, with environment content leading (sustainability, emissions, climate, and renewable energy), a populated DEI section on diversity, equity, and gender, and a Board statement that ESG considerations are embedded in strategy, compensation, and long-term goals.",
+    "notable_shifts": "Versus 2018, the DEI text expands (diversity, equity, and gender language where 2018 had one diversity mention), the excerpt adds a definition of the climate footprint (emissions from operations, supply chain, and product use), and ESG oversight is described as built into compensation."
+  },
+  "2020": {
+    "emphasis_summary": "The human-capital label is a headed 'Human Capital for Success' section describing tracked metrics (workforce demographics, diversity and inclusion data, turnover, and training), followed by a 'Focus on Sustainability and Climate Impact' passage.",
+    "notable_shifts": "Versus 2019, the 2020 excerpt says the 2018 goal of full representation of women and underrepresented minorities in the U.S. workforce was met and introduces turnover and training metrics, none of which appear in the 2019 human-capital text."
+  },
+  "2021": {
+    "emphasis_summary": "The workforce section ('Workforce for Success') leads with talent attraction and retention, workforce demographics and diversity data tracking, and the share of employees in technical roles, while sustainability content moves into a short environment section.",
+    "notable_shifts": "Versus 2020, training data drops out of the workforce section, the technical-role share is cited as about 90 percent (85 percent in 2019), and the 2020 'Focus on Sustainability and Climate Impact' passage is replaced by environment-label text with four sustainability references and no climate references."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts are governance-heavy (director nominees, auditor ratification, equity plan amendment), with the human-capital section mostly table-of-contents text apart from a statement advocating policies against workforce discrimination, and the DEI label carrying performance-metric language.",
+    "notable_shifts": "Versus 2021, the turnover metrics drop out of the workforce text and are replaced by policy-advocacy language on discrimination and inequities, and the environment section drops its sustainability references (four in 2021, none in 2022)."
+  },
+  "2023": {
+    "emphasis_summary": "The excerpts center on the 2022 Say-on-Pay result (34 percent support) and the Board's stated response to shareholder concerns, while the human-capital section is mostly table-of-contents text and environment content is sparse.",
+    "notable_shifts": "Versus 2022, the 2023 filing newly reports that the 2022 say-on-pay vote drew 34 percent support and describes the Board's response, the most pointed shareholder-relations language in the series, while environment content stays minimal (one sustainability and one climate reference)."
+  },
+  "2024": {
+    "emphasis_summary": "The letter and governance text frame the company's 'transformation' around regaining process and product leadership, and the compensation discussion is now metric-focused (performance metrics, targets, peer comparisons).",
+    "notable_shifts": "Versus 2023, target and metric mentions rise from none to five each in the compensation text, peer references rise from two to three, and sustainability references rise from one to four."
+  }
+}

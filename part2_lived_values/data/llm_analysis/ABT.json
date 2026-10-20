@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts stress board diversity and sustainability leadership, citing that 50% of independent directors are women or minorities and an 11th consecutive year of Dow Jones Sustainability index inclusion.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The 2017 excerpts repeat the 50% women-or-minority independent-director statistic and add product-excellence messaging plus 2014-2015 investments in new product development, manufacturing and supply chain.",
+    "notable_shifts": "Relative to 2016 the emphasis shifts from sustainability-index recognition toward product quality and manufacturing investment, while the board-diversity statistic is repeated."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts now lead with a standalone SUSTAINABILITY section framing Abbott as a responsible and sustainable business that helps people live fuller, healthier lives, alongside Product Excellence language.",
+    "notable_shifts": "The 2018 filing adds the standalone sustainability section and populates human-capital text for the first time (it was empty in 2016 and 2017), though that text is largely auditor-ratification language, which suggests the extraction picked up adjacent content."
+  },
+  "2019": {
+    "emphasis_summary": "Corporate responsibility is the lead theme, framed as Corporate Responsibility and Stewardship with commitments to environmental impact and ethical business, a diverse global footprint with redundancies, and supplier risk evaluation.",
+    "notable_shifts": "The 2018 sustainability wording is re-labeled as Corporate Responsibility and Stewardship, and the excerpt adds supplier-selection and risk-evaluation language and a dedicated senior-management role with regular Board updates."
+  },
+  "2020": {
+    "emphasis_summary": "Sustainability governance leads, with a roadmap focused on the most relevant industry and company-specific risks and opportunities, alongside compensation text that separates long-term incentive decisions (performance through 2018) from annual incentive payouts.",
+    "notable_shifts": "The sustainability section becomes more formal, framed around material risks and opportunities, and the human-capital excerpt returns after being empty in 2019."
+  },
+  "2021": {
+    "emphasis_summary": "The 2030 Sustainability Plan launch leads, framed around new life-changing technologies, affordability and access, and breaking down barriers, with a pandemic-era narrative on maintaining access to essential products.",
+    "notable_shifts": "COVID-19 becomes a heavy theme (about 20 hits, up from none), the 2030 Sustainability Plan replaces the 2020 general roadmap wording, and the Board topics expand to include sustainability reporting."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts combine the 2030 Sustainability Plan with COVID-19 testing leadership, an innovation-pipeline message, and a commitment to expand affordable access to care for underserved, diverse and at-risk communities.",
+    "notable_shifts": "Versus 2021 the excerpts add concrete climate targets (a 30% cut in absolute Scope 1 and 2 carbon emissions from a 2018 baseline) and a fuller board risk-oversight narrative (risk-keyword hits rise from about 6 to about 31), including cybersecurity and data protection."
+  },
+  "2023": {
+    "emphasis_summary": "Climate leads, framed as Build a Foundation for the Future with support for the Science Based Targets initiative and reductions in Scope 1, 2 and 3 carbon emissions, alongside a Board refreshment section.",
+    "notable_shifts": "The 2023 text extends the 2022 Scope 1 and 2 target to Scope 3 and adds SBTi support, and it introduces board-composition and refreshment language (six new independent director nominees since 2018, three women and three minorities)."
+  },
+  "2024": {
+    "emphasis_summary": "Shareholder value leads, with five-year total shareholder return above the peer median credited to strong sustainable performance, and a governance section on board refreshment (six new independent directors since 2018, three women and three minorities).",
+    "notable_shifts": "The 2024 excerpts shift from the 2023 climate and SBTi framing to a TSR and performance narrative, while the board-refreshment statement is repeated nearly verbatim."
+  }
+}

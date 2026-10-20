@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Environmental content is a specific methane-disclosure commitment: a 2015 methane emissions intensity rate for operated wells, a formal voluntary leak detection and repair (LDAR) program using infrared cameras, and low-bleed and no-bleed controllers.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The 2017 environment excerpt contains no environmental content; it is a 2016 performance review (premium resource potential, the Yates Transaction, a 44 percent one-year total return) followed by a compensation summary.",
+    "notable_shifts": "The methane intensity metric, LDAR program and controller commitments from 2016 are gone from the excerpts, and the section that held them is now filled with shareholder-return and acquisition language, a clear loss of environmental specificity."
+  },
+  "2018": {
+    "emphasis_summary": "The environmental material is a promise to publish a standalone sustainability report on EOG's corporate website in 2018, under an 'Environmental, Social and Governance Matters' table-of-contents heading, while the human-capital section is populated for the first time with 2017 operating highlights.",
+    "notable_shifts": "The gap from 2017 is filled only by a commitment to publish a sustainability report, not by the 2016 methane metrics, so environmental content becomes procedural rather than quantitative."
+  },
+  "2019": {
+    "emphasis_summary": "Climate-change risk is described as board-level oversight: management discusses climate change and environmental matters with the board throughout the year, and the Nominating, Governance and Sustainability Committee oversees environmental, social and governance matters.",
+    "notable_shifts": "Environmental content shifts from a report promise to a governance-structure description, with management briefings on climate-change risk and a board committee named for sustainability becoming the lead environmental theme."
+  },
+  "2020": {
+    "emphasis_summary": "The excerpts repeat the 2019 board-oversight description of climate-change-related risk and add a human-capital passage on director gender diversity and sustainable community engagement, with director-independence and gender-diversity charts.",
+    "notable_shifts": "The climate-oversight paragraph is nearly verbatim from 2019, so the new substance is the gender-diversity charts and director-independence disclosure rather than any environmental change."
+  },
+  "2021": {
+    "emphasis_summary": "The 2021 environmental excerpts are nearly identical to 2020 (board oversight of climate-change risk, committee composition, and the same director-diversity content), with no new emissions metrics or targets.",
+    "notable_shifts": "Essentially unchanged from 2020; the one addition is that the Audit, Compensation and Nominating, Governance and Sustainability Committees are described as comprised solely of independent directors."
+  },
+  "2022": {
+    "emphasis_summary": "The 2022 excerpt is the first EOG year to tie ESG to executive pay, with 2022 ESG goals for executive compensation built on safety and environmental metrics (total recordable incident rate and oil spill rate), and carbon and methane terms appear more often than in any earlier year.",
+    "notable_shifts": "This is the clearest shift in the EOG sample: environmental language moves from governance description to quantified pay metrics and a stated ESG-goals section, after 2017 through 2021 contained no pay-linked emissions language."
+  },
+  "2023": {
+    "emphasis_summary": "The 2023 excerpts reduce environmental content to governance: the Nominating, Governance and Sustainability Committee's oversight of ESG and human-rights matters, director education on ESG topics, and ESG engagement with management, with no emissions or safety metrics.",
+    "notable_shifts": "Compared with 2022, the pay-linked safety and oil-spill goals and the carbon and methane terms drop out of the excerpt, and the emphasis moves to committee charters and director education on ESG."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 excerpts describe climate oversight in more concrete terms, with management reporting safety and environmental performance, climate-related scenario analyses and sustainability disclosures to the board, and an ESG engagement section for stockholders.",
+    "notable_shifts": "Climate-related terms return (climate mentions in the human-capital excerpt rise to four, alongside four safety references), and the board now receives climate-related scenario analyses, a more analytical framing than the committee-charter language of 2023, though no emissions targets appear."
+  }
+}

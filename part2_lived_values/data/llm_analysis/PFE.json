@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts are mostly director-table and governance text (proxy access adoption and 2015 shareholder outreach), with the environment section limited to compliance-culture and policy-maker engagement language rather than measurable sustainability content.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Ethics and conduct lead, with the excerpts describing Pfizer's compliance culture ('an open relationship among colleagues to foster good business conduct') and the PAC steering committee's ethics criteria for political contributions.",
+    "notable_shifts": "Ethics-related language grows from about 9 to about 23 hits, and the human-capital section is populated for the first time; the director-table text is repeated."
+  },
+  "2018": {
+    "emphasis_summary": "Director nomination mechanics lead, covering shareholder nominations under the proxy-access by-law, the Lead Independent Director's role in investor engagement, and one director's research-oversight background.",
+    "notable_shifts": "The 2017 ethics and PAC language largely drops away, the emphasis moves to nomination procedures and the Lead Independent Director's engagement role, and the human-capital section goes empty again."
+  },
+  "2019": {
+    "emphasis_summary": "Investor-engagement priorities lead, including CEO succession planning, Board composition and director recruitment, drug pricing, product safety and human capital management.",
+    "notable_shifts": "The 2019 excerpts add an investor-engagement agenda (CEO succession, director recruitment, drug pricing, product safety, human capital) that the 2018 excerpts do not contain, and the human-capital section returns after being empty in 2018."
+  },
+  "2020": {
+    "emphasis_summary": "The Governance & Sustainability Committee frames the excerpts, with investor-engagement themes on lobbying activities, sustainability practices and human capital management, and environment-related language expanding sharply.",
+    "notable_shifts": "Environment and sustainability language rises from about 5 to about 45 hits and talent language from about 22 to about 29, reflecting the renamed Governance & Sustainability committee and investor focus on lobbying and human capital."
+  },
+  "2021": {
+    "emphasis_summary": "The COVID-19 response dominates, centered on Board oversight of vaccine manufacturing and Pfizer's public commitment to equitable and affordable vaccine access, alongside board-diversity language.",
+    "notable_shifts": "COVID-19 content moves from absent in 2020 to a major theme (about 26 hits), and the 2020 lobbying and sustainability-engagement focus recedes."
+  },
+  "2022": {
+    "emphasis_summary": "R&D investment growth and ESG-linked executive pay lead, with R&D rising from $8.9 billion in 2020 to $10.5 billion in 2021 and the compensation program adding diversity, equity and inclusion and greenhouse-gas-emissions metrics.",
+    "notable_shifts": "The 2022 text adds ESG metrics on DEI and greenhouse gas emissions to the executive compensation program and makes R&D investment a stated theme, while COVID-19 coverage stays high."
+  },
+  "2023": {
+    "emphasis_summary": "Human capital management leads, with the excerpts listing culture, diversity, equity and inclusion, pay equity, talent management and succession planning, and describing a Board that is highly diverse by gender and ethnicity.",
+    "notable_shifts": "Human capital management becomes an explicitly named oversight area with pay equity and succession planning, and the Board diversity disclosure adds five new independent directors since 2018."
+  },
+  "2024": {
+    "emphasis_summary": "Compliance and enterprise risk oversight lead, with joint Audit and Regulatory & Compliance sessions on the ERM program, healthcare-law compliance and a culture of integrity, alongside a human-capital list that includes pay equity and talent management.",
+    "notable_shifts": "The 2024 excerpts lean further into compliance and ERM oversight (joint Audit and Regulatory & Compliance sessions), and the human-capital discussion is reframed around inclusion, with the statement that every person deserves to be seen, heard and cared for."
+  }
+}

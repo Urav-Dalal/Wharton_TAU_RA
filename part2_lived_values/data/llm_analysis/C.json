@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts are dominated by a shareholder proposal on gender pay disparity (noting that women on average earn less than male colleagues and that pay-gap lawsuits persist at major financial firms), alongside Citi's diversity and inclusion commitments.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The gender pay proposal recurs with the board's opposition, which says the Annual Diversity Report is more meaningful for stockholders than the requested analysis, and the compensation summary highlights pay-for-performance alignment and expanded clawback features.",
+    "notable_shifts": "Versus 2016, the excerpts add the company's rebuttal to the pay-gap proposal, pointing to its Annual Diversity Report, and pair it with pay-for-performance and expanded-clawback bullets."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts focus on board diversity, defined as race, ethnicity and gender across the more than 100 countries where Citi operates, along with board refreshment (nominee average tenure of 5 years) and total shareholder return against a thirteen-company peer group.",
+    "notable_shifts": "Compared with 2017, the gender-pay proposal rebuttal drops out and is replaced by a formal board-diversity definition and board-refreshment metrics, and the TSR-versus-peers comparison is added."
+  },
+  "2019": {
+    "emphasis_summary": "The excerpts are largely lists of external ESG and diversity recognitions (Climate Leadership Award, Human Rights Campaign Corporate Equality Index 100% score, Bloomberg Gender-Equality Index) and a 'Banking on 2030' sustainable-development report, plus a goal to raise female representation across all levels of the firm by 2021.",
+    "notable_shifts": "Versus 2018, the board-diversity definition gives way to recognition lists and a dated representation goal, and climate and sustainability become a visible theme in the extracted text for the first time."
+  },
+  "2020": {
+    "emphasis_summary": "The excerpts highlight a shareholder proposal asking Citi to publicly disclose its unadjusted ('raw') gender pay gap, and an investor-engagement agenda in which senior management discusses human capital, compensation, and environmental and social matters including climate risk.",
+    "notable_shifts": "Versus 2019, the award-recognition lists drop out, the gender-pay proposal debate returns, and climate risk is named as an explicit item on the investor-engagement agenda."
+  },
+  "2021": {
+    "emphasis_summary": "The excerpts are mainly the CEO transition narrative, which credits Mike Corbat's legacy on diversity, pay equity, sustainability and community reinvestment and announces that Jane Fraser pledged net-zero greenhouse gas emissions by 2050, extending beyond Citi's own operations.",
+    "notable_shifts": "Versus 2020, a dated net-zero-by-2050 commitment and a legacy framing of pay equity appear, and the 2020 gender-pay proposal material is no longer in the extract."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts lay out the management and committee structure for climate and sustainability, listing heads of Environmental and Social Risk Management, Climate Risk, Community Investing, and Global Sustainability Steering alongside a Diversity, Equity and Inclusion Officer.",
+    "notable_shifts": "Compared with 2021, the net-zero pledge is converted into named climate and E&S roles, and nominee biographies add explicit climate expertise (a nominee's 'expertise in and concern regarding climate issues')."
+  },
+  "2023": {
+    "emphasis_summary": "The excerpts describe a commitment to finance and facilitate climate solutions such as renewable energy, energy efficiency, sustainable transportation and circular economy, alongside a management roster that pairs a DEI Officer with a Global Head of Talent and climate-risk leaders.",
+    "notable_shifts": "Versus 2022, the excerpts move from organizational structure to a specific financing commitment, and the DEI role is now combined with Global Head of Talent, linking diversity directly to talent management."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts frame board oversight as one list covering human capital management (including diversity, equity and inclusion and pay equity), culture, risk and controls, climate change risk and disclosures, human rights, and board refreshment.",
+    "notable_shifts": "Compared with 2023, the 2024 text names pay equity, human rights and climate-change disclosures as explicit board-oversight items, whereas 2023 described climate and DEI mainly as management roles."
+  }
+}

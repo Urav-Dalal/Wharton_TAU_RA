@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Excerpts center on cost cuts and pay alignment after the price downturn (a 25 percent reduction in the senior-management long-term incentive pool from 72 to 55, eliminated salary adjustments in 2015 and 2016, and a reset dividend), with environmental content limited to SPIRIT values and a 'Our Commitment to Sustainability' table-of-contents entry.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The 2017 letter reframes the company around a value proposition built on low break-even prices, low cost of supply, capital flexibility and a strong balance sheet, and the only climate-related item is a stockholder proposal titled 'Report on Executive Incentive Compensation Alignment with Low-Carbon Scenarios' listed in the table of contents.",
+    "notable_shifts": "Compared with 2016, the workforce-reduction and salary-freeze narrative gives way to value-proposition and capital-discipline language, and the low-carbon pay proposal appears in the contents for the first time."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts describe a pay-for-performance philosophy that ties incentive payouts to safety, operational, financial and strategic goals, alongside a sustainable value proposition built on dividend growth and a $6 billion buyback authorization, with climate content nearly absent.",
+    "notable_shifts": "The low-carbon pay proposal from 2017 no longer appears, and the compensation language now lists safety as one of several named performance dimensions in place of 2017's explicit low-carbon framing."
+  },
+  "2019": {
+    "emphasis_summary": "A named 'Sustainability: Our Approach' section and the SPIRIT values (with 'No task is so important that we can't take the time to do it safely' as the lead safety statement) are the main environmental content, alongside a statement that climate change and sustainability were discussed with investors.",
+    "notable_shifts": "Sustainability gets its own named section for the first time in the sample, and the SPIRIT safety language is presented as a standalone value, a more structured framing than the 2018 pay and value-proposition text."
+  },
+  "2020": {
+    "emphasis_summary": "The lead environmental claim is that ConocoPhillips was 'the first E&P company to set a greenhouse gas emissions intensity reduction target' and is monitoring progress toward it, alongside a 'Being a good neighbor' environmental-leadership passage and board responsiveness to stockholder input.",
+    "notable_shifts": "The 2020 filing moves from a general sustainability heading to a specific, quantified commitment (a GHG intensity reduction target) that the company says it is tracking, the first numeric emissions metric in the COP excerpts."
+  },
+  "2021": {
+    "emphasis_summary": "This is the most detailed climate-policy statement in the COP sample, describing a Paris-aligned climate-risk strategy adopted in October 2020, an ambition for net-zero operational (Scope 1 and 2) emissions by 2050, endorsement of zero routine flaring by 2030, continuous methane monitoring, and advocacy for a U.S. carbon price on end-use emissions.",
+    "notable_shifts": "Relative to the single intensity target in 2020, the excerpt now lays out a multi-part, dated strategy (2030 flaring, 2050 net-zero operational emissions, methane monitoring) and frames ESG leadership as an explicit mandate alongside affordable energy and returns."
+  },
+  "2022": {
+    "emphasis_summary": "Environmental content centers on the Plan for the Net-Zero Energy Transition, a new Low-Carbon Technologies organization, and a $200 million operating-plan allocation for Scope 1 and 2 intensity reduction and early-stage end-use emissions projects, along with a stockholder climate resolution that about 58 percent of voting stockholders supported.",
+    "notable_shifts": "The 2022 excerpt adds stockholder-engagement detail on the energy-transition resolution (about 58 percent support for Scope 1, 2 and 3 targets) and a populated diversity section, so the emphasis moves from company commitments toward investor pressure and capital allocation."
+  },
+  "2023": {
+    "emphasis_summary": "The 2023 letter argues that natural gas will displace coal in the push for lower global GHG emissions, and it highlights OGMP 2.0 membership and a new 2030 methane emissions intensity target alongside the net-zero operational emissions ambition.",
+    "notable_shifts": "Compared with the 2022 stockholder-resolution narrative, the 2023 text pivots to quantified methane commitments (a new 2030 methane intensity target and OGMP 2.0 reporting) and a gas-for-coal emissions argument."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 excerpt reports progress rather than intentions, saying the company accelerated its GHG emissions-intensity reduction target through 2030, earned OGMP 2.0 recognition for methane reductions, and funds carbon capture and storage projects.",
+    "notable_shifts": "Relative to the targets-and-plans framing of 2023, 2024 reports performance against those targets and ties energy-transition milestones to the variable cash incentive program, moving climate language from aspiration to compensation-linked accountability."
+  }
+}

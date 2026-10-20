@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The human_capital field is an annual incentive discussion, with a 20% people-cost metric, EBIT and sales goals set above the 75th percentile of peers' expected EBIT growth, and the Compensation Committee's February 2016 review of performance against those goals.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The environment field is the company's response to a shareholder proposal on carbon emissions, saying Lowe's is evaluating wind, solar, and fuel cell options and that its existing environmental efforts meet the proposal's objective.",
+    "notable_shifts": "Compared with 2016, the incentive-plan discussion largely leaves human_capital (compensation-term hits fall from 32 to 4), and the environmental emphasis becomes an explicit carbon-emissions response rather than governance text. Net tone drops from 6.15 to 5.56."
+  },
+  "2018": {
+    "emphasis_summary": "A formal board diversity policy leads the diversity_dei field, stating the Board is committed to having diverse individuals from different backgrounds with varying perspectives, professional experience, education and skills, alongside board criteria on ethics and integrity, while the human_capital field is empty.",
+    "notable_shifts": "Compared with 2017, diversity moves from the workforce frame into board composition: the diversity_dei field now leads with a stand-alone board-diversity policy and the human_capital field goes blank. Net tone rises from 5.56 to 6.27."
+  },
+  "2019": {
+    "emphasis_summary": "The board diversity policy and board criteria repeat word-for-word from 2018, and the environment and governance fields carry committee and governance text (14 and 10 governance-term hits), so the filing reads very similar to 2018.",
+    "notable_shifts": "Compared with 2018, the diversity-policy paragraphs are verbatim repeats and human_capital stays empty, so no substantive shift is visible; net tone dips from 6.27 to 5.94."
+  },
+  "2020": {
+    "emphasis_summary": "Board refreshment and director tenure lead the human_capital field: the company says it has refreshed more than half its board by adding seven new independent directors in five years, defends its longer-tenured directors (including the Chairman) for their familiarity with the business, and says its Nominating and Governance Committee seeks cognitive diversity.",
+    "notable_shifts": "Relative to 2019, the board-diversity policy text leaves diversity_dei (now empty) and reappears inside human_capital as a refreshment-and-tenure argument, so the diversity theme shifts from policy wording to board turnover. Net tone falls from 5.94 to 5.04."
+  },
+  "2021": {
+    "emphasis_summary": "Corporate responsibility framing dominates the human_capital field, which lists board oversight areas (human capital management efforts, diversity and inclusion programs, board composition, and environmental sustainability) and a strategy of promoting sustainability throughout the value chain and improving health and well-being.",
+    "notable_shifts": "Compared with 2020, the field moves from board-refreshment language to a responsibility framing that names DEI and sustainability as board-oversight areas (DEI hits rise from 5 to 24 and environment hits from 1 to 7). Net tone rises from 5.04 to 6.87."
+  },
+  "2022": {
+    "emphasis_summary": "Board oversight of corporate responsibility is the lead theme, with a Focus on Operating Responsibly and Sustainably section stating that a Sustainability Committee of the Board directly oversees the corporate sustainability strategy, and the human_capital field carries 29 diversity-term hits.",
+    "notable_shifts": "Compared with 2021, sustainability oversight becomes a stated Board-committee responsibility, the environment field's sustainability-term count rises from 11 to 13, and diversity language in human_capital holds high (24 to 29 hits). Net tone rises from 6.87 to 8.67."
+  },
+  "2023": {
+    "emphasis_summary": "Human capital oversight leads the excerpts: the full Board oversees and engages with the Chairman, President and CEO and the Executive Vice President of Human Resources on human capital (26 hits in human_capital), while diversity language recedes and the environment field carries 10 sustainability-term hits.",
+    "notable_shifts": "Human-capital keywords in human_capital rise from 9 to 26 while DEI keywords there fall from 29 to 6, so the field moves from diversity language to a workforce-oversight frame. Net tone drops from 8.67 to 7.73."
+  },
+  "2024": {
+    "emphasis_summary": "The environment field is the most sustainability-heavy in the series (25 hits) and includes frontline associate and Total Home strategy text, while the human_capital board-oversight paragraph is about workforce management (26 hits).",
+    "notable_shifts": "Environment-term hits jump from 10 to 25 relative to 2023 and DEI keywords in diversity_dei fall from 14 to 11, so sustainability now carries more of the excerpt text than diversity does. Net tone falls from 7.73 to 7.21."
+  }
+}

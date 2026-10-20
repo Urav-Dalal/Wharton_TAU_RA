@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Board diversity language (experience, gender, and ethnicity/race) and a statement that the Corporate Governance Committee has no formal diversity policy sit in human_capital, alongside majority voting, a board service-limit policy (age 75 cap, limits on outside boards), and a short sustainability paragraph on energy, water, and recycling.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The diversity emphasis shifts to shareholder-proposal text: the diversity_dei field carries the Board's opposition to a pay-equity proposal (Proposal 9), citing a workforce that is about 55 percent people of color and a managerial team that is about 32 percent, while human_capital adds ethics, integrity, and values to director criteria and a new Board self-assessment paragraph.",
+    "notable_shifts": "Compared with 2016, the diversity_dei field goes from blank to a pay-equity debate on gender, race, and ethnicity, and human_capital gains the self-assessment paragraph, so the emphasis moves from nominee criteria toward workforce and pay-equity disclosure. Net tone rises from 10.20 to 11.92."
+  },
+  "2018": {
+    "emphasis_summary": "All five section fields are blank, so the excerpt provides no usable content; the filing date (2018-10-01) is well outside TJX's usual April-to-June proxy cycle, which suggests the extraction matched the wrong document or failed to locate sections.",
+    "notable_shifts": "Relative to 2017 no section text was extracted, so no content comparison is possible, and the net tone of 1.26 against 11.92 reflects missing text rather than a substantive shift."
+  },
+  "2019": {
+    "emphasis_summary": "Governance language dominates: the human_capital field describes Board risk oversight that names human capital management, supply chain, and environmental sustainability among the areas the Board reviews, along with the independent Lead Director structure, and diversity_dei returns with board-diversity content (22 hits).",
+    "notable_shifts": "Relative to the blank 2018 filing, the excerpts again contain Board risk-oversight and Lead Director text and diversity_dei returns, so the 2018 gap looks like an extraction failure rather than a real change in disclosure. Net tone moves from 1.26 to 5.51, which is not meaningful given the blank prior year."
+  },
+  "2020": {
+    "emphasis_summary": "The human_capital field is dominated by pandemic-era workforce actions, including temporary comparable actions for part of the workforce outside the U.S., continued benefits for eligible impacted Associates, and preparation for store re-openings, alongside board-diversity content in diversity_dei (21 hits).",
+    "notable_shifts": "Compared with 2019, the human_capital field shifts from board risk oversight to workforce-response language about benefits and re-openings, while diversity_dei remains populated (21 hits). Net tone is roughly flat at 5.5 to 5.7."
+  },
+  "2021": {
+    "emphasis_summary": "The human_capital field reports pandemic-related steps, including temporarily reduced compensation for the Board and senior executives and continued benefits for impacted Associates, and describes an expanded focus on inclusion and diversity, including racial justice.",
+    "notable_shifts": "Compared with 2020, the diversity_dei field blanks while DEI commitments move into human_capital (0 to 8 hits) and the environment field (0 to 14 hits). Net tone rises from 5.71 to 5.99."
+  },
+  "2022": {
+    "emphasis_summary": "Culture and human capital management leads, with an Our Global Workforce section describing Associates as key to the business, a new policy for external CEO and senior-executive searches that carries a diversity-inclusion requirement, and the environment field holding the series' heaviest sustainability content (36 hits).",
+    "notable_shifts": "Compared with 2021, human_capital keyword density rises from 23 to 34 under a Culture and Human Capital Management heading, and environment-term hits more than double from 15 to 36, the largest sustainability emphasis in the series. Net tone rises from 5.99 to 9.92."
+  },
+  "2023": {
+    "emphasis_summary": "Board diversity is the lead theme: the diversity_dei field says the Chairman is a woman and four of five Committee Chairs are women, and claims that more than half of board nominees in each of the past 10 years met its standard (the sentence is cut off in the excerpt), while the environment field covers sustainability and ESG oversight (18 hits).",
+    "notable_shifts": "Compared with 2022, DEI keywords in human_capital fall from 22 to 0, the environment field falls from 36 to 18 sustainability hits, and the diversity_dei field gains board-diversity metrics (14 DEI hits, plus 26 in governance text). Net tone drops from 9.92 to 5.93."
+  },
+  "2024": {
+    "emphasis_summary": "The human_capital field describes the global workforce (about 349,000 Associates at the end of FY24), and the diversity_dei field carries board-diversity language (28 hits).",
+    "notable_shifts": "Compared with 2023, human_capital moves to a workforce description with workforce-term hits rising from 12 to 14, and diversity_dei rises from 14 to 28 hits. Net tone falls slightly from 5.93 to 5.76."
+  }
+}

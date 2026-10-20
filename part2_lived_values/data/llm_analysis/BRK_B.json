@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Dominated by a shareholder-proposal-style passage on climate risk to Berkshire's insurance and reinsurance businesses, alongside standard Compensation Discussion and Analysis text (flat $100,000 salaries for Buffett and Munger, no stock options) and governance-guideline and voting boilerplate, with human capital and DEI absent.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The climate passage pivots to methane and natural-gas infrastructure risk, citing the 2015 Aliso Canyon storage well failure and an October 2016 study on methane leakage, while compensation and governance text is nearly unchanged and human capital and DEI stay empty.",
+    "notable_shifts": "Environment moves from insurance-underwriting exposure to methane emissions and gas-storage risk (emission mentions rise to about nine), and compensation adds a 2016 services cost of $387,881 plus a Section 16(a) late-filing note for a Form 4 purchase. Otherwise the year-on-year change is narrow and confined to the environment section."
+  },
+  "2018": {
+    "emphasis_summary": "Environment is the most detailed section, framed around EPA's 40-45% methane reduction target by 2025 and the One Future emissions framework, and it names Berkshire's own gas storage and pipeline subsidiaries as exposed, while compensation and governance stay standard and human capital and DEI remain empty.",
+    "notable_shifts": "Compensation adds a rationale that the cost of services Buffett uses at home (about $375,000 in 2017) are bona fide business expenses, plus a note on office security, and governance adds new board-interlock and shareholder-communication disclosures and the January 2018 appointments of Greg Abel and Ajit Jain as Vice Chairmen. The climate text also ties itself explicitly to 'internationally agreed upon climate change targets' and rises to about 14 emission mentions."
+  },
+  "2019": {
+    "emphasis_summary": "Only compensation and governance are populated: compensation centers on the CEO pay-ratio disclosure and Buffett's role in setting subsidiary CEO pay, and governance centers on related-party share repurchases from Walter Scott family interests by Berkshire Hathaway Energy, so the ESG and human-capital content drops out of the excerpts entirely.",
+    "notable_shifts": "The environment section, which carried methane and climate material in 2018, is empty in 2019 and human capital and DEI remain empty. Compensation adds the first CEO pay-ratio disclosure under Item 402(u) in this sample and names Abel, Jain and Hamburg, while governance adds BHE's 2018 repurchase of 177,381 shares for $107 million and a February 2019 repurchase of 447,712 shares for $293 million."
+  },
+  "2020": {
+    "emphasis_summary": "Compensation and governance text is nearly identical to 2019, and the governance section is anchored by an Audit Committee approval of a planned $150-175 million sale of BHE shares by Scott family interests, later executed as a roughly $126 million repurchase on March 5, 2020, with no environment, human capital or DEI content.",
+    "notable_shifts": "Very little changed from 2019: compensation updates only the services cost ($274,773 for 2019) and a note on Jain's pre-2018 role, and governance replaces the prior year's repurchase history with the Audit Committee's February 2020 review of the Scott-family sale, which is the only substantive new disclosure."
+  },
+  "2021": {
+    "emphasis_summary": "All five sections are populated for the first time in this sample: human capital and DEI are both drawn from a shareholder proposal asking for workforce diversity data, environment comes from a proposal for a climate-risk report, and compensation and governance are standard Berkshire text that now includes a concrete 5.55-to-1 CEO pay ratio.",
+    "notable_shifts": "Human capital and DEI reappear as populated sections, with human capital citing diversity-return studies and DEI asking for quantitative data on program goals, metrics and trends. The environment request moves away from the 2016-2018 methane and insurance focus toward a report on climate-related risks and opportunities across subsidiaries and investees, including the feasibility of science-based GHG reduction targets consistent with well-below 2C. The pay ratio becomes concrete: Buffett's $380,328 total compensation against $68,543 for the median employee."
+  },
+  "2022": {
+    "emphasis_summary": "Human capital and DEI carry detailed proposal arguments on retention, employee satisfaction and diversity, stating that Berkshire has not committed to release standardized workforce composition data, while environment asks for TCFD-aligned climate risk reporting and science-based targets and compensation and governance remain largely standard.",
+    "notable_shifts": "Human capital adds retention and employee-satisfaction research (citing Morgan Stanley) and the claim that Berkshire has not released standardized workforce data, and the DEI request narrows to hiring, retention and promotion data broken out by gender, race and ethnicity. The climate proposal now explicitly invokes TCFD recommendations and asks for a feasibility assessment of company-wide science-based GHG targets, and governance adds Abel's June 2022 sale of his BHE voting stock to BHE for about $870 million."
+  },
+  "2023": {
+    "emphasis_summary": "The human capital and DEI sections are dominated by a proposal that cites executive ethnic-diversity research, callback-discrimination studies and Buffett's April 2022 meeting remarks, the environment excerpt is mostly director biographies that ends with Berkshire's own emissions discussion, and compensation is standard but adds a pay-versus-performance table.",
+    "notable_shifts": "Compensation gains the first pay-versus-performance table in this sample, showing compensation actually paid to Buffett equal to his summary total (for example $401,589 for 2022) because he holds no equity. The DEI request adds an explicit demand for transparency on outcomes and quotes Buffett's remarks about corporate America being a boys' club, and the environment excerpt adds management's own response that BNSF and BHE account for over 90% of direct emissions with 2030 targets, the first management-authored emissions detail in the sample as far as the excerpt shows."
+  },
+  "2024": {
+    "emphasis_summary": "Human capital and DEI merge into a single proposal for workforce diversity, hiring, promotion and retention data that names peer financial firms, including Bank of America, American Express and BlackRock, as disclosing more inclusion data than Berkshire, environment centers on insurance-underwriting climate risk, and compensation is reduced to the Compensation Committee report.",
+    "notable_shifts": "The DEI ask softens: the proponent now suggests the data go through Berkshire's existing sustainability reporting rather than a standalone report, and human capital adds the peer comparison. The environment section shifts from a generic climate report to a quantified argument that Berkshire's 2022 insurance underwriting loss of $90 million (versus earnings of $657 million and $728 million in 2020 and 2021) shows it is amplifying climate risk, while compensation drops the pay-versus-performance table and pay-ratio content from the excerpt."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts combine a Values and CSR summary (supplier audits, accessibility, and over $929 million of spending with women- and minority-owned businesses) with a governance summary on proxy access and a compensation summary, and the diversity_dei section is empty.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Compensation dominates, covering peer-group selection, a roughly 95% say-on-pay result and the base salary and cash-incentive structure, while the environment excerpt is director biographies and the diversity_dei section is empty.",
+    "notable_shifts": "The 2017 excerpt reports a specific equity-mix change, moving the RSU allocation from 60% time-based and 40% performance-based to 50% and 50%, and it reports say-on-pay support of about 95%. Neither point appears in the 2016 excerpts."
+  },
+  "2019": {
+    "emphasis_summary": "The 2019 excerpts lead with workforce-inclusion commentary (hiring and promoting more inclusively, compensating equally) and pay-setting detail, while the environment excerpt is again director biography and diversity_dei is empty.",
+    "notable_shifts": "This year restores workforce-inclusion commentary that the duplicated 2017 and 2018 text lacked. It also introduces a CEO pay-ratio disclosure in the compensation section, which the 2018 text does not contain."
+  },
+  "2020": {
+    "emphasis_summary": "The human_capital excerpt is peer-group and pay-setting text, and the environment excerpt is a list of shareholder proposals on sustainability and executive compensation, so workforce commentary is largely absent.",
+    "notable_shifts": "Visa, Pfizer and UnitedHealth Group are added to the peer groups for 2019, and the workforce-inclusion commentary from 2019 is replaced by pay-setting text."
+  },
+  "2021": {
+    "emphasis_summary": "COVID-19 workforce and supplier support leads the human_capital excerpt, and the environment section centers on a new ESG modifier in the annual cash incentive program, with the CEO pay change as a second highlight.",
+    "notable_shifts": "The ESG modifier, which ties part of the annual cash incentive to Apple Values and community initiatives, first appears in 2021. The human_capital excerpt also adds COVID-19 supplier payment-acceleration commitments that are absent from the 2020 human_capital excerpt."
+  },
+  "2022": {
+    "emphasis_summary": "Shareholder-proposal text on pay equity and workforce representation dominates human_capital (women are 34% of the workforce and 31% of leadership), with a board table in diversity_dei and carbon-footprint commitments in the environment excerpt.",
+    "notable_shifts": "Pay-equity and women-representation language appears for the first time in the human_capital excerpts. Pay-equity hits rise from zero in 2021 to eight in 2022, and women-related hits from zero to seven, largely quoting a shareholder proposal on median versus adjusted pay gaps."
+  },
+  "2023": {
+    "emphasis_summary": "Shareholder-proposal responses dominate, with the company answering pay-equity and representation demands by pointing to its annual Inclusion and Diversity reporting, and a Workers' Rights Assessment and human-rights commitments appear in the human_capital section.",
+    "notable_shifts": "The 2023 excerpts add a dated commitment to assess Apple's compliance with its Human Rights Policy on workers' freedom of association and collective bargaining in the United States by the end of calendar 2023. The company also describes its representation reporting as annual in its own reply."
+  },
+  "2024": {
+    "emphasis_summary": "Company-voiced climate content is the most concrete (100% renewable operations since 2018, the first carbon-neutral product models and the Apple 2030 supply-chain goal), alongside shareholder-proposal responses on AI, pay equity and privacy and human rights.",
+    "notable_shifts": "The 2024 excerpts add the first carbon-neutral product models and the statement that corporate operations have run on 100% renewable energy since 2018. They also add two shareholder-proposal items not seen in earlier excerpts: a Report on Use of AI and a Congruency Report on Privacy and Human Rights."
+  }
+}

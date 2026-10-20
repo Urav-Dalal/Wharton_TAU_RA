@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts are mostly responsible-growth and performance narrative: the human capital section is a workforce and community-finance summary (noting that more than 40% of the U.S. workforce is from a racially or ethnically diverse background), the environment section carries Compensation Committee pay-for-performance and risk-management text, and DEI is absent.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Human capital and environment center on a Board-driven stockholder engagement process (outreach to holders of over 50% of shares) and the responsible-growth strategy, compensation covers the 2016 CEO package, governance stresses succession planning and independent-director executive sessions, and DEI remains empty.",
+    "notable_shifts": "The human capital excerpt adds a formal Board-driven engagement process that says investor outreach informed Board agendas and governance changes, a theme absent in 2016. Compensation adds the 2016 CEO package ($20 million total, 92.5% variable and all equity-based), and governance adds the annual CEO and senior-management succession review and the Board self-assessment language."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts stress stockholder engagement and pay-for-performance, with the CEO's 2017 award tied to earnings of $18.2 billion that include a $2.9 billion Tax Act charge, governance emphasizing lead-independent-director oversight and director renewal, and DEI still absent.",
+    "notable_shifts": "Compensation adds an explicit evaluation that excludes the $2.9 billion Tax Act charge, and governance adds director-recruitment enhancements describing an 'experienced and diverse group of nominees,' the lead director's regular one-on-one meetings with each director, and 16 executive sessions held in 2017."
+  },
+  "2019": {
+    "emphasis_summary": "The first populated DEI section consists of external recognition (board diversity for five years running, American Banker and Working Mother honors) rather than program metrics, while compensation and the environment excerpt emphasize Responsible Growth results, including $28.1 billion of 2018 net income and a $26.5 million CEO package.",
+    "notable_shifts": "The DEI section is new and catalogs awards such as board diversity five years running and Working Mother's 100 Best Companies for 30 consecutive years, rather than workforce or program data. Compensation adds 2018 record results (four consecutive years of positive operating leverage) and a CEO package of $26.5 million with 94.3% variable."
+  },
+  "2020": {
+    "emphasis_summary": "Human capital cites the inaugural Human Capital Management Report published at the end of 2019, the environment section reframes the shareholder letter around environmental and social initiatives including human capital management, compensation repeats the unchanged $26.5 million CEO package, and DEI goes back to empty.",
+    "notable_shifts": "The DEI section that carried recognition lists in 2019 drops out entirely, while the human capital and environment excerpts now point stockholders to the standalone Human Capital Management Report. Compensation states that pay structure is unchanged 'based on shareholder input and our Board's assessment' and reports 2019 CEO pay unchanged from 2018."
+  },
+  "2021": {
+    "emphasis_summary": "Human capital is dominated by charitable-giving text (UnidosUS and a $1 charitable donation disclosure), the environment section is a 2020 company performance table in which net income fell 34.8% to $17.9 billion, compensation is framed around the CEO's pandemic response, and DEI remains empty.",
+    "notable_shifts": "Compensation adds a COVID-19 framing that credits the company's response to the pandemic and its support of employees and customers in justifying 2020 pay. The environment excerpt replaces the 2019 letter with a 2020 company performance table, and governance opens with individual director nominee biographies."
+  },
+  "2022": {
+    "emphasis_summary": "The DEI section is brought back, but mostly through a director biography that cites DEI experience rather than program data, environment highlights climate risk and the Board's oversight of the company's racial equality commitment, and governance covers the director age-limit retirement and the ESG committee chair.",
+    "notable_shifts": "DEI reappears after being empty in 2020 and 2021, and the new material is director-biography language, not metrics. Governance adds the retirement of a director who served more than 18 years and reached the age-75 limit and the ESG committee chair transition, and environment adds the shareholder proposals list (Proposals 5-7) alongside climate-risk oversight."
+  },
+  "2023": {
+    "emphasis_summary": "The DEI section is again a director biography that cites a director's leadership of the firm's DEI initiatives, compensation covers the pay-versus-performance and CEO pay-ratio disclosures, the environment section is the Lead Independent Director's letter on climate risk and equality, and governance adds a say-on-frequency vote and a new director nominee.",
+    "notable_shifts": "A say-on-frequency vote on how often to hold say-on-pay appears as Proposal 3, which is new in this sample. The Lead Independent Director letter broadens its 2022 phrase 'decades-long commitment to advance racial equality' to 'long-standing commitment to promote equality, diversity and inclusion,' and the new director Joe Almeida is introduced as appointed in September 2022."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 excerpts center on shareholder dialogue with holders of about 47% of institutionally held shares, the net-zero-by-2050 financing commitment, and a say-on-pay narrative citing average support of 94.2% from 2011 to 2022, while DEI is framed under a 'great place to work' heading alongside climate and sustainability and governance tightens the CEO's outside-board limit.",
+    "notable_shifts": "The DEI section now pairs DEI directly with net-zero and sustainable-finance commitments and describes 'fostering a diverse and inclusive workplace' as an operational priority, replacing 2023's director-bio reference. Governance tightens the CEO's outside-board limit from three public company boards to two, and compensation adds a response to the 2023 say-on-pay vote in which the 2022 CEO pay was reduced and other named executives' pay fell about 5-7%."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts are almost entirely governance and pay boilerplate: a CEO letter on sustainable returns and corporate governance frameworks that introduces a proxy-access proposal, a say-on-pay vote, and a Board note that it has not set specific diversity goals, with no human-capital text extracted.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The 2017 excerpts surface BlackRock's own human-capital framing ('Our long-term sustainability depends on our people ... promote inclusion and diversity') and a quantified board-diversity table reporting 13 of 18 directors as current or former CEOs, 6 of 18 non-U.S. or dual citizens, and 4 of 18 women.",
+    "notable_shifts": "Versus 2016, the human_capital and diversity_dei sections are populated for the first time, and the 2016 statement that the Board had not set specific diversity goals is replaced by counted board-composition disclosure. The 2017 governance text also adds a board-tenure and retirement-age discussion (mandatory retirement at 75), where 2016 focused on proxy access and say-on-pay."
+  },
+  "2018": {
+    "emphasis_summary": "The 2018 excerpts contain the first explicit environmental statement in the BlackRock series, an 'Environmental Sustainability' subsection ('committed to using our resources responsibly to support the long-term sustainability of our firm and of the global environment') placed under a human-capital heading, alongside a board-refreshment and board-diversity-disclosure update.",
+    "notable_shifts": "Versus 2017, the human-capital section gains a standalone environmental commitment (ghg/carbon mentions go from 0 to 1, the only climate-adjacent language in the excerpts). The diversity discussion shifts from board-composition statistics to process: 'enhanced disclosure on our Board diversity and search process' and the election of three new directors are called out as this year's updated items."
+  },
+  "2019": {
+    "emphasis_summary": "The 2019 excerpts center on a 'Board Diversity' passage that calls diversity in gender, ethnicity, age, career experience and geography 'a priority' and extends it to 'diversity of mind,' while the table of contents pairs a 'BlackRock's Approach to Sustainability' section with a standalone Human Capital Management section and a CEO pay-ratio disclosure.",
+    "notable_shifts": "Versus 2018, diversity language becomes a formal board priority (diversity mentions rise from 6 to 10) and the human-capital disclosure is split out as its own named section, with a CEO pay-ratio disclosure (pay-ratio mentions go from 0 to 4) appearing in the proxy's table of contents. The sustainability approach is now a named proxy topic rather than a line within human capital."
+  },
+  "2020": {
+    "emphasis_summary": "The surviving substance is the CEO letter's framing of sustainable investing as a growth driver ('We led the industry in high growth areas, including fixed income ETFs, factor-based investing and sustainable investing'), with the Board diversity passage the densest DEI text in this stretch, and most other extracted text being table of contents or footer links to BlackRock's sustainability pages.",
+    "notable_shifts": "Versus 2019, sustainability language moves from a governance-framework posture to a product and business-growth posture: sustainable investing is listed among the firm's competitive growth areas in the letter. Diversity mentions edge up from 10 to 12 while the pay-ratio disclosure continues unchanged."
+  },
+  "2021": {
+    "emphasis_summary": "The 2021 excerpts lead with a Diversity, Equity and Inclusion strategy in the human-capital passage, enhanced Board-diversity disclosure, and Board-refreshment statistics (average tenure of 8 years for all director nominees and 6 years for independent nominees), while the CEO letter presents sustainable investing as contributing to 'a more resilient economy' through the Aladdin risk platform.",
+    "notable_shifts": "Versus 2020, 'Equity' is added to the diversity framing as a named DEI strategy, diversity mentions rise from 12 to 30, and ESG appears for the first time in the excerpts (3 mentions, with the acronym spelled out in the glossary). The environmental passage moves from a growth-area list to a resilience and risk-management story."
+  },
+  "2022": {
+    "emphasis_summary": "The 2022 excerpts add a Board-oversight list that names 'Legal and regulatory developments relating to sustainable investing strategies and products' and NGSC oversight of stewardship policies 'relating to social, environmental and other sustainability matters,' alongside DEI and public policy priorities, with the CEO letter adding that sustainable investing should benefit 'more people.'",
+    "notable_shifts": "Versus 2021, stewardship and ESG vocabulary expands sharply (ESG mentions 3 to 7, stewardship mentions 1 to 6, climate mentions 1 to 4). Regulatory exposure for sustainable-investing products is now listed as a board-oversight topic, which signals a compliance and legal-risk framing rather than the pure growth framing of 2020-2021."
+  },
+  "2023": {
+    "emphasis_summary": "The 2023 excerpts recast the sustainability content as 'Sustainability-related legal and regulatory developments for products and issuers' and narrow the NGSC stewardship oversight line to 'environmental and other sustainability matters,' while the table of contents lists two climate shareholder proposals (a report on BlackRock's ability to 'Engineer Decarbonization in the Real Economy' and an impact report on climate-related human risks tied to an iShares aerospace-and-defense ETF).",
+    "notable_shifts": "Versus 2022, the word 'social' drops from the stewardship oversight line, and 'sustainable investing strategies and products' becomes 'sustainability-related ... products and issuers,' broadening the regulatory scope from BlackRock's products to the companies it invests in. Climate content rises (climate mentions 4 to 6, ghg/carbon mentions 0 to 2) as climate proposals about BlackRock's own stewardship and product disclosures appear in the proxy."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 excerpts are dominated by stewardship-process and voting disclosure: a shareholder proposal for a 'Report on Proxy Voting Record and Policies for Climate Change-Related Proposals' with a board recommendation to vote AGAINST, an account of fall 2023 outreach to stewardship officers at the 50 largest shareholders (over 60% of outstanding shares) on governance and executive compensation, and a letter reference to two 'transformational changes' announced in January.",
+    "notable_shifts": "Versus 2023, climate content moves from proposals about decarbonization strategy to scrutiny of BlackRock's own proxy-voting record on climate proposals, and stewardship mentions fall (4 to 2) while shareholder-proposal mentions rise (10 to 13). The human-capital section gains specific shareholder-engagement detail that was absent in 2023, which mostly described board-oversight structure."
+  }
+}

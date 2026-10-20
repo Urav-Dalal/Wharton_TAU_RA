@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Only two sections are populated, both audit and governance boilerplate (auditor independence, pre-approval policies and the ethics and compliance officer role), with no diversity, environment or human-capital text captured.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The excerpts introduce a Sustainability and Citizenship Highlights summary (proxy access, codes of conduct, written ethics policies) and a quality-compliance modifier in annual incentive pay that can reduce payouts.",
+    "notable_shifts": "The environment section is populated for the first time with a sustainability and citizenship highlights list, and the compensation excerpt adds the quality-compliance modifier as a pay mechanism, while human capital and diversity remain empty."
+  },
+  "2018": {
+    "emphasis_summary": "Quality and product stewardship lead, citing a Global Human Rights program and a Responsible Supply Management program launched in the past two years, alongside growth-catalyst and therapy-innovation language.",
+    "notable_shifts": "The 2018 text adds the human-rights and supply-management programs and raises R&D and therapy-innovation language (about 14 to about 23 hits), while the sustainability highlights list is carried over from 2017."
+  },
+  "2019": {
+    "emphasis_summary": "Quality and therapy innovation lead, with the 'We emphasize quality' annual-incentive modifier and a Product Stewardship program added to the human-rights and supply-management programs.",
+    "notable_shifts": "The 2019 text adds Product Stewardship to the program list and sharpens the quality emphasis in pay, and R&D language rises further (about 23 to about 28 hits), while the human-capital section stays empty."
+  },
+  "2020": {
+    "emphasis_summary": "A Sustainability and ESG Highlights summary leads, with a corporate-sustainability roadmap tied to the company Mission and the human-rights, supply-management and product-stewardship programs.",
+    "notable_shifts": "The sustainability summary is relabeled from Sustainability and Citizenship to Sustainability and ESG and gains a roadmap statement, and the human-capital section is populated for the first time (it was empty in 2016-2019)."
+  },
+  "2021": {
+    "emphasis_summary": "The excerpts pair the quality-compliance modifier with diversity, noting that Board candidates are assessed on diversity of background, and a COVID-19 pandemic narrative runs through the filing.",
+    "notable_shifts": "The diversity section is populated for the first time (it was empty through 2020) and COVID-19 language grows from about 6 to about 22 hits."
+  },
+  "2022": {
+    "emphasis_summary": "Inclusion, Diversity and Equity (ID&E) is elevated to a pay metric, with Quality and ID&E named as annual-incentive scorecard components and the DiversityInc Top 50 ranking (number 10) cited.",
+    "notable_shifts": "The 2022 text converts ID&E from a Board-candidate attribute into a management-compensation metric ('introduced ID&E metrics as part of management compensation'), whereas the 2021 excerpt mainly ties diversity to Board candidate selection."
+  },
+  "2023": {
+    "emphasis_summary": "ESG governance leads, describing a Sustainability Program Office that escalates material issues to a Sustainability Steering Committee, a carbon-neutrality-by-FY30 goal, and a DiversityInc ranking of number 2.",
+    "notable_shifts": "The DiversityInc ranking rises from number 10 to number 2, and the excerpts add the escalation mechanism for ESG issues (Sustainability Program Office to Steering Committee), while the compensation text repeats the 2022 Quality and ID&E scorecard language."
+  },
+  "2024": {
+    "emphasis_summary": "ID&E and sustainability governance lead, with an annual public ID&E report and a Sustainability Program Office that tracks risks across short-, medium- and long-term horizons, alongside the Quality and ID&E scorecard.",
+    "notable_shifts": "The 2024 text adds the time-horizon framing for sustainability risks and the annual public ID&E report, while the scorecard language is repeated from 2023."
+  }
+}

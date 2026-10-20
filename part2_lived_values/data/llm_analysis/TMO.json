@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Excerpts are mostly governance boilerplate (Corporate Governance Guidelines, NYSE website-disclosure rules, Compensation Committee independence) plus the 2015 non-financial bonus scorecard (customer allegiance, e-business launch, $90 million in Life Technologies revenue synergies), with no diversity or environmental text captured.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The excerpts repeat the governance and compensation boilerplate, with human capital limited to a recap of e-business integration and revenue-growth positioning and still no diversity or environmental text captured.",
+    "notable_shifts": "Little substantive change from 2016: the governance and compensation text is largely repeated, and the only new human-capital content is the 2016 performance recap ('Positioning the Company for Accelerated Revenue Growth')."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts center on the first CEO pay-ratio disclosure (an estimated CEO-to-median-employee ratio of 324 to 1) and governance rules such as a director retirement age of 72, with still no diversity or environmental text captured.",
+    "notable_shifts": "The new items are the pay-ratio disclosure and a recap of leadership-diversity progress and FEI synergy targets; the governance text is otherwise carried over from 2017."
+  },
+  "2019": {
+    "emphasis_summary": "For the first time the excerpts populate the diversity and environmental sections, covering Board Diversity and Board Tenure, a Charitable Giving Program, and shareholder engagement on environmental and social matters.",
+    "notable_shifts": "Much of the apparent jump reflects extraction, since diversity_dei and environment_sustainability were empty in 2016-2018 and now return text; the substantive additions are board diversity and tenure policy language and CSR items such as the Little Scientists program."
+  },
+  "2020": {
+    "emphasis_summary": "The excerpts emphasize talent and inclusion, featuring Employee Resource Groups for attracting, developing and retaining diverse talent, board diversity and tenure, and a director skills matrix.",
+    "notable_shifts": "DEI and talent language roughly doubles from 2019, with the Employee Resource Group language and the director skills matrix as the new elements."
+  },
+  "2021": {
+    "emphasis_summary": "COVID-19 framing takes over the excerpts, including a virtual-meeting notice tied to the pandemic and a CEO message about 'the greatest health crisis', alongside largely unchanged board-diversity and governance boilerplate.",
+    "notable_shifts": "COVID-19 mentions rise from about 4 to 9 and the pandemic becomes the lead framing in place of the 2020 talent emphasis, while the board-diversity and governance text carries over."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts lead with ESG, including a commitment to carbon neutrality by 2050 that builds on a 30% greenhouse-gas reduction goal, alongside a Forbes female-friendly ranking and a 100% Human Rights Campaign LGBTQ+ workplace equality score.",
+    "notable_shifts": "This is the first year the environment excerpt contains concrete climate targets rather than general sustainability language, and the excerpts add recognition-based DEI claims (Forbes and HRC rankings) that appear in no other TMO year."
+  },
+  "2023": {
+    "emphasis_summary": "Climate and renewable energy lead, with power purchasing agreements to reach 100% renewable energy for U.S. operations, a reduced carbon footprint claim, and a Board diversity section promising enhanced disclosure on diversity, refreshment and tenure.",
+    "notable_shifts": "The 2023 excerpts move from 2022's long-range carbon-neutrality goal to near-term operating steps (power purchasing agreements for U.S. renewable energy) and add the enhanced Board diversity, refreshment and tenure disclosure, while the 2022 Forbes and HRC recognition claims are gone."
+  },
+  "2024": {
+    "emphasis_summary": "Operational integrity and a climate-and-nature framing lead, with commitments to ethical, quality, safety and sourcing standards and an approach to climate, nature and sustainable product design rooted in global frameworks.",
+    "notable_shifts": "The 2024 excerpts broaden the 2023 climate language into nature and sustainable product design and add an operational-standards narrative (ethics, quality, safety, sourcing), while the Board diversity section is mostly table-of-contents text, so little new board content is captured."
+  }
+}

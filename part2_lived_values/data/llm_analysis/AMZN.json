@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The excerpts center on a Calvert, Domini and First Affirmative shareholder proposal asking Amazon to publish a standalone ESG and greenhouse-gas sustainability report, which the board recommends against, alongside director-nomination criteria and a compensation section stressing long-vesting stock awards.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The environment excerpt is reduced to a one-line pointer to Amazon's sustainability website inside board-meeting boilerplate, and the compensation excerpt defends pay outcomes by citing an approximately 88% stock-price rise from January 2014 to December 2016.",
+    "notable_shifts": "The 2016 sustainability-report proposal drops out entirely, so the environment section goes from shareholder pressure on ESG disclosure to a website reference, and the compensation text turns from policy description to a performance defense."
+  },
+  "2018": {
+    "emphasis_summary": "The diversity excerpt is a shareholder proposal for a board diversity policy requiring qualified women and minority candidates on the initial nominee list (39 diversity references), while the other sections remain board-committee and compensation boilerplate.",
+    "notable_shifts": "Diversity appears as a substantive topic for the first time, displacing the 2016 sustainability-reporting proposal, and the compensation excerpt adds a review of workplace-discrimination matters within HR programs."
+  },
+  "2019": {
+    "emphasis_summary": "The excerpts point readers to Amazon's sustainability, environmental and diversity websites and to a list of director-qualification criteria, with little substantive policy text.",
+    "notable_shifts": "Diversity and sustainability move from proposal text (2018) to website pointers, and the new human-capital section consists of director-skill criteria rather than workforce data."
+  },
+  "2020": {
+    "emphasis_summary": "The environment excerpt is the clear focus, describing the Climate Pledge commitment to net-zero carbon by 2040 and 100% renewable energy by 2030 with more than 86 renewable projects, while governance text adds supplier-map and Supply Chain Standards disclosure.",
+    "notable_shifts": "Environment goes from a website pointer (2019) to a substantive section with about 45 environmental references, the first time Amazon's own climate commitments appear in these excerpts, and supplier-chain transparency enters the governance section."
+  },
+  "2021": {
+    "emphasis_summary": "The diversity excerpt highlights Amazon's self-reported DEI results, including doubling the number of Black directors and vice presidents in 2020 and again in 2021, while the environment excerpt gives carbon-footprint examples such as the largest wind farm in rural Texas and an electric delivery fleet.",
+    "notable_shifts": "Diversity moves from a board-policy proposal to company-reported outcomes, and the environment section grows to about 54 references with operational examples that extend the 2020 Climate Pledge framing."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts read as a Global Impact Highlights section, emphasizing a workforce of more than 1.6 million people, 750,000 U.S. jobs created since the pandemic, and human-capital initiatives and goals.",
+    "notable_shifts": "Human capital becomes a labeled corporate-impact theme, and the compensation excerpt shifts to arguing that executive pay should follow long-term results rather than one-, two- or three-year goals that can reward above-target payouts on flat stock prices."
+  },
+  "2023": {
+    "emphasis_summary": "The governance excerpts highlight share-structure and board features, including a single class of common stock with one vote per share and an annually elected board, alongside DEI goals covering hiring, belonging and equitable access through 13 affinity groups.",
+    "notable_shifts": "Governance content moves from board-meeting logistics to explicit share-structure and board-election features, and DEI gains concrete goals around hiring, belonging and equitable access."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts are dominated by shareholder proposals and vote recommendations, including a proposal for an additional board committee to oversee public policy, plus a compensation section that discusses shareholder engagement and the say-on-pay vote.",
+    "notable_shifts": "Human capital becomes a list of shareholder proposals with board recommendations rather than program description, and the compensation section shifts from pay philosophy toward reporting on investor feedback."
+  }
+}

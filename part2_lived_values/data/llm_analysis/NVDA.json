@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Excerpts are almost entirely equity-plan performance-criteria boilerplate (adjustments that exclude stock compensation, restructuring and acquisition amortization) and the compensation table of contents, with environment and diversity sections empty and governance limited to risk-oversight language.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Only the compensation and governance sections carry text, and it repeats the 2016 risk-analysis and CEO-evaluation language, so the excerpts contain no substantive ESG, workforce or diversity disclosure.",
+    "notable_shifts": "The equity-plan boilerplate that filled human_capital in 2016 drops out entirely. The non-GAAP definitions now cite a $287 million fiscal 2017 adjustment against $378 million for fiscal 2016."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts again rely on equity-plan performance-goal boilerplate, risk-analysis text and governance-guideline text, with the environment and diversity sections empty.",
+    "notable_shifts": "The equity-plan text returns to human_capital, and the non-GAAP adjustment updates to $407 million for fiscal 2018. The compensation table of contents adds a Pay Ratio entry that 2017 lacked."
+  },
+  "2019": {
+    "emphasis_summary": "Governance highlights (proxy access, declassified board, independent lead director, 75% meeting attendance) and say-on-pay support (over 97% at the 2018 meeting) lead the excerpts, framed around board oversight of environmental, social and corporate governance risks, while human_capital and diversity_dei are empty.",
+    "notable_shifts": "The environment section is populated for the first time in the NVDA sample, framing board oversight around environmental, social and corporate governance issues. It also adds stockholder engagement covering 26% of common stock and the 97% say-on-pay result."
+  },
+  "2020": {
+    "emphasis_summary": "Pay structure (performance-based CEO pay, a 200% of target cap and 150% for CEO PSUs) and shareholder engagement (19% of common stock) dominate, and a diversity_dei section now describes nominee-selection criteria that consider diversity, including gender and ethnic background.",
+    "notable_shifts": "A diversity_dei section appears for the first time, and the stockholder-engagement figure falls to 19% from 26% in 2019."
+  },
+  "2021": {
+    "emphasis_summary": "The excerpts combine a DEI narrative (diverse teams fueling innovation, recruiting women, Black and Hispanic candidates) and a director skills matrix in human_capital with board oversight of AI, diversity and climate change in governance.",
+    "notable_shifts": "Climate change enters the board's ESG oversight list in 2021, where the 2020 wording covers only AI and diversity. The human_capital section also moves from equity-plan boilerplate to a director skills matrix and explicit recruiting language."
+  },
+  "2022": {
+    "emphasis_summary": "Governance and investor-engagement content dominates: outreach to holders of 32% of stock covering governance, diversity and ESG, annual say-on-pay, and the director skills matrix, with climate and AI risk named in board oversight.",
+    "notable_shifts": "The 2022 excerpts state that, beginning in fiscal 2023, the Nominating and Corporate Governance Committee takes over human capital management oversight, the first explicit board-level assignment of that topic in the sample. The investor outreach now explicitly includes diversity and ESG."
+  },
+  "2023": {
+    "emphasis_summary": "The excerpts pair the director skills matrix and board-diversity commitments with say-on-pay results, and the compensation section stresses performance-based, at-risk pay (over 90% of CEO target pay).",
+    "notable_shifts": "The board now states that it expects Board diversity to increase before the 2024 meeting, a new forward commitment. The say-on-pay support figure is updated to approximately 93% for fiscal 2022 from approximately 95% for the 2021 meeting."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts combine the skills matrix and board-diversity recruiting language with an investor-outreach summary covering 31% of stock on sustainability and diversity, while the environment section is mostly a table-of-contents pointer.",
+    "notable_shifts": "Investor outreach shifts from environmental and social practices in 2023 to corporate sustainability practices in 2024, covering slightly less stock (31% versus 32%). The skills matrix adds Lora and drops two names (McCaffery and Perry)."
+  }
+}

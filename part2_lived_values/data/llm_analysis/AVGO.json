@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The usable text is almost entirely executive pay and board process (a 50/50 performance-versus-service RSU mix for executives, share-ownership guidelines, and nominating-committee and Code of Ethics procedures), while the human-capital and DEI labels are empty and the compensation label holds only a table of contents.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The excerpts emphasize pay-for-performance and shareholder-facing justification (a best-practices checklist, a CEO 2016 grant that was 100% performance-based with a relative TSR metric, and a CFO transition), while the human-capital label is filled with Broadcom Corp. acquisition accounting rather than workforce content and the DEI label stays empty.",
+    "notable_shifts": "Versus 2016, the pay text moves from equity-award mechanics to a say-on-pay case (a non-binding frequency vote, the relative TSR design, and the best-practices checklist), and the governance text shifts from nominating-committee process to board leadership structure with a separate independent Chairman and director age-75 and job-change resignation policies. The newly populated human-capital label adds no workforce information, since it comes from merger accounting notes citing $6,993 million of BRCM revenue."
+  },
+  "2018": {
+    "emphasis_summary": "This is a transaction proxy rather than an annual-meeting proxy, and its populated text is a shareholder Q&A on the redomiciliation from Singapore (Broadcom-Singapore) to Delaware (Broadcom-Delaware) covering dilution, debt guarantees, dividends and buybacks, and tax, plus Delaware bylaw nomination and proxy-access provisions, while the compensation, environment, and DEI labels are empty.",
+    "notable_shifts": "Versus 2017, the pay and board-structure content drops out entirely: the compensation and environment labels become empty, and the governance label now carries Delaware bylaws (advance-notice nominations and proxy access capped at 20% of directors) in place of the Singapore constitution's 5%-holder and 120-day nomination thresholds. The human-capital label moves from acquisition accounting to redomiciliation Q&A, which states that the transaction is not conditioned on the proposed Qualcomm acquisition and that Broadcom-Delaware will report under U.S. GAAP on Forms 10-K, 10-Q and 8-K."
+  },
+  "2019": {
+    "emphasis_summary": "Only the environment, compensation, and governance labels are populated, and they all hold the same executive pay-mix and compensation-committee text (target STI/LTI and RSU/PSU mix, risk-taking review, Nasdaq delegation rules), so the excerpts emphasize pay structure with no usable DEI or human-capital content.",
+    "notable_shifts": "Versus 2018, the filing returns to a full annual-meeting pay discussion: the transaction-only text drops out and the compensation label adds an FY2018 named-executive pay mix (the CEO received no FY2018 equity award, and the FY2017 multi-year PSU is annualized over four years), while the governance label adds Succession Planning and Stock Ownership Guidelines sections."
+  },
+  "2020": {
+    "emphasis_summary": "The excerpts repeat the 2019 pay-mix and compensation-committee text almost unchanged, with no DEI, human-capital, or ESG content and a near-empty governance label.",
+    "notable_shifts": "The pay-mix explanation now covers fiscal 2019 multi-year equity grants (RSUs and PSUs granted January 15, 2019 and vesting over four years), where the 2019 filing only annualized the CEO's fiscal 2017 PSU award."
+  },
+  "2021": {
+    "emphasis_summary": "The human-capital label is populated for the first time, but its text is mostly board-leadership and director-independence material (eight Board meetings in fiscal 2020, separate Chairman and CEO roles), so the excerpts emphasize governance structure over workforce topics, and the DEI label stays empty.",
+    "notable_shifts": "This is the first year the excerpts reference an ESG Report (in the human-capital and environment labels, which 2019 and 2020 do not), though the newly populated human-capital text carries no workforce metrics."
+  },
+  "2022": {
+    "emphasis_summary": "All five labels are populated for the first time, but the DEI label holds governance-practice boilerplate, and the substance is stockholder engagement led by the Lead Independent Director, ESG reporting frameworks (GRI, SASB, TCFD), and a Code of Ethics and Business Conduct section.",
+    "notable_shifts": "Compared with 2021, the excerpts add stockholder-engagement content (zero mentions in 2021, eight in 2022) and Code of Ethics text that covers contractors, while the DEI text adds diversity wording but no metrics."
+  },
+  "2023": {
+    "emphasis_summary": "The human-capital label carries a Paris-aligned Scope 1 and 2 emissions goal and the ESG Report methodology alongside a governance-practices list, the DEI label is empty, and the compensation label holds only forward-looking-statement text.",
+    "notable_shifts": "Versus 2022, the 2023 excerpts add a quantified emissions goal (Scope 1 and 2 reduction aligned with the Paris Agreement and a 1.5 degree target), state that the ESG Report is reviewed by the full Board, and list ESG priorities among the topics discussed with stockholders."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts are mostly governance text (a governance-practices list with 8 of 9 nominees independent, the Code of Ethics, Corporate Governance Guidelines, and an overboarding limit), with a progress report on the emissions goal and no DEI content.",
+    "notable_shifts": "Versus 2023, the stockholder-engagement language roughly doubles (four to nine mentions) and the emissions text shifts from stating a reduction goal to reporting progress against it."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Excerpts stress board governance, risk oversight and the no-fault executive clawback policy, while CSR material (sustainability, human rights, responsible sourcing) is reduced to a pointer toward external reports and the diversity_dei section is empty.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The most concrete content is the carbon and renewable-energy commitments, anchored by a public goal to raise datacenter wind, solar and hydro power from 44% to above 50% by end-2018 and above 60% early in the next decade, alongside the same governance and clawback text as 2016.",
+    "notable_shifts": "The 44%-to-50% renewable target and the statement that operations have been carbon neutral since mid-2012 are new quantified environmental claims that do not appear in the 2016 excerpt. The clawback policy now also covers other senior leaders, not only executive officers."
+  },
+  "2018": {
+    "emphasis_summary": "The excerpts are thin on operational detail, leaning on pointers to external ESG reporting and on board-independence statistics, with the diversity_dei section still empty.",
+    "notable_shifts": "Recognition in the Thomson Reuters Diversity & Inclusion Index appears for the first time in the sample. The excerpts also add the statistic that twelve of 14 Board members are independent, including the Chair and all committee chairs."
+  },
+  "2019": {
+    "emphasis_summary": "The excerpts now read like an ESG-report summary, citing GRI-aligned reporting and UN Guiding Principles human-rights work, and the diversity_dei section is populated for the first time with a board skills-and-diversity attribute matrix.",
+    "notable_shifts": "ESG mentions rise from one in 2018 to eleven in 2019 across the excerpts, and the Global Reporting Initiative standard is named for the first time. The diversity_dei section is populated after three years of being empty."
+  },
+  "2020": {
+    "emphasis_summary": "Human capital leads with ESG-reporting alignment (GRI and SASB materiality maps) and a CEO-succession commitment to seek highly qualified women and individuals from minority groups, while the environment excerpt is mostly the CEO letter on fiscal 2020 business performance.",
+    "notable_shifts": "The CEO-candidate commitment to seek highly qualified women and individuals from minority groups is new in 2020. SASB is added alongside GRI, which the 2019 excerpt cited alone."
+  },
+  "2021": {
+    "emphasis_summary": "The excerpts emphasize Board oversight of ESG and Board refreshment, with an engagement block covering four environmental and social initiatives and a governance section that describes the AETHER committee and Office of Responsible AI structure for AI principles.",
+    "notable_shifts": "The AI governance structure (the AETHER committee and the Office of Responsible AI) first appears in 2021. The human_capital excerpt also gains a four-initiative Engagement with Environmental and Social Topics block."
+  },
+  "2022": {
+    "emphasis_summary": "The excerpts center on Racial Equity Initiative goals due by 2025, TCFD-aligned climate reporting and a Board-diversity-of-views narrative, while executive pay is described mainly through its performance-metric structure.",
+    "notable_shifts": "The Racial Equity Initiative with 2025 goals and TCFD-aligned climate reporting both first appear in 2022. Climate reporting moves from the SASB-only framing of 2021 to explicit TCFD alignment."
+  },
+  "2023": {
+    "emphasis_summary": "The 2023 excerpts are almost a verbatim repeat of 2022, with the Racial Equity Initiative, TCFD and board-diversity language intact, so the emphasis is unchanged.",
+    "notable_shifts": "No new commitment or metric appears: the human_capital and diversity_dei excerpts repeat the 2022 sentences. The only observable difference is in the skills-matrix tally (Sales and Marketing 6 versus 5, Technology 5 versus 7)."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts pivot toward cybersecurity (the Secure Future Initiative) and a board diversity matrix, and they point to a Fiscal Year 2025 executive compensation program change, while the environment excerpt is mostly a forward-looking-statements disclaimer.",
+    "notable_shifts": "The Secure Future Initiative cybersecurity framing first appears in 2024. Racial Equity Initiative references rise to four from one in 2022 and two in 2023."
+  }
+}

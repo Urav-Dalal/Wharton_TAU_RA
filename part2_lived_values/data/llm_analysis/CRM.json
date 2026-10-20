@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The only populated sections are compensation and governance, and they are mostly table-of-contents and Board-matrix content (a director skills matrix with a diversity-of-background row, committee charters, Code of Conduct), with no human-capital, DEI, or sustainability text.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "The human-capital section carries Salesforce's equal-pay work and 1-1-1 philanthropy model (about $6 million committed to pay adjustments and roughly $160 million given to charities), the environment section carries the sustainability page (100 percent renewable-energy goal, net-zero emissions achievement, giving-back awards), and the DEI section is empty.",
+    "notable_shifts": "Versus 2016, which had no human-capital or sustainability text in the excerpts, 2017 introduces gender pay equity (the 2016 equal-pay assessment and salary adjustment) and a 100 percent renewable-energy goal alongside an announced net-zero emissions achievement."
+  },
+  "2018": {
+    "emphasis_summary": "Pay equity and philanthropy remain the lead human-capital items, now with a larger commitment figure and a pledge to review workforce pay on an ongoing basis, while the environment section is largely table-of-contents text with some renewable-energy and carbon wording and the DEI section is still empty.",
+    "notable_shifts": "The pay-equity commitment rises from about $6 million (2017) to about $8.7 million, the philanthropy total from about $160 million to about $200 million, and the text adds a pledge to evaluate pay for employees doing similar work at the same level."
+  },
+  "2019": {
+    "emphasis_summary": "The human-capital section is the most detailed yet on pay equity, covering annual salary and bonus reviews for the global workforce and gender, race, and ethnicity reviews for U.S. staff, alongside philanthropy totals, while the DEI section remains empty.",
+    "notable_shifts": "Versus 2018, the committed pay-equity amount rises to about $10.3 million, race and ethnicity are added to the U.S. pay reviews, and philanthropy reaches about $260 million and 3.8 million volunteer hours."
+  },
+  "2020": {
+    "emphasis_summary": "The excerpts now have a headed Human Capital Management section (four core values, more than 49,000 employees, Fortune 'Best Companies to Work For' recognition, inclusion and wellness language), with a stockholder-engagement program reported alongside and only a short DEI paragraph.",
+    "notable_shifts": "Versus 2019, pay-equity mentions fall from nine to two as the section shifts toward culture and headcount, a stockholder-engagement program is described (holders of more than 50 percent of shares engaged), and the DEI section is populated for the first time."
+  },
+  "2021": {
+    "emphasis_summary": "The human-capital section continues the culture narrative (values, retaining 'the best talent', workplace recognition awards) with more than 56,000 employees and stockholder outreach, while pay-equity wording holds at two mentions and the DEI section is empty again.",
+    "notable_shifts": "Headcount rises from 49,000 to 56,000 and the section adds talent-retention and workplace-recognition language, but the excerpts add no new metrics beyond headcount."
+  },
+  "2022": {
+    "emphasis_summary": "The human-capital section now lists sustainability as a fifth company value and names Sustainability and Equality teams in stockholder outreach, and the DEI section returns after an empty 2021 with more specific language (underrepresented groups, inclusion).",
+    "notable_shifts": "Compared with 2021, the DEI text is substantially more specific (underrepresented groups cited five times, and inclusion appears in the DEI section for the first time), and the stockholder-outreach text adds the Sustainability and Equality teams."
+  },
+  "2023": {
+    "emphasis_summary": "The human-capital section now quantifies the workforce (79,390 employees, about 36 percent identifying as women, and a roughly 10 percent reduction tied to the January 2023 restructuring) and describes year-round stockholder engagement with the CEO, CFO, and Lead Independent Director, while the DEI text is thin and the compensation label holds only forward-looking-statement text.",
+    "notable_shifts": "New in 2023 are workforce composition figures and the restructuring-related headcount reduction, and the DEI text shrinks from four diversity mentions in 2022 to one."
+  },
+  "2024": {
+    "emphasis_summary": "The human-capital label is mostly table-of-contents and proxy-letter text, so the substantive content sits in the DEI section, which names diversity, equity and inclusion, workplace environment, culture, employee retention, and leadership development as human-capital management focus areas.",
+    "notable_shifts": "The 2024 DEI language explicitly ties 'diversity, equity and inclusion' to human-capital management and points readers to a page 33 section, the environment excerpt adds board-evaluation and skills-matrix language, and the 2023 workforce figures do not reappear."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "Human_capital and compensation excerpts are named-executive bonus justifications from the proxy pay section, and diversity_dei is a proxy-advisor critique of board diversity, so the sample contains little company-authored DEI content.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "Bonus justifications and proxy-advisor criticism of board independence and diversity dominate, and the environment excerpt is a shareholder-proposal supporting statement followed by the company's opposing statement.",
+    "notable_shifts": "Human_capital adds diversity language (diversity, including gender diversity, is central to our mission), and the count of diversity terms rises from one in 2016 to ten, although the section still opens with bonus text."
+  },
+  "2018": {
+    "emphasis_summary": "Human_capital shifts to a shareholder-proposal discussion of the gender pay gap with median-versus-average definitions, paired with the company's response that it reviews pay for fairness, while diversity_dei is empty and governance text is a list of shareholder proposals.",
+    "notable_shifts": "The 2018 excerpts add the gender pay-gap definitions and the company's statement that it has reviewed pay for fairness and pay equity for many years. Women and underrepresented-group term counts rise to 16 and 6 from 4 and 1 in 2017."
+  },
+  "2019": {
+    "emphasis_summary": "Proxy structure (table-of-contents pointers, director retainer details and the lead independent director description) fills most excerpts, and the only DEI content is a Workforce Diversity pointer, so the 2019 excerpts carry almost no workforce data.",
+    "notable_shifts": "Women and underrepresented-group terms drop to zero in human_capital, from 16 and 6 in 2018, so the 2019 excerpts contain no workforce-diversity metric."
+  },
+  "2020": {
+    "emphasis_summary": "The human_capital excerpt contains the most concrete workforce-diversity content in the META sample, covering the Diverse Slate Approach, Facebook University and hiring-rate trends for underrepresented candidates, with a Diversity Report pointer.",
+    "notable_shifts": "The 2019 excerpts had no workforce metric, but 2020 adds the Diverse Slate Approach rollout, steady increases in hiring rates for underrepresented people since 2015 testing, and more than 700 Facebook University graduates. Underrepresented-group terms rise to 12."
+  },
+  "2021": {
+    "emphasis_summary": "The excerpts stress pay equity (across gender globally and race in the United States), COVID-era workforce support, a board diversity policy and an ESG-at-Facebook overview.",
+    "notable_shifts": "The 2021 excerpts add the claim that a majority of directors are diverse in gender, ethnicity and LGBTQ status. They also add a pay-equity finding covering race in the United States, and pay-equity language is absent from the 2020 human_capital excerpt."
+  },
+  "2022": {
+    "emphasis_summary": "A stand-alone DEI section (onboarding, performance and career support for underrepresented people, and manager capability building) and a board diversity matrix of 10 directors, 4 of them female, lead the diversity narrative, with pay equity restated.",
+    "notable_shifts": "The Diversity, Equity and Inclusion section first appears in this sample in 2022, with commitments on onboarding, performance and career development for underrepresented people. The board matrix quantifies 10 directors (4 female, 6 male)."
+  },
+  "2023": {
+    "emphasis_summary": "Board oversight of strategy, risk and expense management leads the excerpts, alongside the board diversity policy and a board matrix of nine directors (four female, five male), with the 2022 Human Rights Report cited as background.",
+    "notable_shifts": "Expense management and increased transparency on board oversight of strategy and risk first appear in 2023. The board shrinks to nine directors in the diversity matrix, from ten in 2022."
+  },
+  "2024": {
+    "emphasis_summary": "The excerpts combine board engagement and governance with a board matrix of 11 directors (4 female, 7 male), while the environment section is essentially a table-of-contents pointer to Climate Goals and most shareholder proposals concern AI and child safety.",
+    "notable_shifts": "The board grows from nine to eleven directors, with the male count rising from five to seven and the female count unchanged at four. The shareholder-proposal focus shifts to AI-driven targeted advertising and child safety, neither of which appears in the 2023 excerpts."
+  }
+}

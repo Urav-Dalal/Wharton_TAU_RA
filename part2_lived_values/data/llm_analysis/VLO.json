@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "emphasis_summary": "The environment, human-capital and DEI fields are blank in this filing, so the excerpts consist of compensation-philosophy and governance text about the Nominating/Governance and Public Policy Committee's remit over board size and director nominations.",
+    "notable_shifts": "First available year in sample; no prior-year comparison."
+  },
+  "2017": {
+    "emphasis_summary": "As in 2016, the environment, human-capital and DEI fields are blank, and the only content is the committee's purpose statement on identifying director candidates and developing corporate governance principles.",
+    "notable_shifts": "The 2017 excerpts are substantively the same as 2016, so the change is in extraction coverage rather than company emphasis, and the 2016-2017 blanks are more likely extraction gaps than an absence of disclosure."
+  },
+  "2018": {
+    "emphasis_summary": "The environment field now carries the committee charter's oversight of 'climate-related risks and opportunities,' and the human-capital field reports the company's 'best-ever safety and performance levels' in 2017 in compensation-discussion text.",
+    "notable_shifts": "Compared with 2017, the environment field is populated for the first time with climate named as a risk-oversight topic, and the human-capital field carries operational safety records where 2017 was blank."
+  },
+  "2019": {
+    "emphasis_summary": "The environmental content repeats the 2018 charter language on climate-related risks and corporate responsibility, while the human-capital field is director-biography text, such as a director's labor and employment practice experience.",
+    "notable_shifts": "The climate and corporate-responsibility charter language is essentially unchanged from 2018, and the human-capital field shifts from 2018's operational safety records to director biographies, so this year's excerpts contain less operational detail."
+  },
+  "2020": {
+    "emphasis_summary": "The Nominating/Governance and Public Policy Committee's remit now explicitly covers 'climate and environmental matters, public policy trends, and corporate responsibility and reputation,' and the table of contents lists a 'Climate Change Disclosure' heading.",
+    "notable_shifts": "Compared with 2019's charter language on climate-related risks, 2020 names 'climate and environmental matters' directly in the committee's oversight remit; the 'Climate Change Disclosure' heading was already in the 2019 contents, so the change is in mandate wording rather than new disclosure topics."
+  },
+  "2021": {
+    "emphasis_summary": "The committee is now charged with 'environmental, social, and governance (ESG) matters, including climate-related risks and opportunities, health, safety and environmental performance, public policy, political contributions,' and the table of contents renames the heading to 'Corporate Responsibility & ESG.'",
+    "notable_shifts": "Compared with 2020's 'climate and environmental matters' wording, 2021 adopts ESG terminology and adds political contributions and explicit health, safety and environmental performance to the mandate."
+  },
+  "2022": {
+    "emphasis_summary": "The environment field is committee-composition text naming the renamed Sustainability and Public Policy Committee, while the human-capital, DEI and compensation fields carry an 'ESG-Linked Pay' highlight in which an energy transition modifier ties long-term incentives to the company's 2025 GHG emissions reduction and offset target.",
+    "notable_shifts": "Versus 2021's general ESG mandate, 2022 is the first year the sample links executive pay to a GHG target, and the committee is renamed Sustainability and Public Policy; earlier excerpts describe oversight only."
+  },
+  "2023": {
+    "emphasis_summary": "The 2023 excerpts are the most project-specific on climate, naming sustainable aviation fuel capability at the DGD Port Arthur plant (about half of its 470 million gallons per year capacity), a large-scale carbon sequestration project enabling low-carbon ethanol, and low-carbon hydrogen, renewable propane and renewable naphtha projects.",
+    "notable_shifts": "Relative to 2022's pay-linked GHG target, 2023 adds named projects with capacity figures (the SAF upgrade, carbon sequestration for ethanol, a tailpipe CO2 onboard capture system), whereas the 2022 excerpts name no low-carbon project."
+  },
+  "2024": {
+    "emphasis_summary": "The 2024 excerpts state dated GHG goals (2025 and 2035 emissions reduction and displacement targets and a 2050 ambition), plus support for an onboard CO2 capture system and a low-carbon fuels strategy, largely inside forward-looking-statement and ESG-policy text.",
+    "notable_shifts": "Compared with 2023's project-level detail, 2024 shifts to dated company-wide targets and a vehicle-tailpipe CO2 capture commitment, and the environment field's content is mostly forward-looking and policy language rather than project descriptions."
+  }
+}
