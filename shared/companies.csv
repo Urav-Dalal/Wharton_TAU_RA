@@ -1,0 +1,51 @@
+rank,ticker,company_name,sector
+1,MSFT,Microsoft,Technology
+2,AAPL,Apple,Technology
+3,NVDA,NVIDIA,Technology
+4,GOOGL,Alphabet,Technology
+5,META,Meta Platforms,Technology
+6,AVGO,Broadcom,Technology
+7,CRM,Salesforce,Technology
+8,ORCL,Oracle,Technology
+9,IBM,IBM,Technology
+10,INTC,Intel,Technology
+11,BRK.B,Berkshire Hathaway,Financials
+12,JPM,JPMorgan Chase,Financials
+13,BAC,Bank of America,Financials
+14,WFC,Wells Fargo,Financials
+15,GS,Goldman Sachs,Financials
+16,MS,Morgan Stanley,Financials
+17,BLK,BlackRock,Financials
+18,SCHW,Charles Schwab,Financials
+19,AXP,American Express,Financials
+20,C,Citigroup,Financials
+21,LLY,Eli Lilly,Healthcare
+22,UNH,UnitedHealth Group,Healthcare
+23,JNJ,Johnson & Johnson,Healthcare
+24,ABBV,AbbVie,Healthcare
+25,MRK,Merck,Healthcare
+26,TMO,Thermo Fisher Scientific,Healthcare
+27,ABT,Abbott Laboratories,Healthcare
+28,PFE,Pfizer,Healthcare
+29,MDT,Medtronic,Healthcare
+30,BMY,Bristol-Myers Squibb,Healthcare
+31,AMZN,Amazon,Consumer Discretionary
+32,TSLA,Tesla,Consumer Discretionary
+33,HD,Home Depot,Consumer Discretionary
+34,MCD,McDonald's,Consumer Discretionary
+35,NKE,Nike,Consumer Discretionary
+36,SBUX,Starbucks,Consumer Discretionary
+37,TGT,Target,Consumer Discretionary
+38,LOW,Lowe's,Consumer Discretionary
+39,TJX,TJX Companies,Consumer Discretionary
+40,F,Ford Motor,Consumer Discretionary
+41,XOM,ExxonMobil,Energy
+42,CVX,Chevron,Energy
+43,COP,ConocoPhillips,Energy
+44,EOG,EOG Resources,Energy
+45,SLB,SLB (Schlumberger),Energy
+46,MPC,Marathon Petroleum,Energy
+47,PSX,Phillips 66,Energy
+48,VLO,Valero Energy,Energy
+49,OXY,Occidental Petroleum,Energy
+50,HAL,Halliburton,Energy

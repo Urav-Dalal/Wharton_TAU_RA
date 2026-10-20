@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+shared/company_tickers_raw.json
+shared/msft_submissions_sample.json
+shared/msft_submissions_001.json
+*.log
+run_log.txt
+part1_stated_values/data/raw_snapshots/
+part2_lived_values/data/raw_filings/
+part1_stated_values/data/about_page_candidates_chosen.csv
+part3_authenticity_index/data/authenticity_summary_stats.json

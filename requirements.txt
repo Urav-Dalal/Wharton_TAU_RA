@@ -1,0 +1,5 @@
+requests>=2.31
+beautifulsoup4>=4.12
+charset-normalizer>=3.3
+scipy>=1.11
+numpy>=1.26
