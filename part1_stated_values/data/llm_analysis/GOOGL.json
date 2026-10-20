@@ -1,0 +1,14 @@
+{
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, no comparison.",
+    "theme_categories": ["growth_scale_performance", "investor_relations_disclosure"],
+    "analyst_notes": "The scraped page is an Investor Relations press release announcing the date of the Q2 2023 earnings call, followed by a short boilerplate 'About Alphabet' paragraph. It contains no mission, values, or culture statements; the only substantive signal is scale (billions of people using its products)."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Text is identical to the 2023 snapshot; the 2024 observation is a stale copy of the July 2023 press release at the same URL.",
+    "theme_categories": ["growth_scale_performance", "investor_relations_disclosure"],
+    "analyst_notes": "The 2024 observation is a cache of a 2023 earnings-call announcement, not a 2024 page, so it should be excluded from any year-over-year claims about Alphabet. The classical similarity of 1.0 reflects this duplication, not stable messaging."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "ticker": "VLO",
+  "company_name": "Valero Energy",
+  "sector": "Energy",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.valero.com/",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "",
+      "text": "Valero | Advancing the Future of Energy"
+    },
+    {
+      "year": "2021",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.valero.com/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "Valero | Advancing the Future of Energy"
+    },
+    {
+      "year": "2022",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.valero.com/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "Valero | Advancing the Future of Energy"
+    },
+    {
+      "year": "2023",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.valero.com/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "Valero | Advancing the Future of Energy"
+    },
+    {
+      "year": "2024",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.valero.com/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "Valero | Advancing the Future of Energy"
+    }
+  ]
+}

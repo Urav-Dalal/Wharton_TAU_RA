@@ -1,0 +1,56 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year.",
+    "theme_categories": ["people_culture", "community_social_responsibility", "diversity_equity_inclusion"],
+    "analyst_notes": "Warm, employee-centered storytelling with quantified volunteering and giving figures ($41M contributed, 329,000+ volunteer hours), but no environmental or sustainability content appears on the Culture page; that topic is left to the separate Corporate Responsibility report."
+  },
+  "2017": {
+    "changed_from_prior": true,
+    "change_reason": "New headline ('our employees put values into action'), new stories (Luanda malaria painting, Thai conservation project, Houston pro bono legal work), and 2016 impact figures ($38M, 9,300+ volunteers) replace the 2015 content, while the page structure is unchanged.",
+    "theme_categories": ["community_social_responsibility", "people_culture", "diversity_equity_inclusion"],
+    "analyst_notes": "Environmental content is limited to one clause about natural-resource conservation in a Thai volunteer project. The framing stays volunteer-centered rather than a sustainability commitment."
+  },
+  "2018": {
+    "changed_from_prior": true,
+    "change_reason": "Adds a 'Day in the Life' series of employee profiles (firefighter, ship captain, data scientist), STEM outreach, and 2017 impact figures ($33.1M, 8,010+ volunteers), along with new environmental items such as whooping crane habitat work.",
+    "theme_categories": ["people_culture", "community_social_responsibility", "diversity_equity_inclusion", "innovation_technology"],
+    "analyst_notes": "The 'Human Energy' and 'ingenuity' language is aspirational and people-focused. Environmental items (tree planting, habitat work in Louisiana) are brief and presented as community service rather than operational performance."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "Replaces the earlier stories with international volunteering in Kazakhstan, the Philippines (2.4 tons of coastal litter removed), Singapore, and Indonesia, plus a Trees For Houston partnership (225,000+ trees planted cumulatively) and 2018 impact figures ($35.2M, 274,200+ volunteer hours).",
+    "theme_categories": ["community_social_responsibility", "environmental_sustainability", "people_culture", "diversity_equity_inclusion"],
+    "analyst_notes": "This is the most environment-leaning CVX capture (tree planting, coastal cleanup, sea turtles), but it is still reported as volunteer activity rather than as emissions or operational performance. The tree-planting figure is specific, while the framing is generic."
+  },
+  "2020": {
+    "changed_from_prior": true,
+    "change_reason": "A new integrity block ('getting results the right way', 'a culture of integrity') appears, impact figures move to 2019 values ($36.7M, 7,752 people, 193,369 hours, down from 274,200), and report links are updated.",
+    "theme_categories": ["community_social_responsibility", "people_culture", "integrity_ethics_trust", "diversity_equity_inclusion"],
+    "analyst_notes": "The integrity block is one generic sentence with a 'learn more about governance' link and no specifics. The drop in reported volunteer hours is not explained anywhere on the page."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "Only small additions: a 30-year PRIDE anniversary block and updated report links, with the same stories and the same 2019 impact figures.",
+    "theme_categories": ["community_social_responsibility", "people_culture", "integrity_ethics_trust", "diversity_equity_inclusion"],
+    "analyst_notes": "Content is largely identical to 2020, including duplicated caption text from scraping. The 2019 impact figures are carried forward, so the page is no longer reporting new numbers."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Only the report link labels change (to 2021); the copy and figures are otherwise identical to 2021.",
+    "theme_categories": ["community_social_responsibility", "people_culture", "integrity_ethics_trust", "diversity_equity_inclusion"],
+    "analyst_notes": "Stories and impact figures remain at 2019 data, so the page is effectively static on this topic."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Copy is essentially identical to 2022, with minor layout and link changes and report links moved to 2022.",
+    "theme_categories": ["community_social_responsibility", "people_culture", "integrity_ethics_trust", "diversity_equity_inclusion"],
+    "analyst_notes": "No new stories or metrics appear; the culture narrative and its statistics are unchanged across four captures."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Essentially identical to 2023, with the same stories and 2019 impact figures; only minor text differences.",
+    "theme_categories": ["community_social_responsibility", "people_culture", "integrity_ethics_trust", "diversity_equity_inclusion"],
+    "analyst_notes": "From 2020 through 2024 the page reports the same 2019 metrics, which suggests the culture page has not been refreshed. Environmental and governance claims are largely absent from it."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "ticker": "BAC",
+  "company_name": "Bank of America",
+  "sector": "Financials",
+  "years": [
+    {
+      "year": "2016",
+      "status": "OK",
+      "chosen_url": "https://www.bankofamerica.com/",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "customer_focus",
+      "text": "Bank of America \u2014 Banking, Credit Cards, Mortgages and Auto Loans\nskip to sign in\nYou're signed out. Thank you.\nYour Online ID is missing. Please try again.\nYour Passcode is missing. Please try again.\nSecure Sign-in\nSign In\nForgot ID\nForgot Passcode\nEnroll\nSecurity & Help\nCheck your browser address bar to make sure you're on our real website:\nwww.bankofamerica.com\nGreen text/shading\nLock icon\nProtect yourself from phishing\nYour saved Online ID helps us personalize your visit\nHow we collect and use information\nBank of America \u2014 Banking, Credit Cards, Mortgages and Auto Loans\nAdvertising Practices\nAdvertising Practices\nWe strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.\nHere's how it works: We gather information about your online activities, such as the searches you conduct on our Sites and the pages you visit. This information may be used to deliver advertising on our Sites and offline (for example, by phone, email and direct mail) that's customized to meet specific interests you may have.\nIf you prefer that we do not use this information, you may\nopt out of online behavioral advertising\n. If you opt out, though, you may still receive generic advertising. In addition, financial advisors/Client Managers may continue to use information collected online to provide product and service information in accordance with account agreements.\nAlso, if you opt out of online behavioral advertising, you may still see ads when you sign in to your account, for example through Online Banking or MyMerrill. These ads are based on your specific account relationships with us.\nTo learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the\nBank of America Online Privacy Notice\nand our\nOnline Privacy FAQs\n.\nEarn cash back with the BankAmericard Cash Rewards credit card \u2014 1% cash back on every purchase, 2% at grocery stores and\nnow at wholesale clubs\n, and 3% on gas (up to $2,500 in grocery/wholesale club/gas quarterly spend) with no changing categories and no annual fee.\nLearn more \u2014 BankAmericard Cash Rewards\u2122\u00bb\nIf you're a homeowner struggling with your loan payments, learn about our\nhome loan assistance programs\nand the\nDepartment of Justice Settlement\u00bb\nSchedule an appointment\nOpen a new account\nGet the Mobile Banking app\nOrder checks\nTell us you're traveling\nNEW\nPlan for major life events\nWhat's new\nWindows 10 users: Get our top-rated Mobile Banking app\nSummer travel\nHow to access and protect your money while on vacation\nSecurity tips\nAnswer 10 Qs to find out how safe your computer is (or isn't)\nSaving & budgeting\nJust starting to save? See where others like you stand"
+    },
+    {
+      "year": "2017",
+      "status": "OK",
+      "chosen_url": "https://www.bankofamerica.com/",
+      "classical_similarity_to_prior": "0.7336",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "customer_focus",
+      "text": "Bank of America \u2014 Banking, Credit Cards, Mortgages and Auto Loans\nskip to sign in\nYou're signed out. Thank you.\nYour Online ID is missing. Please try again.\nYour Passcode is missing. Please try again.\nSecure Sign-in\nSign In\nForgot ID\nForgot Passcode\nEnroll\nSecurity & Help\nCheck your browser address bar to make sure you're on our real website:\nwww.bankofamerica.com\nGreen text/shading\nLock icon\nProtect yourself from phishing\nYour saved Online ID helps us personalize your visit\nHow we collect and use information\nBank of America \u2014 Banking, Credit Cards, Mortgages and Auto Loans\nAdvertising Practices\nAdvertising Practices\nWe strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.\nHere's how it works: We gather information about your online activities, such as the searches you conduct on our Sites and the pages you visit. This information may be used to deliver advertising on our Sites and offline (for example, by phone, email and direct mail) that's customized to meet specific interests you may have.\nIf you prefer that we do not use this information, you may\nopt out of online behavioral advertising\n. If you opt out, though, you may still receive generic advertising. In addition, financial advisors/Client Managers may continue to use information collected online to provide product and service information in accordance with account agreements.\nAlso, if you opt out of online behavioral advertising, you may still see ads when you sign in to your account, for example through Online Banking or MyMerrill. These ads are based on your specific account relationships with us.\nTo learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review the\nBank of America Online Privacy Notice\nand our\nOnline Privacy FAQs\n.\nStudents under the age of 24 can take charge of their finances with Bank of America Core Checking\u00ae with a monthly maintenance fee waiver.\nLearn more about Core Checking\u00ae\nIf you're a homeowner struggling with your loan payments, learn about our\nhome loan assistance programs.\u00bb\nSchedule an appointment\nGet the Mobile Banking app\nOpen a new account\nOrder checks\nTell us you're traveling\nGo paperless now\nSend money in minutes to almost anyone, using Zelle\nInternational tipping guide\nVictims of identity theft: 5 steps to take action\nSpending analysis tool"
+    },
+    {
+      "year": "2018",
+      "status": "OK",
+      "chosen_url": "https://www.bankofamerica.com/",
+      "classical_similarity_to_prior": "0.0223",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "Bank of America - Banking, Credit Cards, Home Loans and Auto Loans\nBank of America\nBank of America\nBank of America - Banking, Credit Cards, Home Loans and Auto Loans\nWelcome to Bank of America, home for all of your financial needs. Our purpose is to help make financial lives better through the power of every connection.\nbank, banks, banking, finance, finances, financial, financial institution, financial planning, personal finance, personal finances, financial management\nFind your closest financial center or ATM\nSchedule an Appointment\nShow previous carousel item\nShow next carousel item\nNeed help with home loan payments?\nLearn more\nBetter Money Habits\u00ae for your financial life\nExplore priorities below to get started\nView more +\nView less -\nShow previous item\nShow next item\nExplore more topics and build your financial know-how.\nVisit Better Money Habits\u00ae\nYour news and information\nAccount questions? Just ask me.\nI am Erica. I\u00e2\u0080\u0099m just a few taps away \u2014 open your Bank of America\u00ae mobile app and say hello.\nMeet Erica\nWant to customize your mortgage? Check out the new Bank of America Digital Mortgage Experience\n\u2122\nApply Now"
+    },
+    {
+      "year": "2019",
+      "status": "OK",
+      "chosen_url": "https://www.bankofamerica.com/",
+      "classical_similarity_to_prior": "0.4047",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "Bank of America - Banking, Credit Cards, Loans and Investing\nFind your closest financial center or ATM\nSchedule an Appointment\nBetter Money Habits\u00ae for your financial life\nExplore priorities below to get started\nShow previous item\nShow next item\nExplore more topics and build your financial know-how.\nVisit Better Money Habits\u00ae\nVisit Better Money Habits\u00ae\nYour news and information\nGet the upper hand while house hunting\nOur 90 day preapproval is key. The\nBank of America Digital Mortgage Experience\u2122\nmakes it easy!\nGet started\nwith the Bank of America Digital Mortgage Experience\u2122\nSee what\u00e2\u0080\u0099s new with our\nMobile Banking App\nExplore our app"
+    },
+    {
+      "year": "2020",
+      "status": "OK",
+      "chosen_url": "https://www.bankofamerica.com/",
+      "classical_similarity_to_prior": "0.2198",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "Bank of America - Banking, Credit Cards, Loans and Merrill Investing\nFind your closest financial center or ATM\nSchedule an Appointment\nWe\u00e2\u0080\u0099re here to help with what's next.\nBetter Money Habits\u00ae has resources to help you navigate a changing world.\nShow previous item\nShow next item\nExplore more topics and build your financial know\u2011how.\nVisit Better Money Habits\u00ae\nVisit Better Money Habits\u00ae\nYour news and information\nLife Services from\nBank of America\nWe're here to support you with products, services and resources \u2014 for whatever life stage you may be experiencing\nGo to\nLife Services\nWe\u00e2\u0080\u0099re here to help with secure banking in our mobile app\nExplore our app"
+    },
+    {
+      "year": "2021",
+      "status": "OK",
+      "chosen_url": "https://www.bankofamerica.com/",
+      "classical_similarity_to_prior": "0.6081",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "Bank of America - Banking, Credit Cards, Loans and Merrill Investing\nPause button\nPlay button\nFind your closest financial center or ATM\nSchedule an Appointment\nPause button\nPlay button\nFinancial guidance to help with navigating the new normal.\nBetter Money Habits\u00ae has resources to help you navigate a changing world.\nShow previous item\nShow next item\nExplore more topics and build your financial know\u2011how.\nVisit Better Money Habits\u00ae\nVisit Better Money Habits\u00ae\nYour news and information\nTurn your goals into action\n\u2014an easy way to set and track short- and long\u2011term financial goals, get personalized advice when you need it most and more.\nLearn more\nabout Life Plan\nSecure, convenient banking with our mobile app\nExplore our app"
+    },
+    {
+      "year": "2022",
+      "status": "OK",
+      "chosen_url": "https://www.bankofamerica.com/",
+      "classical_similarity_to_prior": "0.8889",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "Bank of America - Banking, Credit Cards, Loans and Merrill Investing\nPause button\nPlay button\nFind your closest financial center or ATM\nSchedule an Appointment\nPause button\nPlay button\nFinancial guidance for every stage of life.\nBetter Money Habits\u00c2\u00ae is here to help with your decisions along the way.\nShow previous item\nShow next item\nExplore more topics and build your financial know\u2011how.\nVisit Better Money Habits\u00ae\nVisit Better Money Habits\u00ae\nYour news and information\nTurn your goals into action\n\u2014an easy way to set and track short- and long\u2011term financial goals, get personalized advice when you need it most and more.\nLearn more\nabout Life Plan\nSecure, convenient banking with our mobile app\nExplore our app"
+    },
+    {
+      "year": "2023",
+      "status": "OK",
+      "chosen_url": "https://www.bankofamerica.com/",
+      "classical_similarity_to_prior": "0.6449",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "Bank of America - Banking, Credit Cards, Loans and Merrill Investing\nFind your closest financial center or ATM\nSchedule an Appointment\nPause button\nPlay button\nPause button\nPlay button\nFinancial guidance for every stage of life.\nBetter Money Habits\u00c2\u00ae is here to help with your decisions along the way.\nShow previous item\nShow next item\nExplore more topics and build your financial know\u2011how.\nVisit Better Money Habits\u00ae\nVisit Better Money Habits\u00ae\nYour news and information\nLevel up your account security\nWatch your security meter rise as you take action against fraud. See it in the Security Center in Mobile and Online Banking.\nCheck your\nsecurity\nlevel\nSecure, convenient banking with our Mobile app\nExplore our app\nLearn more about our mobile banking app"
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "https://www.bankofamerica.com/",
+      "classical_similarity_to_prior": "0.7377",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "community_social_responsibility",
+      "text": "Bank of America - Banking, Credit Cards, Loans and Merrill Investing\nOpen an Account\nFind your closest financial center or ATM\nSchedule an Appointment\nPause\nPlay\nPause\nPlay\nYour financial goals matter\nWe can help you achieve them through Better Money Habits\n\u00ae\nfinancial education and programs that make communities stronger.\nShow previous item\nShow next item\nExplore more topics and build your financial know\u2011how.\nVisit Better Money Habits\n\u00ae\nVisit Better Money Habits\n\u00ae\nYour news and information\nLevel up your account security\nWatch your security meter rise as you take action against fraud. See it in the Security Center in Mobile and Online Banking.\nCheck your\nsecurity\nlevel\nSecure, convenient banking with our Mobile app\nExplore our\nmobile\napp"
+    }
+  ]
+}

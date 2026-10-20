@@ -1,0 +1,32 @@
+{
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "First available year; it sets the baseline with the 'Accelerating the Arches' growth strategy and five core values.",
+    "theme_categories": ["growth_scale_performance", "people_culture", "customer_focus", "community_social_responsibility"],
+    "analyst_notes": "Upbeat, brand-led tone with clear strategic framing ('a new chapter', 'Accelerating the Arches'). Facts such as 65 years, 63 million daily customers and 38,000+ restaurants are specific, while the values language (Community, Inclusion, Family, Service, Integrity) is broad."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "The 'Who We Are' lead was rewritten around the McFamily and feeding and fostering communities, and the 2020 growth-strategy paragraph was replaced by links.",
+    "theme_categories": ["community_social_responsibility", "people_culture", "customer_focus", "growth_scale_performance"],
+    "analyst_notes": "Warmer, community-oriented wording replaces the 2020 'ambition and excellence' language. The rest of the copy is largely the same boilerplate, and the claims stay general (for example, 'lift up the communities we're in')."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "The captured text is identical to 2021.",
+    "theme_categories": ["community_social_responsibility", "people_culture", "customer_focus", "growth_scale_performance"],
+    "analyst_notes": "Identical copy to 2021. The values language is generic and mostly self-referential, with few measurable commitments."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Only a 'Latest Stories' news heading was added; the body copy is unchanged.",
+    "theme_categories": ["community_social_responsibility", "people_culture", "customer_focus", "growth_scale_performance"],
+    "analyst_notes": "Near-identical to 2022. The only addition is a news-module label, so it adds no substantive content."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Only the page title gained '| McDonald's Corporation'; the body copy is unchanged.",
+    "theme_categories": ["community_social_responsibility", "people_culture", "customer_focus", "growth_scale_performance"],
+    "analyst_notes": "Same boilerplate as prior years. The page relies on general community and values language with few measurable commitments, so it reads as a static brand overview."
+  }
+}

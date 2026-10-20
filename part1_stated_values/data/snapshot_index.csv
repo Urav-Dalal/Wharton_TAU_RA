@@ -1,0 +1,451 @@
+ticker,company_name,sector,year,chosen_about_url,requested_timestamp,actual_timestamp,days_from_target,status,char_count,notes
+MSFT,Microsoft,Technology,2016,https://www.microsoft.com/about/adulteducation.mspx,20170305093640,20170305093640,247,OK,7655,
+MSFT,Microsoft,Technology,2017,https://www.microsoft.com/about/adulteducation.mspx,20170305093640,20170305093640,118,OK,7655,
+MSFT,Microsoft,Technology,2018,https://www.microsoft.com/about/adulteducation.mspx,,,483,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MSFT,Microsoft,Technology,2019,https://www.microsoft.com/about/adulteducation.mspx,,,848,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MSFT,Microsoft,Technology,2020,https://www.microsoft.com/about/adulteducation.mspx,,,1214,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MSFT,Microsoft,Technology,2021,https://www.microsoft.com/about/adulteducation.mspx,,,1579,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MSFT,Microsoft,Technology,2022,https://www.microsoft.com/about/adulteducation.mspx,,,1944,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MSFT,Microsoft,Technology,2023,https://www.microsoft.com/about/adulteducation.mspx,,,2309,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MSFT,Microsoft,Technology,2024,https://www.microsoft.com/about/adulteducation.mspx,,,2675,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AAPL,Apple,Technology,2016,http://www.apple.com/about/,20160630223741,20160630223741,1,OK,413,
+AAPL,Apple,Technology,2017,http://www.apple.com/about/,20170517063558,20170517063558,45,OK,413,
+AAPL,Apple,Technology,2018,http://www.apple.com/about/,,,410,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AAPL,Apple,Technology,2019,http://www.apple.com/about/,,,775,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AAPL,Apple,Technology,2020,http://www.apple.com/about/,,,1141,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AAPL,Apple,Technology,2021,http://www.apple.com/about/,,,1506,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AAPL,Apple,Technology,2022,http://www.apple.com/about/,,,1871,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AAPL,Apple,Technology,2023,http://www.apple.com/about/,,,2236,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AAPL,Apple,Technology,2024,http://www.apple.com/about/,,,2602,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NVDA,NVIDIA,Technology,2016,https://www.nvidia.com/en-us/about-nvidia/ebc/,,,3105,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NVDA,NVIDIA,Technology,2017,https://www.nvidia.com/en-us/about-nvidia/ebc/,,,2740,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NVDA,NVIDIA,Technology,2018,https://www.nvidia.com/en-us/about-nvidia/ebc/,,,2375,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NVDA,NVIDIA,Technology,2019,https://www.nvidia.com/en-us/about-nvidia/ebc/,,,2010,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NVDA,NVIDIA,Technology,2020,https://www.nvidia.com/en-us/about-nvidia/ebc/,,,1644,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NVDA,NVIDIA,Technology,2021,https://www.nvidia.com/en-us/about-nvidia/ebc/,,,1279,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NVDA,NVIDIA,Technology,2022,https://www.nvidia.com/en-us/about-nvidia/ebc/,,,914,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NVDA,NVIDIA,Technology,2023,https://www.nvidia.com/en-us/about-nvidia/ebc/,,,549,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NVDA,NVIDIA,Technology,2024,https://www.nvidia.com/en-us/about-nvidia/ebc/,20241231025942,20241231025942,183,OK,1228,
+GOOGL,Alphabet,Technology,2016,https://abc.xyz/2023-0717/,,,2578,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+GOOGL,Alphabet,Technology,2017,https://abc.xyz/2023-0717/,,,2213,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+GOOGL,Alphabet,Technology,2018,https://abc.xyz/2023-0717/,,,1848,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+GOOGL,Alphabet,Technology,2019,https://abc.xyz/2023-0717/,,,1483,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+GOOGL,Alphabet,Technology,2020,https://abc.xyz/2023-0717/,,,1117,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+GOOGL,Alphabet,Technology,2021,https://abc.xyz/2023-0717/,,,752,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+GOOGL,Alphabet,Technology,2022,https://abc.xyz/2023-0717/,,,387,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+GOOGL,Alphabet,Technology,2023,https://abc.xyz/2023-0717/,20230723005739,20230723005739,22,OK,1178,
+GOOGL,Alphabet,Technology,2024,https://abc.xyz/2023-0717/,20240520041637,20240520041637,42,OK,1178,
+META,Meta Platforms,Technology,2016,https://about.meta.com/,,,2272,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+META,Meta Platforms,Technology,2017,https://about.meta.com/,,,1907,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+META,Meta Platforms,Technology,2018,https://about.meta.com/,,,1542,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+META,Meta Platforms,Technology,2019,https://about.meta.com/,,,1177,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+META,Meta Platforms,Technology,2020,https://about.meta.com/,,,811,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+META,Meta Platforms,Technology,2021,https://about.meta.com/,,,446,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+META,Meta Platforms,Technology,2022,https://about.meta.com/,20220920050214,20220920050214,81,OK,1713,
+META,Meta Platforms,Technology,2023,https://about.meta.com/,20230701023145,20230701023145,0,OK,742,
+META,Meta Platforms,Technology,2024,https://about.meta.com/,20240701012750,20240701012750,0,OK,1635,
+AVGO,Broadcom,Technology,2016,https://www.broadcom.com/company/about-us/,20170207031445,20170207031445,221,OK,915,
+AVGO,Broadcom,Technology,2017,https://www.broadcom.com/company/about-us/,20170712084805,20170712084805,11,OK,915,
+AVGO,Broadcom,Technology,2018,https://www.broadcom.com/company/about-us/,20180813124158,20180813124158,43,OK,1055,
+AVGO,Broadcom,Technology,2019,https://www.broadcom.com/company/about-us/,20190720025241,20190720025241,19,OK_BUT_THIN,8,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+AVGO,Broadcom,Technology,2020,https://www.broadcom.com/company/about-us/,20200702201159,20200702201159,1,OK_BUT_THIN,8,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+AVGO,Broadcom,Technology,2021,https://www.broadcom.com/company/about-us/,20210616142604,20210616142604,15,OK_BUT_THIN,8,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+AVGO,Broadcom,Technology,2022,https://www.broadcom.com/company/about-us/,20220701113022,20220701113022,0,OK_BUT_THIN,8,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+AVGO,Broadcom,Technology,2023,https://www.broadcom.com/company/about-us/,20230607094113,20230607094113,24,OK_BUT_THIN,8,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+AVGO,Broadcom,Technology,2024,https://www.broadcom.com/company/about-us/,20240702010308,20240702010308,1,OK_BUT_THIN,8,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+CRM,Salesforce,Technology,2016,https://www.salesforce.com/company/about-us/,20170324033603,20170324033603,266,OK,2991,
+CRM,Salesforce,Technology,2017,https://www.salesforce.com/company/about-us/,20170701074457,20170701074457,0,OK,2989,
+CRM,Salesforce,Technology,2018,https://www.salesforce.com/company/about-us/,20180717203523,20180717203523,16,OK,3394,
+CRM,Salesforce,Technology,2019,https://www.salesforce.com/company/about-us/,20190701100112,20190701100112,0,OK,3725,
+CRM,Salesforce,Technology,2020,https://www.salesforce.com/company/about-us/,20200630134558,20200630134558,1,OK,3728,
+CRM,Salesforce,Technology,2021,https://www.salesforce.com/company/about-us/,20210227033720,20210227033720,124,OK,3729,
+CRM,Salesforce,Technology,2022,https://www.salesforce.com/company/about-us/,,,489,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+CRM,Salesforce,Technology,2023,https://www.salesforce.com/company/about-us/,,,854,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+CRM,Salesforce,Technology,2024,https://www.salesforce.com/company/about-us/,,,1220,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+ORCL,Oracle,Technology,2016,https://www.oracle.com/corporate/,,,818,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+ORCL,Oracle,Technology,2017,https://www.oracle.com/corporate/,,,453,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+ORCL,Oracle,Technology,2018,https://www.oracle.com/corporate/,20180927154601,20180927154601,88,OK,2159,
+ORCL,Oracle,Technology,2019,https://www.oracle.com/corporate/,20190630231129,20190630231129,1,OK,2517,
+ORCL,Oracle,Technology,2020,https://www.oracle.com/corporate/,20200701002451,20200701002451,0,OK,4976,
+ORCL,Oracle,Technology,2021,https://www.oracle.com/corporate/,20210701062101,20210701062101,0,OK,5384,
+ORCL,Oracle,Technology,2022,https://www.oracle.com/corporate/,20220630112545,20220630112545,1,OK,5776,
+ORCL,Oracle,Technology,2023,https://www.oracle.com/corporate/,20230702090658,20230702090658,1,OK,5321,
+ORCL,Oracle,Technology,2024,https://www.oracle.com/corporate/,20240626001319,20240626001319,5,OK,5337,
+IBM,IBM,Technology,2016,https://www.ibm.com/about,,,1600,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+IBM,IBM,Technology,2017,https://www.ibm.com/about,,,1235,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+IBM,IBM,Technology,2018,https://www.ibm.com/about,,,870,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+IBM,IBM,Technology,2019,https://www.ibm.com/about,,,505,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+IBM,IBM,Technology,2020,https://www.ibm.com/about,20201117025607,20201117025607,139,OK,10344,
+IBM,IBM,Technology,2021,https://www.ibm.com/about,20210623191025,20210623191025,8,OK,10696,
+IBM,IBM,Technology,2022,https://www.ibm.com/about,20220701045856,20220701045856,0,OK,10686,
+IBM,IBM,Technology,2023,https://www.ibm.com/about,20230701143144,20230701143144,0,OK,8974,
+IBM,IBM,Technology,2024,https://www.ibm.com/about,20240701011020,20240701011020,0,OK,4571,
+INTC,Intel,Technology,2016,http://www.intel.com:80/content/www/us/en/company-overview/company-overview.html,20160704145202,20160704145202,3,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+INTC,Intel,Technology,2017,http://www.intel.com:80/content/www/us/en/company-overview/company-overview.html,20170712131840,20170712131840,11,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+INTC,Intel,Technology,2018,http://www.intel.com:80/content/www/us/en/company-overview/company-overview.html,20180627225202,20180627225202,4,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+INTC,Intel,Technology,2019,http://www.intel.com:80/content/www/us/en/company-overview/company-overview.html,20190630110931,20190630110931,1,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+INTC,Intel,Technology,2020,http://www.intel.com:80/content/www/us/en/company-overview/company-overview.html,20200630025443,20200630025443,1,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+INTC,Intel,Technology,2021,http://www.intel.com:80/content/www/us/en/company-overview/company-overview.html,20210702064504,20210702064504,1,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+INTC,Intel,Technology,2022,http://www.intel.com:80/content/www/us/en/company-overview/company-overview.html,20220701210341,20220701210341,0,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+INTC,Intel,Technology,2023,http://www.intel.com:80/content/www/us/en/company-overview/company-overview.html,20230701084347,20230701084347,0,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+INTC,Intel,Technology,2024,http://www.intel.com:80/content/www/us/en/company-overview/company-overview.html,20240701141513,20240701141513,0,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+BRK.B,Berkshire Hathaway,Financials,2016,https://berkshirehathaway.com/govern/code.html,,,3006,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BRK.B,Berkshire Hathaway,Financials,2017,https://berkshirehathaway.com/govern/code.html,,,2641,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BRK.B,Berkshire Hathaway,Financials,2018,https://berkshirehathaway.com/govern/code.html,,,2276,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BRK.B,Berkshire Hathaway,Financials,2019,https://berkshirehathaway.com/govern/code.html,,,1911,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BRK.B,Berkshire Hathaway,Financials,2020,https://berkshirehathaway.com/govern/code.html,,,1545,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BRK.B,Berkshire Hathaway,Financials,2021,https://berkshirehathaway.com/govern/code.html,,,1180,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BRK.B,Berkshire Hathaway,Financials,2022,https://berkshirehathaway.com/govern/code.html,,,815,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BRK.B,Berkshire Hathaway,Financials,2023,https://berkshirehathaway.com/govern/code.html,,,450,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BRK.B,Berkshire Hathaway,Financials,2024,https://berkshirehathaway.com/govern/code.html,20240923081934,20240923081934,84,OK_BUT_THIN,143,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+JPM,JPMorgan Chase,Financials,2016,http://www.jpmorganchase.com:80/,20160620184754,20160620184754,11,OK,3578,[FALLBACK_TO_HOMEPAGE] 
+JPM,JPMorgan Chase,Financials,2017,http://www.jpmorganchase.com:80/,20170701041018,20170701041018,0,OK,2898,[FALLBACK_TO_HOMEPAGE] 
+JPM,JPMorgan Chase,Financials,2018,http://www.jpmorganchase.com:80/,20180629123758,20180629123758,2,OK,2988,[FALLBACK_TO_HOMEPAGE] 
+JPM,JPMorgan Chase,Financials,2019,http://www.jpmorganchase.com:80/,20190702054236,20190702054236,1,OK,3325,[FALLBACK_TO_HOMEPAGE] 
+JPM,JPMorgan Chase,Financials,2020,http://www.jpmorganchase.com:80/,20200701030620,20200701030620,0,OK,3398,[FALLBACK_TO_HOMEPAGE] 
+JPM,JPMorgan Chase,Financials,2021,http://www.jpmorganchase.com:80/,20210701011651,20210701011651,0,OK,3223,[FALLBACK_TO_HOMEPAGE] 
+JPM,JPMorgan Chase,Financials,2022,http://www.jpmorganchase.com:80/,20220701003112,20220701003112,0,OK,3841,[FALLBACK_TO_HOMEPAGE] 
+JPM,JPMorgan Chase,Financials,2023,http://www.jpmorganchase.com:80/,20230701081404,20230701081404,0,OK,4080,[FALLBACK_TO_HOMEPAGE] 
+JPM,JPMorgan Chase,Financials,2024,http://www.jpmorganchase.com:80/,20240701012713,20240701012713,0,OK,2085,[FALLBACK_TO_HOMEPAGE] 
+BAC,Bank of America,Financials,2016,https://www.bankofamerica.com/,20160701005224,20160701005224,0,OK,2778,[FALLBACK_TO_HOMEPAGE] 
+BAC,Bank of America,Financials,2017,https://www.bankofamerica.com/,20170701012647,20170701012647,0,OK,2451,[FALLBACK_TO_HOMEPAGE] 
+BAC,Bank of America,Financials,2018,https://www.bankofamerica.com/,20180701150606,20180701150606,0,OK,1133,[FALLBACK_TO_HOMEPAGE] 
+BAC,Bank of America,Financials,2019,https://www.bankofamerica.com/,20190701054731,20190701054731,0,OK,641,[FALLBACK_TO_HOMEPAGE] 
+BAC,Bank of America,Financials,2020,https://www.bankofamerica.com/,20200701030734,20200701030734,0,OK,660,[FALLBACK_TO_HOMEPAGE] 
+BAC,Bank of America,Financials,2021,https://www.bankofamerica.com/,20210701024948,20210701024948,0,OK,728,[FALLBACK_TO_HOMEPAGE] 
+BAC,Bank of America,Financials,2022,https://www.bankofamerica.com/,20220701001326,20220701001326,0,OK,712,[FALLBACK_TO_HOMEPAGE] 
+BAC,Bank of America,Financials,2023,https://www.bankofamerica.com/,20230701053749,20230701053749,0,OK,755,[FALLBACK_TO_HOMEPAGE] 
+BAC,Bank of America,Financials,2024,https://www.bankofamerica.com/,20240701055944,20240701055944,0,OK,747,[FALLBACK_TO_HOMEPAGE] 
+WFC,Wells Fargo,Financials,2016,https://www.wellsfargo.com/about/,20160708075953,20160708075953,7,OK,2740,
+WFC,Wells Fargo,Financials,2017,https://www.wellsfargo.com/about/,20170701110129,20170701110129,0,OK,2748,
+WFC,Wells Fargo,Financials,2018,https://www.wellsfargo.com/about/,20180630054047,20180630054047,1,OK,4231,
+WFC,Wells Fargo,Financials,2019,https://www.wellsfargo.com/about/,20190709170333,20190709170333,8,OK,4541,
+WFC,Wells Fargo,Financials,2020,https://www.wellsfargo.com/about/,20200701175034,20200701175034,0,OK,3941,
+WFC,Wells Fargo,Financials,2021,https://www.wellsfargo.com/about/,20210624145726,20210624145726,7,OK,3941,
+WFC,Wells Fargo,Financials,2022,https://www.wellsfargo.com/about/,20220626011416,20220626011416,5,OK,3835,
+WFC,Wells Fargo,Financials,2023,https://www.wellsfargo.com/about/,20230701233000,20230701233000,0,OK,3671,
+WFC,Wells Fargo,Financials,2024,https://www.wellsfargo.com/about/,20240701110220,20240701110220,0,OK,3698,
+GS,Goldman Sachs,Financials,2016,https://www.goldmansachs.com/our-firm/about-us/,,,1259,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+GS,Goldman Sachs,Financials,2017,https://www.goldmansachs.com/our-firm/about-us/,,,894,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+GS,Goldman Sachs,Financials,2018,https://www.goldmansachs.com/our-firm/about-us/,,,529,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+GS,Goldman Sachs,Financials,2019,https://www.goldmansachs.com/our-firm/about-us/,20191212235305,20191212235305,164,OK_BUT_THIN,24,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+GS,Goldman Sachs,Financials,2020,https://www.goldmansachs.com/our-firm/about-us/,20200719133810,20200719133810,18,OK_BUT_THIN,24,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+GS,Goldman Sachs,Financials,2021,https://www.goldmansachs.com/our-firm/about-us/,20210612174434,20210612174434,19,OK_BUT_THIN,24,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+GS,Goldman Sachs,Financials,2022,https://www.goldmansachs.com/our-firm/about-us/,20220703204844,20220703204844,2,OK_BUT_THIN,24,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+GS,Goldman Sachs,Financials,2023,https://www.goldmansachs.com/our-firm/about-us/,20231003141720,20231003141720,94,OK_BUT_THIN,24,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+GS,Goldman Sachs,Financials,2024,https://www.goldmansachs.com/our-firm/about-us/,20240525203244,20240525203244,37,OK_BUT_THIN,24,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+MS,Morgan Stanley,Financials,2016,https://www.morganstanley.com/about-us-ir/01022014,,,334,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MS,Morgan Stanley,Financials,2017,https://www.morganstanley.com/about-us-ir/01022014,20170531135131,20170531135131,31,OK,2067,
+MS,Morgan Stanley,Financials,2018,https://www.morganstanley.com/about-us-ir/01022014,20171205034341,20171205034341,208,OK,2067,
+MS,Morgan Stanley,Financials,2019,https://www.morganstanley.com/about-us-ir/01022014,20190722193401,20190722193401,21,OK,2067,
+MS,Morgan Stanley,Financials,2020,https://www.morganstanley.com/about-us-ir/01022014,20200930180348,20200930180348,91,OK,2084,
+MS,Morgan Stanley,Financials,2021,https://www.morganstanley.com/about-us-ir/01022014,20210726002521,20210726002521,25,OK,2084,
+MS,Morgan Stanley,Financials,2022,https://www.morganstanley.com/about-us-ir/01022014,20220524020353,20220524020353,38,OK,2084,
+MS,Morgan Stanley,Financials,2023,https://www.morganstanley.com/about-us-ir/01022014,20231001060556,20231001060556,92,OK,2084,
+MS,Morgan Stanley,Financials,2024,https://www.morganstanley.com/about-us-ir/01022014,,,274,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BLK,BlackRock,Financials,2016,https://www.blackrock.com/corporate/about-us,,,632,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BLK,BlackRock,Financials,2017,https://www.blackrock.com/corporate/about-us,20180325204257,20180325204257,267,OK,1967,
+BLK,BlackRock,Financials,2018,https://www.blackrock.com/corporate/about-us,20180628205037,20180628205037,3,OK,1967,
+BLK,BlackRock,Financials,2019,https://www.blackrock.com/corporate/about-us,20181024201430,20181024201430,250,OK,1967,
+BLK,BlackRock,Financials,2020,https://www.blackrock.com/corporate/about-us,20200630174429,20200630174429,1,OK,1814,
+BLK,BlackRock,Financials,2021,https://www.blackrock.com/corporate/about-us,20210706123747,20210706123747,5,OK,2220,
+BLK,BlackRock,Financials,2022,https://www.blackrock.com/corporate/about-us,20220629111955,20220629111955,2,OK,6662,
+BLK,BlackRock,Financials,2023,https://www.blackrock.com/corporate/about-us,20230627230114,20230627230114,4,OK_BUT_THIN,66,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+BLK,BlackRock,Financials,2024,https://www.blackrock.com/corporate/about-us,20240703150858,20240703150858,2,OK_BUT_THIN,66,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+SCHW,Charles Schwab,Financials,2016,http://www.aboutschwab.com:80/about,20160729180506,20160729180506,28,OK,11378,
+SCHW,Charles Schwab,Financials,2017,http://www.aboutschwab.com:80/about,20170622171843,20170622171843,9,OK,9380,
+SCHW,Charles Schwab,Financials,2018,http://www.aboutschwab.com:80/about,20180612184603,20180612184603,19,OK,4279,
+SCHW,Charles Schwab,Financials,2019,http://www.aboutschwab.com:80/about,20190318204530,20190318204530,105,OK,4271,
+SCHW,Charles Schwab,Financials,2020,http://www.aboutschwab.com:80/about,,,471,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SCHW,Charles Schwab,Financials,2021,http://www.aboutschwab.com:80/about,,,836,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SCHW,Charles Schwab,Financials,2022,http://www.aboutschwab.com:80/about,,,1201,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SCHW,Charles Schwab,Financials,2023,http://www.aboutschwab.com:80/about,,,1566,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SCHW,Charles Schwab,Financials,2024,http://www.aboutschwab.com:80/about,,,1932,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AXP,American Express,Financials,2016,http://about.americanexpress.com/?source=prosphp_inav-aboutus,20170311141438,20170311141438,253,OK,529,
+AXP,American Express,Financials,2017,http://about.americanexpress.com/?source=prosphp_inav-aboutus,20170311141438,20170311141438,112,OK,529,
+AXP,American Express,Financials,2018,http://about.americanexpress.com/?source=prosphp_inav-aboutus,,,477,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AXP,American Express,Financials,2019,http://about.americanexpress.com/?source=prosphp_inav-aboutus,,,842,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AXP,American Express,Financials,2020,http://about.americanexpress.com/?source=prosphp_inav-aboutus,,,1208,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AXP,American Express,Financials,2021,http://about.americanexpress.com/?source=prosphp_inav-aboutus,,,1573,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AXP,American Express,Financials,2022,http://about.americanexpress.com/?source=prosphp_inav-aboutus,,,1938,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AXP,American Express,Financials,2023,http://about.americanexpress.com/?source=prosphp_inav-aboutus,,,2303,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AXP,American Express,Financials,2024,http://about.americanexpress.com/?source=prosphp_inav-aboutus,,,2669,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+C,Citigroup,Financials,2016,https://www.citigroup.com/global/about-us,,,2405,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+C,Citigroup,Financials,2017,https://www.citigroup.com/global/about-us,,,2040,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+C,Citigroup,Financials,2018,https://www.citigroup.com/global/about-us,,,1675,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+C,Citigroup,Financials,2019,https://www.citigroup.com/global/about-us,,,1310,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+C,Citigroup,Financials,2020,https://www.citigroup.com/global/about-us,,,944,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+C,Citigroup,Financials,2021,https://www.citigroup.com/global/about-us,,,579,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+C,Citigroup,Financials,2022,https://www.citigroup.com/global/about-us,20230131160339,20230131160339,214,OK,2946,
+C,Citigroup,Financials,2023,https://www.citigroup.com/global/about-us,20230722101707,20230722101707,21,OK,2675,
+C,Citigroup,Financials,2024,https://www.citigroup.com/global/about-us,20240702093443,20240702093443,1,OK,2850,
+LLY,Eli Lilly,Healthcare,2016,https://www.lilly.com/who-we-are/about-lilly,,,1365,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+LLY,Eli Lilly,Healthcare,2017,https://www.lilly.com/who-we-are/about-lilly,,,1000,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+LLY,Eli Lilly,Healthcare,2018,https://www.lilly.com/who-we-are/about-lilly,,,635,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+LLY,Eli Lilly,Healthcare,2019,https://www.lilly.com/who-we-are/about-lilly,20200327163407,20200327163407,270,OK,2134,
+LLY,Eli Lilly,Healthcare,2020,https://www.lilly.com/who-we-are/about-lilly,20200626115924,20200626115924,5,OK,2138,
+LLY,Eli Lilly,Healthcare,2021,https://www.lilly.com/who-we-are/about-lilly,20210628112954,20210628112954,3,OK_BUT_THIN,44,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+LLY,Eli Lilly,Healthcare,2022,https://www.lilly.com/who-we-are/about-lilly,20220706134742,20220706134742,5,OK_BUT_THIN,44,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+LLY,Eli Lilly,Healthcare,2023,https://www.lilly.com/who-we-are/about-lilly,20230617234232,20230617234232,14,OK_BUT_THIN,44,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+LLY,Eli Lilly,Healthcare,2024,https://www.lilly.com/who-we-are/about-lilly,20240702060810,20240702060810,1,OK,355,
+UNH,UnitedHealth Group,Healthcare,2016,https://www.unitedhealthgroup.com/about.html,,,853,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+UNH,UnitedHealth Group,Healthcare,2017,https://www.unitedhealthgroup.com/about.html,,,488,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+UNH,UnitedHealth Group,Healthcare,2018,https://www.unitedhealthgroup.com/about.html,20181101211321,20181101211321,123,OK,2079,
+UNH,UnitedHealth Group,Healthcare,2019,https://www.unitedhealthgroup.com/about.html,20190701110621,20190701110621,0,OK,1983,
+UNH,UnitedHealth Group,Healthcare,2020,https://www.unitedhealthgroup.com/about.html,20200512073534,20200512073534,50,OK,1976,
+UNH,UnitedHealth Group,Healthcare,2021,https://www.unitedhealthgroup.com/about.html,,,415,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+UNH,UnitedHealth Group,Healthcare,2022,https://www.unitedhealthgroup.com/about.html,,,780,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+UNH,UnitedHealth Group,Healthcare,2023,https://www.unitedhealthgroup.com/about.html,,,1145,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+UNH,UnitedHealth Group,Healthcare,2024,https://www.unitedhealthgroup.com/about.html,,,1511,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+JNJ,Johnson & Johnson,Healthcare,2016,https://www.jnj.com/about-jnj/policies-and-positions,,,1467,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+JNJ,Johnson & Johnson,Healthcare,2017,https://www.jnj.com/about-jnj/policies-and-positions,,,1102,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+JNJ,Johnson & Johnson,Healthcare,2018,https://www.jnj.com/about-jnj/policies-and-positions,,,737,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+JNJ,Johnson & Johnson,Healthcare,2019,https://www.jnj.com/about-jnj/policies-and-positions,,,372,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+JNJ,Johnson & Johnson,Healthcare,2020,https://www.jnj.com/about-jnj/policies-and-positions,20200707161013,20200707161013,6,OK,33575,
+JNJ,Johnson & Johnson,Healthcare,2021,https://www.jnj.com/about-jnj/policies-and-positions,20210628155801,20210628155801,3,OK,37436,
+JNJ,Johnson & Johnson,Healthcare,2022,https://www.jnj.com/about-jnj/policies-and-positions,20220624113256,20220624113256,7,OK,38085,
+JNJ,Johnson & Johnson,Healthcare,2023,https://www.jnj.com/about-jnj/policies-and-positions,20230708104501,20230708104501,7,OK,37435,
+JNJ,Johnson & Johnson,Healthcare,2024,https://www.jnj.com/about-jnj/policies-and-positions,20240710000148,20240710000148,9,OK_BUT_THIN,24,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+ABBV,AbbVie,Healthcare,2016,http://www.abbvie.com:80/about-us/who-we-are.html,20160618205608,20160618205608,13,OK,2034,
+ABBV,AbbVie,Healthcare,2017,http://www.abbvie.com:80/about-us/who-we-are.html,20161215144944,20161215144944,198,OK,2034,
+ABBV,AbbVie,Healthcare,2018,http://www.abbvie.com:80/about-us/who-we-are.html,,,563,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+ABBV,AbbVie,Healthcare,2019,http://www.abbvie.com:80/about-us/who-we-are.html,,,928,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+ABBV,AbbVie,Healthcare,2020,http://www.abbvie.com:80/about-us/who-we-are.html,,,1294,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+ABBV,AbbVie,Healthcare,2021,http://www.abbvie.com:80/about-us/who-we-are.html,,,1659,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+ABBV,AbbVie,Healthcare,2022,http://www.abbvie.com:80/about-us/who-we-are.html,,,2024,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+ABBV,AbbVie,Healthcare,2023,http://www.abbvie.com:80/about-us/who-we-are.html,,,2389,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+ABBV,AbbVie,Healthcare,2024,http://www.abbvie.com:80/about-us/who-we-are.html,,,2755,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MRK,Merck,Healthcare,2016,https://www.merck.com/company-overview/,,,1502,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MRK,Merck,Healthcare,2017,https://www.merck.com/company-overview/,,,1137,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MRK,Merck,Healthcare,2018,https://www.merck.com/company-overview/,,,772,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MRK,Merck,Healthcare,2019,https://www.merck.com/company-overview/,,,407,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MRK,Merck,Healthcare,2020,https://www.merck.com/company-overview/,20200811063349,20200811063349,41,OK,6657,
+MRK,Merck,Healthcare,2021,https://www.merck.com/company-overview/,20210703001224,20210703001224,2,OK,6585,
+MRK,Merck,Healthcare,2022,https://www.merck.com/company-overview/,20220701224411,20220701224411,0,OK_BUT_THIN,20,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+MRK,Merck,Healthcare,2023,https://www.merck.com/company-overview/,20230701182214,20230701182214,0,OK_BUT_THIN,20,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+MRK,Merck,Healthcare,2024,https://www.merck.com/company-overview/,20240628010012,20240628010012,3,OK_BUT_THIN,22,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TMO,Thermo Fisher Scientific,Healthcare,2016,http://www.thermofisher.com:80/us/en/home/about-us/corporate-social-responsibility.html,,,688,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+TMO,Thermo Fisher Scientific,Healthcare,2017,http://www.thermofisher.com:80/us/en/home/about-us/corporate-social-responsibility.html,,,323,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+TMO,Thermo Fisher Scientific,Healthcare,2018,http://www.thermofisher.com:80/us/en/home/about-us/corporate-social-responsibility.html,20180720194603,20180720194603,19,OK,2370,
+TMO,Thermo Fisher Scientific,Healthcare,2019,http://www.thermofisher.com:80/us/en/home/about-us/corporate-social-responsibility.html,20190613055707,20190613055707,18,OK,2234,
+TMO,Thermo Fisher Scientific,Healthcare,2020,http://www.thermofisher.com:80/us/en/home/about-us/corporate-social-responsibility.html,20200628065155,20200628065155,3,OK,2234,
+TMO,Thermo Fisher Scientific,Healthcare,2021,http://www.thermofisher.com:80/us/en/home/about-us/corporate-social-responsibility.html,20210420091934,20210420091934,72,OK,1988,
+TMO,Thermo Fisher Scientific,Healthcare,2022,http://www.thermofisher.com:80/us/en/home/about-us/corporate-social-responsibility.html,,,437,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+TMO,Thermo Fisher Scientific,Healthcare,2023,http://www.thermofisher.com:80/us/en/home/about-us/corporate-social-responsibility.html,,,802,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+TMO,Thermo Fisher Scientific,Healthcare,2024,http://www.thermofisher.com:80/us/en/home/about-us/corporate-social-responsibility.html,,,1168,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+ABT,Abbott Laboratories,Healthcare,2016,http://www.abbott.com:80/,20160702220631,20160702220631,1,OK,2226,[FALLBACK_TO_HOMEPAGE] 
+ABT,Abbott Laboratories,Healthcare,2017,http://www.abbott.com:80/,20170630132455,20170630132455,1,OK,2287,[FALLBACK_TO_HOMEPAGE] 
+ABT,Abbott Laboratories,Healthcare,2018,http://www.abbott.com:80/,20180701140808,20180701140808,0,OK,2546,[FALLBACK_TO_HOMEPAGE] 
+ABT,Abbott Laboratories,Healthcare,2019,http://www.abbott.com:80/,20190702213951,20190702213951,1,OK,2838,[FALLBACK_TO_HOMEPAGE] 
+ABT,Abbott Laboratories,Healthcare,2020,http://www.abbott.com:80/,20200701042531,20200701042531,0,OK,2727,[FALLBACK_TO_HOMEPAGE] 
+ABT,Abbott Laboratories,Healthcare,2021,http://www.abbott.com:80/,20210706222254,20210706222254,5,OK,5249,[FALLBACK_TO_HOMEPAGE] 
+ABT,Abbott Laboratories,Healthcare,2022,http://www.abbott.com:80/,20220701042847,20220701042847,0,OK,6146,[FALLBACK_TO_HOMEPAGE] 
+ABT,Abbott Laboratories,Healthcare,2023,http://www.abbott.com:80/,20230701162006,20230701162006,0,OK,6789,[FALLBACK_TO_HOMEPAGE] 
+ABT,Abbott Laboratories,Healthcare,2024,http://www.abbott.com:80/,20240701175259,20240701175259,0,OK,6188,[FALLBACK_TO_HOMEPAGE] 
+PFE,Pfizer,Healthcare,2016,http://www.pfizer.com:80/about,20160703061437,20160703061437,2,OK,4810,
+PFE,Pfizer,Healthcare,2017,http://www.pfizer.com:80/about,20170331110400,20170331110400,92,OK_BUT_THIN,77,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+PFE,Pfizer,Healthcare,2018,http://www.pfizer.com:80/about,,,457,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+PFE,Pfizer,Healthcare,2019,http://www.pfizer.com:80/about,,,822,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+PFE,Pfizer,Healthcare,2020,http://www.pfizer.com:80/about,,,533,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+PFE,Pfizer,Healthcare,2021,http://www.pfizer.com:80/about,20211216141830,20211216141830,168,OK,23898,
+PFE,Pfizer,Healthcare,2022,http://www.pfizer.com:80/about,20220702200438,20220702200438,1,OK,25168,
+PFE,Pfizer,Healthcare,2023,http://www.pfizer.com:80/about,20230722094342,20230722094342,21,OK,36220,
+PFE,Pfizer,Healthcare,2024,http://www.pfizer.com:80/about,20240701235055,20240701235055,0,OK,34627,
+MDT,Medtronic,Healthcare,2016,http://www.medtronic.com:80/us-en/about.html,20160702084847,20160702084847,1,OK,1408,
+MDT,Medtronic,Healthcare,2017,http://www.medtronic.com:80/us-en/about.html,20170702225956,20170702225956,1,OK,1160,
+MDT,Medtronic,Healthcare,2018,http://www.medtronic.com:80/us-en/about.html,20180629151934,20180629151934,2,OK,1164,
+MDT,Medtronic,Healthcare,2019,http://www.medtronic.com:80/us-en/about.html,20190715195812,20190715195812,14,OK,358,
+MDT,Medtronic,Healthcare,2020,http://www.medtronic.com:80/us-en/about.html,20200626174757,20200626174757,5,OK,2593,
+MDT,Medtronic,Healthcare,2021,http://www.medtronic.com:80/us-en/about.html,20210710230733,20210710230733,9,OK,2803,
+MDT,Medtronic,Healthcare,2022,http://www.medtronic.com:80/us-en/about.html,20211205192206,20211205192206,208,OK,2803,
+MDT,Medtronic,Healthcare,2023,http://www.medtronic.com:80/us-en/about.html,,,573,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MDT,Medtronic,Healthcare,2024,http://www.medtronic.com:80/us-en/about.html,,,501,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BMY,Bristol-Myers Squibb,Healthcare,2016,https://www.bms.com/about-us/our-company/our-mission.html,,,311,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+BMY,Bristol-Myers Squibb,Healthcare,2017,https://www.bms.com/about-us/our-company/our-mission.html,20170508191303,20170508191303,54,OK,1541,
+BMY,Bristol-Myers Squibb,Healthcare,2018,https://www.bms.com/about-us/our-company/our-mission.html,20180719203451,20180719203451,18,OK,975,
+BMY,Bristol-Myers Squibb,Healthcare,2019,https://www.bms.com/about-us/our-company/our-mission.html,20190721165449,20190721165449,20,OK,975,
+BMY,Bristol-Myers Squibb,Healthcare,2020,https://www.bms.com/about-us/our-company/our-mission.html,20200628033350,20200628033350,3,OK,975,
+BMY,Bristol-Myers Squibb,Healthcare,2021,https://www.bms.com/about-us/our-company/our-mission.html,20210623233037,20210623233037,8,OK,3364,
+BMY,Bristol-Myers Squibb,Healthcare,2022,https://www.bms.com/about-us/our-company/our-mission.html,20220704144654,20220704144654,3,OK,3359,
+BMY,Bristol-Myers Squibb,Healthcare,2023,https://www.bms.com/about-us/our-company/our-mission.html,20230701233612,20230701233612,0,OK,3359,
+BMY,Bristol-Myers Squibb,Healthcare,2024,https://www.bms.com/about-us/our-company/our-mission.html,20240619194514,20240619194514,12,OK,3240,
+AMZN,Amazon,Consumer Discretionary,2016,https://www.aboutamazon.com/,,,658,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AMZN,Amazon,Consumer Discretionary,2017,https://www.aboutamazon.com/,,,293,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+AMZN,Amazon,Consumer Discretionary,2018,https://www.aboutamazon.com/,20180627150421,20180627150421,4,OK,5218,
+AMZN,Amazon,Consumer Discretionary,2019,https://www.aboutamazon.com/,20190630213219,20190630213219,1,OK,6112,
+AMZN,Amazon,Consumer Discretionary,2020,https://www.aboutamazon.com/,20200701010102,20200701010102,0,OK,4212,
+AMZN,Amazon,Consumer Discretionary,2021,https://www.aboutamazon.com/,20210701110843,20210701110843,0,OK,2503,
+AMZN,Amazon,Consumer Discretionary,2022,https://www.aboutamazon.com/,20220701013524,20220701013524,0,OK,2236,
+AMZN,Amazon,Consumer Discretionary,2023,https://www.aboutamazon.com/,20230701004613,20230701004613,0,OK,2776,
+AMZN,Amazon,Consumer Discretionary,2024,https://www.aboutamazon.com/,20240701205358,20240701205358,0,OK,5012,
+TSLA,Tesla,Consumer Discretionary,2016,https://www.tesla.com/about,20160720164257,20160720164257,19,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TSLA,Tesla,Consumer Discretionary,2017,https://www.tesla.com/about,20170623054234,20170623054234,8,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TSLA,Tesla,Consumer Discretionary,2018,https://www.tesla.com/about,20180622174840,20180622174840,9,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TSLA,Tesla,Consumer Discretionary,2019,https://www.tesla.com/about,20190702011047,20190702011047,1,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TSLA,Tesla,Consumer Discretionary,2020,https://www.tesla.com/about,20200629052217,20200629052217,2,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TSLA,Tesla,Consumer Discretionary,2021,https://www.tesla.com/about,20210705040413,20210705040413,4,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TSLA,Tesla,Consumer Discretionary,2022,https://www.tesla.com/about,20220701192509,20220701192509,0,OK_BUT_THIN,0,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TSLA,Tesla,Consumer Discretionary,2023,https://www.tesla.com/about,20230706192013,20230706192013,5,OK_BUT_THIN,13,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TSLA,Tesla,Consumer Discretionary,2024,https://www.tesla.com/about,20240702053739,20240702053739,1,OK_BUT_THIN,13,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+HD,Home Depot,Consumer Discretionary,2016,https://corporate.homedepot.com/about/cycle.API,,,2009,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HD,Home Depot,Consumer Discretionary,2017,https://corporate.homedepot.com/about/cycle.API,,,1644,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HD,Home Depot,Consumer Discretionary,2018,https://corporate.homedepot.com/about/cycle.API,,,1279,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HD,Home Depot,Consumer Discretionary,2019,https://corporate.homedepot.com/about/cycle.API,,,914,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HD,Home Depot,Consumer Discretionary,2020,https://corporate.homedepot.com/about/cycle.API,,,548,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HD,Home Depot,Consumer Discretionary,2021,https://corporate.homedepot.com/about/cycle.API,20211231211019,20211231211019,183,OK_BUT_THIN,26,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+HD,Home Depot,Consumer Discretionary,2022,https://corporate.homedepot.com/about/cycle.API,20211231211019,20211231211019,182,OK_BUT_THIN,26,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+HD,Home Depot,Consumer Discretionary,2023,https://corporate.homedepot.com/about/cycle.API,,,547,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HD,Home Depot,Consumer Discretionary,2024,https://corporate.homedepot.com/about/cycle.API,,,913,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MCD,McDonald's,Consumer Discretionary,2016,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html,,,1607,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MCD,McDonald's,Consumer Discretionary,2017,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html,,,1242,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MCD,McDonald's,Consumer Discretionary,2018,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html,,,877,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MCD,McDonald's,Consumer Discretionary,2019,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html,,,512,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+MCD,McDonald's,Consumer Discretionary,2020,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html,20201124145746,20201124145746,146,OK,7217,
+MCD,McDonald's,Consumer Discretionary,2021,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html,20210616161403,20210616161403,15,OK,2630,
+MCD,McDonald's,Consumer Discretionary,2022,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html,20220712171320,20220712171320,11,OK,2630,
+MCD,McDonald's,Consumer Discretionary,2023,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html,20230604222204,20230604222204,27,OK,2643,
+MCD,McDonald's,Consumer Discretionary,2024,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html,20240619032108,20240619032108,12,OK,2668,
+NKE,Nike,Consumer Discretionary,2016,https://about.nike.com/0,,,2855,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NKE,Nike,Consumer Discretionary,2017,https://about.nike.com/0,,,2490,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NKE,Nike,Consumer Discretionary,2018,https://about.nike.com/0,,,2125,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NKE,Nike,Consumer Discretionary,2019,https://about.nike.com/0,,,1760,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NKE,Nike,Consumer Discretionary,2020,https://about.nike.com/0,,,1394,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NKE,Nike,Consumer Discretionary,2021,https://about.nike.com/0,,,1029,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NKE,Nike,Consumer Discretionary,2022,https://about.nike.com/0,,,664,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NKE,Nike,Consumer Discretionary,2023,https://about.nike.com/0,,,299,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+NKE,Nike,Consumer Discretionary,2024,https://about.nike.com/0,20240425003514,20240912061225,67,OK,2742,
+SBUX,Starbucks,Consumer Discretionary,2016,https://www.starbucks.com/about-us/web-accessibility,,,1854,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SBUX,Starbucks,Consumer Discretionary,2017,https://www.starbucks.com/about-us/web-accessibility,,,1489,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SBUX,Starbucks,Consumer Discretionary,2018,https://www.starbucks.com/about-us/web-accessibility,,,1124,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SBUX,Starbucks,Consumer Discretionary,2019,https://www.starbucks.com/about-us/web-accessibility,,,759,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SBUX,Starbucks,Consumer Discretionary,2020,https://www.starbucks.com/about-us/web-accessibility,,,393,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SBUX,Starbucks,Consumer Discretionary,2021,https://www.starbucks.com/about-us/web-accessibility,20210729064605,20210729064605,28,OK,2589,
+SBUX,Starbucks,Consumer Discretionary,2022,https://www.starbucks.com/about-us/web-accessibility,20220701004857,20220701004857,0,OK,2583,
+SBUX,Starbucks,Consumer Discretionary,2023,https://www.starbucks.com/about-us/web-accessibility,20230702052821,20230702052821,1,OK,2583,
+SBUX,Starbucks,Consumer Discretionary,2024,https://www.starbucks.com/about-us/web-accessibility,20231021141515,20231021141515,254,OK,2583,
+TGT,Target,Consumer Discretionary,2016,https://corporate.target.com/about/,20160716093842,20160716093842,15,OK_BUT_THIN,61,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TGT,Target,Consumer Discretionary,2017,https://corporate.target.com/about/,20170701120115,20170701120115,0,OK_BUT_THIN,5,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TGT,Target,Consumer Discretionary,2018,https://corporate.target.com/about/,20180815145624,20180815145624,45,OK_BUT_THIN,5,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TGT,Target,Consumer Discretionary,2019,https://corporate.target.com/about/,20190717024326,20190717024326,16,OK_BUT_THIN,5,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TGT,Target,Consumer Discretionary,2020,https://corporate.target.com/about/,20200629172012,20200629172012,2,OK_BUT_THIN,48,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TGT,Target,Consumer Discretionary,2021,https://corporate.target.com/about/,20210626220320,20210626220320,5,OK_BUT_THIN,48,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TGT,Target,Consumer Discretionary,2022,https://corporate.target.com/about/,20220702032434,20220702032434,1,OK_BUT_THIN,24,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TGT,Target,Consumer Discretionary,2023,https://corporate.target.com/about/,20230701171750,20230701171750,0,OK_BUT_THIN,24,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TGT,Target,Consumer Discretionary,2024,https://corporate.target.com/about/,20240705025654,20240705025654,4,OK,1456,
+LOW,Lowe's,Consumer Discretionary,2016,https://corporate.lowes.com/,,,1566,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+LOW,Lowe's,Consumer Discretionary,2017,https://corporate.lowes.com/,,,1201,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+LOW,Lowe's,Consumer Discretionary,2018,https://corporate.lowes.com/,,,836,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+LOW,Lowe's,Consumer Discretionary,2019,https://corporate.lowes.com/,,,471,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+LOW,Lowe's,Consumer Discretionary,2020,https://corporate.lowes.com/,20201014012803,20201014012803,105,OK,818,[FALLBACK_TO_HOMEPAGE] 
+LOW,Lowe's,Consumer Discretionary,2021,https://corporate.lowes.com/,20210525071417,20210525071417,37,OK,749,[FALLBACK_TO_HOMEPAGE] 
+LOW,Lowe's,Consumer Discretionary,2022,https://corporate.lowes.com/,20220705173810,20220705173810,4,OK,848,[FALLBACK_TO_HOMEPAGE] 
+LOW,Lowe's,Consumer Discretionary,2023,https://corporate.lowes.com/,20230615071225,20230615071225,16,OK,880,[FALLBACK_TO_HOMEPAGE] 
+LOW,Lowe's,Consumer Discretionary,2024,https://corporate.lowes.com/,20240703064137,20240703064137,2,OK,589,[FALLBACK_TO_HOMEPAGE] 
+TJX,TJX Companies,Consumer Discretionary,2016,https://www.tjx.com/about/tkmaxx,,,1202,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+TJX,TJX Companies,Consumer Discretionary,2017,https://www.tjx.com/about/tkmaxx,,,837,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+TJX,TJX Companies,Consumer Discretionary,2018,https://www.tjx.com/about/tkmaxx,,,472,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+TJX,TJX Companies,Consumer Discretionary,2019,https://www.tjx.com/about/tkmaxx,20191016045432,20191016045432,107,OK_BUT_THIN,3,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TJX,TJX Companies,Consumer Discretionary,2020,https://www.tjx.com/about/tkmaxx,20210120003505,20210120003505,203,OK_BUT_THIN,3,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TJX,TJX Companies,Consumer Discretionary,2021,https://www.tjx.com/about/tkmaxx,20210727154623,20210727154623,26,OK_BUT_THIN,3,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+TJX,TJX Companies,Consumer Discretionary,2022,https://www.tjx.com/about/tkmaxx,,,339,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+TJX,TJX Companies,Consumer Discretionary,2023,https://www.tjx.com/about/tkmaxx,,,704,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+TJX,TJX Companies,Consumer Discretionary,2024,https://www.tjx.com/about/tkmaxx,,,1070,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+F,Ford Motor,Consumer Discretionary,2016,https://corporate.ford.com/about.html,,,1486,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+F,Ford Motor,Consumer Discretionary,2017,https://corporate.ford.com/about.html,,,1121,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+F,Ford Motor,Consumer Discretionary,2018,https://corporate.ford.com/about.html,,,756,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+F,Ford Motor,Consumer Discretionary,2019,https://corporate.ford.com/about.html,,,391,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+F,Ford Motor,Consumer Discretionary,2020,https://corporate.ford.com/about.html,20200726092803,20200726092803,25,OK,1192,
+F,Ford Motor,Consumer Discretionary,2021,https://corporate.ford.com/about.html,20210620094737,20210620094737,11,OK,1605,
+F,Ford Motor,Consumer Discretionary,2022,https://corporate.ford.com/about.html,20220627074224,20220627074224,4,OK,1605,
+F,Ford Motor,Consumer Discretionary,2023,https://corporate.ford.com/about.html,20230624143532,20230624143532,7,OK,1288,
+F,Ford Motor,Consumer Discretionary,2024,https://corporate.ford.com/about.html,20240706105201,20240706105201,5,OK,1290,
+XOM,ExxonMobil,Energy,2016,https://corporate.exxonmobil.com/who-we-are,,,2482,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+XOM,ExxonMobil,Energy,2017,https://corporate.exxonmobil.com/who-we-are,,,2117,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+XOM,ExxonMobil,Energy,2018,https://corporate.exxonmobil.com/who-we-are,,,1752,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+XOM,ExxonMobil,Energy,2019,https://corporate.exxonmobil.com/who-we-are,,,1387,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+XOM,ExxonMobil,Energy,2020,https://corporate.exxonmobil.com/who-we-are,,,1021,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+XOM,ExxonMobil,Energy,2021,https://corporate.exxonmobil.com/who-we-are,,,656,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+XOM,ExxonMobil,Energy,2022,https://corporate.exxonmobil.com/who-we-are,,,291,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+XOM,ExxonMobil,Energy,2023,https://corporate.exxonmobil.com/who-we-are,20230606101640,20230606101640,25,OK_BUT_THIN,23,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+XOM,ExxonMobil,Energy,2024,https://corporate.exxonmobil.com/who-we-are,20240701191343,20240701191343,0,OK_BUT_THIN,51,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+EOG,EOG Resources,Energy,2016,http://www.eogresources.com:80/,,,287,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+EOG,EOG Resources,Energy,2017,http://www.eogresources.com:80/,20170702011550,20170702011550,1,OK_BUT_THIN,148,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+EOG,EOG Resources,Energy,2018,http://www.eogresources.com:80/,20180703202149,20180703202149,2,OK_BUT_THIN,138,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+EOG,EOG Resources,Energy,2019,http://www.eogresources.com:80/,20190716084043,20190716084043,15,OK_BUT_THIN,19,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+EOG,EOG Resources,Energy,2020,http://www.eogresources.com:80/,20200702044416,20200702044416,1,OK_BUT_THIN,31,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+EOG,EOG Resources,Energy,2021,http://www.eogresources.com:80/,20210624005443,20210624005443,7,OK_BUT_THIN,0,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+EOG,EOG Resources,Energy,2022,http://www.eogresources.com:80/,20220701134132,20220701134132,0,OK_BUT_THIN,0,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+EOG,EOG Resources,Energy,2023,http://www.eogresources.com:80/,20230702070108,20230702070108,1,OK_BUT_THIN,0,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+EOG,EOG Resources,Energy,2024,http://www.eogresources.com:80/,20240627214554,20240627214554,4,OK_BUT_THIN,0,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+SLB,SLB (Schlumberger),Energy,2016,http://www.slb.com:80/about.aspx,20160702214402,20160702214402,1,OK_BUT_THIN,33,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+SLB,SLB (Schlumberger),Energy,2017,http://www.slb.com:80/about.aspx,20170703231355,20170703231355,2,OK_BUT_THIN,33,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+SLB,SLB (Schlumberger),Energy,2018,http://www.slb.com:80/about.aspx,20180212100047,20180212100047,139,OK_BUT_THIN,33,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+SLB,SLB (Schlumberger),Energy,2019,http://www.slb.com:80/about.aspx,20190613105315,20190613105315,18,OK_BUT_THIN,33,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+SLB,SLB (Schlumberger),Energy,2020,http://www.slb.com:80/about.aspx,,,384,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SLB,SLB (Schlumberger),Energy,2021,http://www.slb.com:80/about.aspx,,,749,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SLB,SLB (Schlumberger),Energy,2022,http://www.slb.com:80/about.aspx,,,652,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SLB,SLB (Schlumberger),Energy,2023,http://www.slb.com:80/about.aspx,,,287,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+SLB,SLB (Schlumberger),Energy,2024,http://www.slb.com:80/about.aspx,20240413001635,20240413001635,79,OK,3081,
+MPC,Marathon Petroleum,Energy,2016,http://www.marathonpetroleum.com/,20160704195918,20160704195918,3,OK,1238,[FALLBACK_TO_HOMEPAGE] 
+MPC,Marathon Petroleum,Energy,2017,http://www.marathonpetroleum.com/,20170630065415,20170630065415,1,OK,1349,[FALLBACK_TO_HOMEPAGE] 
+MPC,Marathon Petroleum,Energy,2018,http://www.marathonpetroleum.com/,20180629151433,20180629151433,2,OK,1403,[FALLBACK_TO_HOMEPAGE] 
+MPC,Marathon Petroleum,Energy,2019,http://www.marathonpetroleum.com/,20190626094649,20190626094649,5,OK,6144,[FALLBACK_TO_HOMEPAGE] 
+MPC,Marathon Petroleum,Energy,2020,http://www.marathonpetroleum.com/,20200702043819,20200702043819,1,OK,6118,[FALLBACK_TO_HOMEPAGE] 
+MPC,Marathon Petroleum,Energy,2021,http://www.marathonpetroleum.com/,20210701101425,20210701101425,0,OK,5158,[FALLBACK_TO_HOMEPAGE] 
+MPC,Marathon Petroleum,Energy,2022,http://www.marathonpetroleum.com/,20220701135225,20220701135225,0,OK,5412,[FALLBACK_TO_HOMEPAGE] 
+MPC,Marathon Petroleum,Energy,2023,http://www.marathonpetroleum.com/,20230628164245,20230628164245,3,OK,5745,[FALLBACK_TO_HOMEPAGE] 
+MPC,Marathon Petroleum,Energy,2024,http://www.marathonpetroleum.com/,20240702053633,20240702053633,1,OK,5692,[FALLBACK_TO_HOMEPAGE] 
+PSX,Phillips 66,Energy,2016,https://www.phillips66.com/about/sert-technology,,,1112,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+PSX,Phillips 66,Energy,2017,https://www.phillips66.com/about/sert-technology,,,747,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+PSX,Phillips 66,Energy,2018,https://www.phillips66.com/about/sert-technology,,,382,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+PSX,Phillips 66,Energy,2019,https://www.phillips66.com/about/sert-technology,20190718195649,20190718195649,17,OK_BUT_THIN,16,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+PSX,Phillips 66,Energy,2020,https://www.phillips66.com/about/sert-technology,20200808034703,20200808034703,38,OK_BUT_THIN,16,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+PSX,Phillips 66,Energy,2021,https://www.phillips66.com/about/sert-technology,20210803142339,20210803142339,33,OK,876,
+PSX,Phillips 66,Energy,2022,https://www.phillips66.com/about/sert-technology,20220703043806,20220703043806,2,OK,876,
+PSX,Phillips 66,Energy,2023,https://www.phillips66.com/about/sert-technology,,,331,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+PSX,Phillips 66,Energy,2024,https://www.phillips66.com/about/sert-technology,,,697,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+VLO,Valero Energy,Energy,2016,https://www.valero.com/,,,1596,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+VLO,Valero Energy,Energy,2017,https://www.valero.com/,,,1231,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+VLO,Valero Energy,Energy,2018,https://www.valero.com/,,,866,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+VLO,Valero Energy,Energy,2019,https://www.valero.com/,,,501,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+VLO,Valero Energy,Energy,2020,https://www.valero.com/,20201113062236,20201113062236,135,OK_BUT_THIN,39,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+VLO,Valero Energy,Energy,2021,https://www.valero.com/,20210624081412,20210624081412,7,OK_BUT_THIN,39,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+VLO,Valero Energy,Energy,2022,https://www.valero.com/,20220629204133,20220629204133,2,OK_BUT_THIN,39,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+VLO,Valero Energy,Energy,2023,https://www.valero.com/,20230628164907,20230628164907,3,OK_BUT_THIN,39,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+VLO,Valero Energy,Energy,2024,https://www.valero.com/,20240701170857,20240701170857,0,OK_BUT_THIN,39,[FALLBACK_TO_HOMEPAGE] Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+OXY,Occidental Petroleum,Energy,2016,https://www.oxy.com/,,,1965,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+OXY,Occidental Petroleum,Energy,2017,https://www.oxy.com/,,,1600,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+OXY,Occidental Petroleum,Energy,2018,https://www.oxy.com/,,,1235,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+OXY,Occidental Petroleum,Energy,2019,https://www.oxy.com/,,,870,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+OXY,Occidental Petroleum,Energy,2020,https://www.oxy.com/,,,504,MISSING_NO_NEARBY_SNAPSHOT,0,[FALLBACK_TO_HOMEPAGE] No capture within 270 days of July 1 of target year
+OXY,Occidental Petroleum,Energy,2021,https://www.oxy.com/,20211117193015,20211117193015,139,OK,6497,[FALLBACK_TO_HOMEPAGE] 
+OXY,Occidental Petroleum,Energy,2022,https://www.oxy.com/,20220701132717,20220701132717,0,OK,7154,[FALLBACK_TO_HOMEPAGE] 
+OXY,Occidental Petroleum,Energy,2023,https://www.oxy.com/,20230702001344,20230702001344,1,OK,7044,[FALLBACK_TO_HOMEPAGE] 
+OXY,Occidental Petroleum,Energy,2024,https://www.oxy.com/,20240702080809,20240702080809,1,OK,7009,[FALLBACK_TO_HOMEPAGE] 
+HAL,Halliburton,Energy,2016,https://www.halliburton.com/en/about-us,,,1756,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HAL,Halliburton,Energy,2017,https://www.halliburton.com/en/about-us,,,1391,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HAL,Halliburton,Energy,2018,https://www.halliburton.com/en/about-us,,,1026,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HAL,Halliburton,Energy,2019,https://www.halliburton.com/en/about-us,,,661,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HAL,Halliburton,Energy,2020,https://www.halliburton.com/en/about-us,,,295,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+HAL,Halliburton,Energy,2021,https://www.halliburton.com/en/about-us,20210619184439,20210619184439,12,OK,3482,
+HAL,Halliburton,Energy,2022,https://www.halliburton.com/en/about-us,20220706043557,20220706043557,5,OK,3397,
+HAL,Halliburton,Energy,2023,https://www.halliburton.com/en/about-us,20230702071747,20230702071747,1,OK,3292,
+HAL,Halliburton,Energy,2024,https://www.halliburton.com/en/about-us,20240701173643,20240701173643,0,OK,4490,
+CVX,Chevron,Energy,2016,https://www.chevron.com/about/culture,20160620192649,20160620192649,11,OK,4019,
+CVX,Chevron,Energy,2017,https://www.chevron.com/about/culture,20170801032726,20170801032726,31,OK,2815,
+CVX,Chevron,Energy,2018,https://www.chevron.com/about/culture,20180712035330,20180712035330,11,OK,5638,
+CVX,Chevron,Energy,2019,https://www.chevron.com/about/culture,20190712051447,20190712051447,11,OK,7174,
+CVX,Chevron,Energy,2020,https://www.chevron.com/about/culture,20200626004042,20200626004042,5,OK,8983,
+CVX,Chevron,Energy,2021,https://www.chevron.com/about/culture,20210629050630,20210629050630,2,OK,9253,
+CVX,Chevron,Energy,2022,https://www.chevron.com/about/culture,20220622072949,20220622072949,9,OK,9253,
+CVX,Chevron,Energy,2023,https://www.chevron.com/about/culture,20230702054756,20230702054756,1,OK,9217,
+CVX,Chevron,Energy,2024,https://www.chevron.com/about/culture,20231205034653,20231205034653,209,OK,9173,
+COP,ConocoPhillips,Energy,2016,http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx,20160623232416,20160623232416,8,OK_BUT_THIN,57,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+COP,ConocoPhillips,Energy,2017,http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx,20170629013946,20170629013946,2,OK_BUT_THIN,57,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+COP,ConocoPhillips,Energy,2018,http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx,20171027031519,20171027031519,247,OK_BUT_THIN,57,Extracted text under 200 characters; page may be JS-rendered or a redirect stub
+COP,ConocoPhillips,Energy,2019,http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx,,,612,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+COP,ConocoPhillips,Energy,2020,http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx,,,978,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+COP,ConocoPhillips,Energy,2021,http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx,,,1343,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+COP,ConocoPhillips,Energy,2022,http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx,,,1708,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+COP,ConocoPhillips,Energy,2023,http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx,,,2073,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year
+COP,ConocoPhillips,Energy,2024,http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx,,,2439,MISSING_NO_NEARBY_SNAPSHOT,0,No capture within 270 days of July 1 of target year

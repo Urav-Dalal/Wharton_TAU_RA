@@ -1,0 +1,26 @@
+{
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "First available year; the captured page is a website accessibility statement rather than a corporate values or mission page.",
+    "theme_categories": ["digital_accessibility", "diversity_equity_inclusion"],
+    "analyst_notes": "Compliance-style and procedural, with one value sentence ('committed to diversity, inclusion and accessibility'). The page says almost nothing about the company's mission, so it is a poor measure of stated values and the scraped URL should be checked."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Same accessibility statement; the only differences from 2021 are character-encoding artifacts, so there is no substantive change.",
+    "theme_categories": ["digital_accessibility", "diversity_equity_inclusion"],
+    "analyst_notes": "Identical boilerplate. The page still lists Adobe Flash Player as a required plug-in, which suggests it has not been maintained."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Text is identical to 2022.",
+    "theme_categories": ["digital_accessibility", "diversity_equity_inclusion"],
+    "analyst_notes": "Same accessibility statement with no new content. As with other years, this page does not represent Starbucks' stated mission and should not be used for cross-company values comparisons."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Text is identical to 2023.",
+    "theme_categories": ["digital_accessibility", "diversity_equity_inclusion"],
+    "analyst_notes": "Same accessibility statement with no new content. The scraper likely captured a sub-page rather than the About or mission page, so the URL should be verified before any comparison."
+  }
+}

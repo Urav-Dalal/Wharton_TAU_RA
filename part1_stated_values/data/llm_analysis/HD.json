@@ -1,0 +1,14 @@
+{
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, but only the page title ('The Home Depot | Our Story') was captured, so there is no baseline body text.",
+    "theme_categories": [],
+    "analyst_notes": "No body text was captured, so the page's content and tone cannot be assessed; the title suggests a founding-story page, which this text does not verify."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Identical title-only capture to 2021, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Same title-only capture; there is no analyzable content, so this year is effectively blank."
+  }
+}

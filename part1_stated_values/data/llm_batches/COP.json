@@ -1,0 +1,64 @@
+{
+  "ticker": "COP",
+  "company_name": "ConocoPhillips",
+  "sector": "Energy",
+  "years": [
+    {
+      "year": "2016",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "integrity_ethics_trust",
+      "text": "Our Brand - Accountability + Performance | ConocoPhillips"
+    },
+    {
+      "year": "2017",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "integrity_ethics_trust",
+      "text": "Our Brand - Accountability + Performance | ConocoPhillips"
+    },
+    {
+      "year": "2018",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.conocophillips.com/who-we-are/our-company/Pages/our-brand1.aspx",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "integrity_ethics_trust",
+      "text": "Our Brand - Accountability + Performance | ConocoPhillips"
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2024",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    }
+  ]
+}

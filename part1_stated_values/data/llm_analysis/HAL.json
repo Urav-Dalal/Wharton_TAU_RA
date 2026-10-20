@@ -1,0 +1,26 @@
+{
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with full About text.",
+    "theme_categories": ["customer_focus", "innovation_technology", "integrity_ethics_trust", "community_social_responsibility"],
+    "analyst_notes": "Corporate and value-list heavy (Integrity, Safety, Collaboration, Competition, Creativity, Reliability, Respect), with specifics limited to headcount (40K+ employees, 130+ nationalities, 70+ countries). Environmental content is a single teaser heading, 'Dedication to sustainability principles', with no substance on the page."
+  },
+  "2022": {
+    "changed_from_prior": true,
+    "change_reason": "The introduction is rewritten: the 2021 'execution culture focuses on continuous improvement' sentence is replaced by a founding-year and scale statement, and the 'Awards & Recognitions' link is dropped, while the values list is unchanged.",
+    "theme_categories": ["customer_focus", "innovation_technology", "integrity_ethics_trust", "community_social_responsibility"],
+    "analyst_notes": "Still no environmental substance beyond the sustainability teaser. The edit moves the lead from execution language to a more general corporate description."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "The lead adds 'advance a sustainable energy future' to the company description, the first time sustainability appears in the introduction, and adds View links to Guiding Principles and XMR; the rest of the page is largely unchanged.",
+    "theme_categories": ["innovation_technology", "environmental_sustainability", "customer_focus", "integrity_ethics_trust"],
+    "analyst_notes": "The sustainability claim now sits in the opening sentence, but the body still points to 'Dedication to sustainability principles' with no content, so the claim stays vague. The page reads as a product and values showcase."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "Major rewrite: adds a recordable environmental incident rate (0.02 per 200K hours worked), new CCUS, geothermal, and cementing case studies, and a 'Dedication to a sustainable future' section, while dropping the 'continuous improvement' section and the 'Competition' value.",
+    "theme_categories": ["innovation_technology", "environmental_sustainability", "customer_focus", "community_social_responsibility"],
+    "analyst_notes": "This is the most specific environmental content in the HAL series: a quantified incident rate and carbon-capture and geothermal case studies. These mostly describe customer-facing products, and the sustainability section itself is generic ('lead the transition to a sustainable energy future')."
+  }
+}

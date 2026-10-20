@@ -1,0 +1,80 @@
+{
+  "ticker": "MDT",
+  "company_name": "Medtronic",
+  "sector": "Healthcare",
+  "years": [
+    {
+      "year": "2016",
+      "status": "OK",
+      "chosen_url": "http://www.medtronic.com:80/us-en/about.html",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "integrity_ethics_trust|people_culture",
+      "text": "Improving Care Globally | About Medtronic\nYour browser is out of date\nWith an updated browser, you will have a better Medtronic website experience.\nUpdate my browser now.\n\u00d7\nCompany\nInformation\nMedtronic is improving healthcare for more people, in more ways, and in more places than ever before.\nREAD MORE\nLeadership\nOur Executive Committee is responsible for leading a global workforce of more than 85,000 Medtronic employees.\nMEET THE TEAM\nTo meet the needs of patients and healthcare professionals around the globe, Medtronic operates from more than 260 locations in more than 155 countries.\nSEE LOCATIONS\nAs part of our accountability to our valued stakeholders, we produce a variety of corporate performance and information reports.\nLEARN MORE\nFrom humble beginnings to improving healthcare for millions of people.\nRead our history\nThe Medtronic\nMission\nSince our founding in 1949 by Earl Bakken, Medtronic has put people first. We strive to alleviate pain, restore health, and extend life.\nREAD OUR MISSION STATEMENT\nGOVERNANCE\nGet information about our principles and ethics, boards and committees, and more.\nSEE DETAILS\nOur therapies improve the lives of\nREAD PATIENT STORIES\nCorporate\nRESPOnSIBILITY\nA deep sense of moral purpose and responsibility drive Medtronic programs and policies.\nLEARN MORE\nCollaborative partnerships . . . are key to driving value-based healthcare.\nOmar Ishrak\nMedtronic CEO"
+    },
+    {
+      "year": "2017",
+      "status": "OK",
+      "chosen_url": "http://www.medtronic.com:80/us-en/about.html",
+      "classical_similarity_to_prior": "0.8653",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "people_culture|integrity_ethics_trust",
+      "text": "Improving Care Globally | About Medtronic\nYour browser is out of date\nWith an updated browser, you will have a better Medtronic website experience.\nUpdate my browser now.\n\u00d7\nCompany\nInformation\nMedtronic is improving healthcare for more people, in more ways, and in more places than ever before.\nRead Our Mission Statement\nCompany\nLeadership\nOur Executive Committee is responsible for leading a global workforce of more than 85,000 Medtronic employees.\nMEET THE TEAM\nWORLDWIDE\nTo meet the needs of patients and healthcare professionals around the globe, Medtronic operates from more than 260 locations in more than 155 countries.\nSEE LOCATIONS\nCompany\nAs part of our accountability to our valued stakeholders, we produce a variety of corporate performance and information reports.\nLEARN MORE\nFrom humble beginnings to improving healthcare for millions of people.\nRead our history\nOur therapies improve the lives of\nREAD PATIENT STORIES\nCorporate\nRESPOnSIBILITY\nA deep sense of moral purpose and responsibility drive Medtronic programs and policies.\nLEARN MORE\nCollaborative partnerships . . . are key to driving value-based healthcare.\nOmar Ishrak\nMedtronic CEO"
+    },
+    {
+      "year": "2018",
+      "status": "OK",
+      "chosen_url": "http://www.medtronic.com:80/us-en/about.html",
+      "classical_similarity_to_prior": "0.9733",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "people_culture|integrity_ethics_trust",
+      "text": "Improving Care Globally | About Medtronic\nYour browser is out of date\nWith an updated browser, you will have a better Medtronic website experience.\nUpdate my browser now.\n\u00d7\nCompany\nInformation\nMedtronic is improving healthcare for more people, in more ways, and in more places than ever before.\nRead Our Mission Statement\nCompany\nLeadership\nOur Executive Committee is responsible for leading a global workforce of more than 84,000 Medtronic employees.\nMEET THE TEAM\nWORLDWIDE\nTo meet the needs of patients and healthcare professionals around the globe, Medtronic operates from more than 370 locations in approximately 160 countries.\nSEE LOCATIONS\nCompany\nAs part of our accountability to our valued stakeholders, we produce a variety of corporate performance and information reports.\nLEARN MORE\nFrom humble beginnings to improving healthcare for millions of people.\nRead our history\nOur therapies improve the lives of\nREAD PATIENT STORIES\nCorporate\nRESPOnSIBILITY\nA deep sense of moral purpose and responsibility drive Medtronic programs and policies.\nLEARN MORE\nCollaborative partnerships . . . are key to driving value-based healthcare.\nOmar Ishrak\nMedtronic CEO"
+    },
+    {
+      "year": "2019",
+      "status": "OK",
+      "chosen_url": "http://www.medtronic.com:80/us-en/about.html",
+      "classical_similarity_to_prior": "0.2116",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "integrity_ethics_trust",
+      "text": "About Medtronic | Medtronic\nYour browser is out of date\nWith an updated browser, you will have a better Medtronic website experience.\nUpdate my browser now.\n\u00d7\nCORPORATE\nGOVERNANCE\nMedtronic has a long record of being proactive in establishing policies and practices that support strong corporate governance and transparency in financial reporting.\nLEARN MORE"
+    },
+    {
+      "year": "2020",
+      "status": "OK",
+      "chosen_url": "http://www.medtronic.com:80/us-en/about.html",
+      "classical_similarity_to_prior": "0.1206",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "integrity_ethics_trust|innovation_technology|community_social_responsibility|growth_scale_performance",
+      "text": "About Medtronic | Medtronic\nYour browser is out of date\nWith an updated browser, you will have a better Medtronic website experience.\nUpdate my browser now.\n\u00d7\nWho We Are\nAt Medtronic, we believe in the power of medical technology to improve lives. Seven decades ago, our co-founder invented the battery-powered pacemaker. Today, we are among the largest medical device companies in the world. With operations in 150 countries, our products treat 70 health conditions and include cardiac devices, cranial and spine robotics, insulin pumps, surgical tools, patient monitoring systems, and more. Our therapies help 75 million people a year and support\nour Mission to alleviate pain, restore health, and extend life\n.\nOur people make it possible. We value diverse perspectives and encourage our 90,000+ employees to be themselves. We hold each other accountable, act with integrity, and make quality our highest priority.\nWe are privileged to be part of the communities where we live and work. We are committed to giving back and reducing our impact on the environment.\nLet's take healthcare Further, Together.\nCareers & Culture\nCreate a rewarding career at Medtronic. Find the right place and job for you to grow and build on your successes. Improve the lives of millions.\n...More information (see more)\nNews & Media\nYour source for the latest news from Medtronic \u2013 including helpful resources for media, recent company announcements, financial news, patient stories, and much more.\n...More information (see more)\nCOVID-19\nRead how Medtronic is helping the heroes of COVID-19.\n...More information (see more)\n\u00ab Previous\nOur technologies and services create long-term shareholder value on a global scale.\nLearn More\nAdvancing\nREAD THE 2019 REPORTS\nCitizenship\nA Commitment to Corporate Citizenship: Purpose-driven corporate responsibility for the greater good.\n...More information (see more)\nHistory\nDiscover the history of Medtronic, from small electrical repair shop to a global leader in medical technology.\n...More information (see more)\nFacts & Stats\nReview high-level statistics about Medtronic.\n...More information (see more)\n\u00ab Previous\nLocations\nFind Medtronic locations, including our headquarters and main regional offices.\n...More information (see more)\nLeadership\nLearn more about the leaders who are vital to achieving our goals and fulfilling our Mission to alleviate pain, restore health, and extend life.\n...More information (see more)\nGovernance\nLearn about the principles, policies, and people who guide corporate governance at Medtronic.\n...More information (see more)\n\u00ab Previous"
+    },
+    {
+      "year": "2021",
+      "status": "OK",
+      "chosen_url": "http://www.medtronic.com:80/us-en/about.html",
+      "classical_similarity_to_prior": "0.6071",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "diversity_equity_inclusion|integrity_ethics_trust|environmental_sustainability|innovation_technology",
+      "text": "About Medtronic | Medtronic\nYour browser is out of date\nWith an updated browser, you will have a better Medtronic website experience.\nUpdate my browser now.\n\u00d7\nWho We Are\nAt Medtronic, we believe in the power of medical technology to improve lives. Seven decades ago, our co-founder invented the battery-powered pacemaker. Today, we are among the largest medical device companies in the world. With operations in 150 countries, our products treat 70 health conditions and include cardiac devices, cranial and spine robotics, insulin pumps, surgical tools, patient monitoring systems, and more. Our therapies help 72 million people a year and support\nour Mission to alleviate pain, restore health, and extend life\n.\nOur people make it possible. We value diverse perspectives and encourage our 90,000+ employees to be themselves. We hold each other accountable, act with integrity, and make quality our highest priority.\nWe are privileged to be part of the communities where we live and work. We are committed to giving back and reducing our impact on the environment.\nLet's take healthcare Further, Together.\nCareers & Culture\nCreate a rewarding career at Medtronic. Find the right place and job for you to grow and build on your successes. Improve the lives of millions.\n...Learn More\nCitizenship\nA Commitment to Corporate Citizenship: Purpose-driven corporate responsibility for the greater good.\n...Learn More\nESG Performance and Progress\nDownload Medtronic Environmental, Social, and Governance (ESG) Reports and learn how Medtronic adds value to society, promotes environmental stewardship, supports a global workforce, and works responsibly.\n...Learn More\n\u00ab Previous\nOur technologies and services create long-term shareholder value on a global scale.\nREAD MORE\nNEWS & MEDIA\nYour source for the latest news from Medtronic \u2013 including helpful resources for media, recent company announcements, financial news, patient stories, and much more.\nREAD NEWS\nHistory\nDiscover the history of Medtronic, from small electrical repair shop to a global leader in medical technology.\n...Learn More\nInclusion, Diversity, and Equity Report\nRead about the efforts to create an inclusive and diverse workplace at Medtronic, one that mirrors the world in which we live and work, and to further our corporate Mission.\n...Learn More\nFacts & Stats\nReview high-level statistics about Medtronic.\n...Learn More\n\u00ab Previous\nLocations\nFind Medtronic locations, including our headquarters and main regional offices.\n...Learn More\nLeadership\nLearn more about the leaders who are vital to achieving our goals and fulfilling our Mission to alleviate pain, restore health, and extend life.\n...Learn More\nGovernance\nLearn about the principles, policies, and people who guide corporate governance at Medtronic.\n...Learn More\n\u00ab Previous"
+    },
+    {
+      "year": "2022",
+      "status": "OK",
+      "chosen_url": "http://www.medtronic.com:80/us-en/about.html",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "diversity_equity_inclusion|integrity_ethics_trust|environmental_sustainability|innovation_technology",
+      "text": "About Medtronic | Medtronic\nYour browser is out of date\nWith an updated browser, you will have a better Medtronic website experience.\nUpdate my browser now.\n\u00d7\nWho We Are\nAt Medtronic, we believe in the power of medical technology to improve lives. Seven decades ago, our co-founder invented the battery-powered pacemaker. Today, we are among the largest medical device companies in the world. With operations in 150 countries, our products treat 70 health conditions and include cardiac devices, cranial and spine robotics, insulin pumps, surgical tools, patient monitoring systems, and more. Our therapies help 72 million people a year and support\nour Mission to alleviate pain, restore health, and extend life\n.\nOur people make it possible. We value diverse perspectives and encourage our 90,000+ employees to be themselves. We hold each other accountable, act with integrity, and make quality our highest priority.\nWe are privileged to be part of the communities where we live and work. We are committed to giving back and reducing our impact on the environment.\nLet's take healthcare Further, Together.\nCareers & Culture\nCreate a rewarding career at Medtronic. Find the right place and job for you to grow and build on your successes. Improve the lives of millions.\n...Learn More\nCitizenship\nA Commitment to Corporate Citizenship: Purpose-driven corporate responsibility for the greater good.\n...Learn More\nESG Performance and Progress\nDownload Medtronic Environmental, Social, and Governance (ESG) Reports and learn how Medtronic adds value to society, promotes environmental stewardship, supports a global workforce, and works responsibly.\n...Learn More\n\u00ab Previous\nOur technologies and services create long-term shareholder value on a global scale.\nREAD MORE\nNEWS & MEDIA\nYour source for the latest news from Medtronic \u2013 including helpful resources for media, recent company announcements, financial news, patient stories, and much more.\nREAD NEWS\nHistory\nDiscover the history of Medtronic, from small electrical repair shop to a global leader in medical technology.\n...Learn More\nInclusion, Diversity, and Equity Report\nRead about the efforts to create an inclusive and diverse workplace at Medtronic, one that mirrors the world in which we live and work, and to further our corporate Mission.\n...Learn More\nFacts & Stats\nReview high-level statistics about Medtronic.\n...Learn More\n\u00ab Previous\nLocations\nFind Medtronic locations, including our headquarters and main regional offices.\n...Learn More\nLeadership\nLearn more about the leaders who are vital to achieving our goals and fulfilling our Mission to alleviate pain, restore health, and extend life.\n...Learn More\nGovernance\nLearn about the principles, policies, and people who guide corporate governance at Medtronic.\n...Learn More\n\u00ab Previous"
+    },
+    {
+      "year": "2023",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2024",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    }
+  ]
+}

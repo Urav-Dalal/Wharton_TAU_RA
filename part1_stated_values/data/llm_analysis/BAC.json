@@ -1,0 +1,56 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with text, so no prior comparison is possible.",
+    "theme_categories": ["customer_focus", "product_promotion", "security_protection"],
+    "analyst_notes": "The chosen URL is the bankofamerica.com homepage, which is a sign-in and product page with no mission or values language. Content is product promotion, privacy and security tips, and sign-in boilerplate, so it is not a mission page."
+  },
+  "2017": {
+    "changed_from_prior": true,
+    "change_reason": "Promotional rotation changed (student checking, Zelle and identity-theft tips replace the cash-rewards card), but the page is still a sign-in and promotions homepage with no values language, so the change is in promotions only.",
+    "theme_categories": ["customer_focus", "product_promotion", "security_protection"],
+    "analyst_notes": "Homepage fallback with transactional, promotional copy rather than a mission statement. The tone is helpful but product-centric."
+  },
+  "2018": {
+    "changed_from_prior": true,
+    "change_reason": "The page gains its first purpose statement and a new homepage layout: 'Our purpose is to help make financial lives better through the power of every connection.'",
+    "theme_categories": ["customer_focus", "innovation_technology", "financial_education"],
+    "analyst_notes": "The purpose line is the first genuine values language in the BAC series; the rest is product and digital promotion (Erica, digital mortgage). Tone is warm and customer-oriented."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "The purpose statement is dropped; the page now centers on Better Money Habits, the digital mortgage experience and the mobile app.",
+    "theme_categories": ["financial_education", "innovation_technology", "customer_focus"],
+    "analyst_notes": "No values language; emphasis moves to product and digital tools. Mostly homepage navigation and promotions."
+  },
+  "2020": {
+    "changed_from_prior": true,
+    "change_reason": "Pandemic-era reassurance replaces product promotion: 'We're here to help with what's next' and a new Life Services block.",
+    "theme_categories": ["customer_focus", "financial_education", "innovation_technology"],
+    "analyst_notes": "Supportive, reassuring tone. Still no explicit mission or values statement; reads as homepage messaging."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "The headline shifts to 'Financial guidance to help with navigating the new normal', and a Life Plan goal-tracking tool becomes the featured module.",
+    "theme_categories": ["customer_focus", "financial_education", "innovation_technology"],
+    "analyst_notes": "Guidance-oriented, pandemic-recovery framing with specific product promotion (Life Plan). Still no values statement."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Only the headline changes (to 'Financial guidance for every stage of life'); the Better Money Habits and Life Plan modules are identical. The framing is less crisis-specific, but this is a minor framing shift rather than a substantive change.",
+    "theme_categories": ["customer_focus", "financial_education", "innovation_technology"],
+    "analyst_notes": "Same modules as 2021 under a lifecycle headline; generic and promotional, with no explicit values language."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "Security replaces Life Plan as the featured module ('Level up your account security', with a security meter), and the Life Plan module is dropped.",
+    "theme_categories": ["integrity_ethics_trust", "customer_focus", "innovation_technology"],
+    "analyst_notes": "Security and fraud protection is now the lead message, framed as customer protection and trust. It is a product feature rather than a stated value."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "The headline changes to 'Your financial goals matter' and adds the first community language ('financial education and programs that make communities stronger'); the security module is retained.",
+    "theme_categories": ["customer_focus", "financial_education", "community_social_responsibility", "integrity_ethics_trust"],
+    "analyst_notes": "This is the first community-oriented wording in the BAC series, but it is a single sentence. Security remains the main module."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with text, so no prior comparison is possible.",
+    "theme_categories": ["off_topic_capture"],
+    "analyst_notes": "The chosen URL (about-us-ir/01022014) returns a January 17, 2014 investor-presentation disclaimer, not an About page. It contains no mission, values or self-description, so no values analysis is possible. The snapshot does not reflect Morgan Stanley's current messaging."
+  },
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "Text is identical to 2017 (the same 2014 presentation disclaimer).",
+    "theme_categories": ["off_topic_capture"],
+    "analyst_notes": "Same stale 2014 investor-presentation disclaimer; the apparent stability reflects the same off-topic page being captured each year."
+  },
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "Text is identical to 2018 (the same 2014 presentation disclaimer).",
+    "theme_categories": ["off_topic_capture"],
+    "analyst_notes": "Same stale 2014 investor-presentation disclaimer; no values content."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "Body text is identical to 2019; the only difference is the page title ('Morgan Stanley | Morgan Stanley'), which is not a content change.",
+    "theme_categories": ["off_topic_capture"],
+    "analyst_notes": "Same stale 2014 investor-presentation disclaimer; the classical similarity of 0.9959 reflects only the title prefix."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "Body text is identical to 2020 (same 2014 presentation disclaimer).",
+    "theme_categories": ["off_topic_capture"],
+    "analyst_notes": "Same stale 2014 investor-presentation disclaimer; no values content."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Body text is identical to 2021 (same 2014 presentation disclaimer).",
+    "theme_categories": ["off_topic_capture"],
+    "analyst_notes": "Same stale 2014 investor-presentation disclaimer; no values content."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Body text is identical to 2022 (same 2014 presentation disclaimer).",
+    "theme_categories": ["off_topic_capture"],
+    "analyst_notes": "Same stale 2014 investor-presentation disclaimer; no values content."
+  }
+}

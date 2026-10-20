@@ -1,0 +1,60 @@
+{
+  "ticker": "XOM",
+  "company_name": "ExxonMobil",
+  "sector": "Energy",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://corporate.exxonmobil.com/who-we-are",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "",
+      "text": "Who we are | ExxonMobil"
+    },
+    {
+      "year": "2024",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://corporate.exxonmobil.com/who-we-are",
+      "classical_similarity_to_prior": "0.6216",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "innovation_technology",
+      "text": "Who we are | Technology and Innovation | ExxonMobil"
+    }
+  ]
+}

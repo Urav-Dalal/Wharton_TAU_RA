@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so there is no prior to compare against.",
+    "theme_categories": ["access_affordability", "patient_health_outcomes", "innovation_technology", "diversity_equity_inclusion"],
+    "analyst_notes": "Corporate-overview page with a strong access claim ('safe, effective and affordable medicines') and brief statements on ethics, diversity and inclusion, and a customer-centred approach. The Corporate Responsibility section is a few sentences with an outbound link."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "The captured text is only the page title, so there is no content to compare and no change is evidenced.",
+    "theme_categories": ["no_content_captured"],
+    "analyst_notes": "JavaScript-rendered page not captured. Title only, so nothing analyzable. The 2018-2020 captures are also missing."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "Compared with 2016 because the 2017 capture is title-only, the page is rebuilt as a 'Core Values of Social Responsibility and Philanthropy' hub with sections on compliance, diversity, EHS governance, environmental sustainability, multicultural health equity, human rights and IP PACT.",
+    "theme_categories": ["integrity_ethics_trust", "environmental_sustainability", "diversity_equity_inclusion", "access_affordability"],
+    "analyst_notes": "Far more specific than 2016: it names programs (EHS governance, the Multicultural Health Equity Collective, IP PACT), a climate-impact focus, and a nine-year workplace diversity program. The sections are still brief with 'learn more' links, and the tone is corporate-responsible rather than promotional."
+  },
+  "2022": {
+    "changed_from_prior": true,
+    "change_reason": "The climate headline moves from 'Carbon Neutral by 2030' to 'Net Zero by 2040', COVID and supply-chain stories and an annual-review archive are added, while the core sections are unchanged.",
+    "theme_categories": ["environmental_sustainability", "access_affordability", "innovation_technology", "integrity_ethics_trust"],
+    "analyst_notes": "The climate target change appears only in a story headline, not in the Environmental Sustainability copy, so the change is visible but thinly documented on the page. The core sections (EHS, DEI, human rights, IP) carry over from 2021."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "A misinformation section on science-based health information is added and the leadership and story lists are refreshed, while the core commitments (EHS, DEI, sustainability, human rights) are unchanged.",
+    "theme_categories": ["integrity_ethics_trust", "patient_health_outcomes", "innovation_technology", "diversity_equity_inclusion"],
+    "analyst_notes": "The new misinformation blurb signals a public-trust stance. The rest of the change is leadership and science-profile churn with little value-laden copy, and the purpose line ('Breakthroughs that change patients' lives') is repeated unchanged."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "The change is story and leadership rotation only; the topic sections, commitments and misinformation blurb match 2023.",
+    "theme_categories": ["patient_health_outcomes", "innovation_technology", "diversity_equity_inclusion", "integrity_ethics_trust"],
+    "analyst_notes": "Feature stories shift (a penicillin history piece, a patient alopecia story, career profiles), and the gene-therapy and vaccine explainers are dropped. The framework copy is identical, so the change is editorial rather than a shift in stated commitments. The capture is substantial and not truncated."
+  }
+}

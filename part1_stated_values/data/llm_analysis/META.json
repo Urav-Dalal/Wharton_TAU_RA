@@ -1,0 +1,20 @@
+{
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, no comparison.",
+    "theme_categories": ["innovation_technology", "community_social_responsibility", "integrity_ethics_trust", "growth_scale_performance"],
+    "analyst_notes": "Mission copy is brief and aspirational: connection, communities, and business growth, framed around a metaverse push. Safety, privacy, and elections appear mainly as short headline links with the substance pushed to subpages, so the page signals priorities more than specific commitments. Classical labels roughly agree with the text."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Core copy is nearly unchanged; edits are a removed hero tagline ('Bringing people closer every day'), a wording tweak on privacy ('enable' to 'give you the power'), and nav and footer removals.",
+    "theme_categories": ["innovation_technology", "community_social_responsibility", "integrity_ethics_trust"],
+    "analyst_notes": "The metaverse framing and safety and privacy headlines carry over unchanged, so the stated priorities did not shift. The classical 'changed' flag (similarity 0.27) is driven by navigation and footer boilerplate rather than the About copy, so I disagree with it."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Body copy is identical to 2023; differences are navigation and footer links (for example smart glasses, Meta Verified, and a responsible-business link). These are product and navigation changes, not a change in the page's message.",
+    "theme_categories": ["innovation_technology", "integrity_ethics_trust", "community_social_responsibility"],
+    "analyst_notes": "The visible shift is in navigation: smart glasses and Meta Verified appear, and a responsible-business link is added, but none of it is in the About copy, so the page's message is unchanged. The classical flag (similarity 0.62, changed) reflects boilerplate, so I disagree with it, though the hardware emphasis in navigation is worth tracking."
+  }
+}

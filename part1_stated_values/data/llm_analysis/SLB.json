@@ -1,0 +1,32 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year; only the title 'About Schlumberger | Schlumberger' was captured.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "No body copy was captured, so tone, specificity, and environmental content cannot be coded for this year."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "The title is identical to 2016 and there is no body text to show any change.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture, identical to 2016."
+  },
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "The title is identical to 2017 and there is no body text to show any change.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture, identical to 2016 and 2017."
+  },
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "The title is still identical to 2018 and there is no body text to show any change.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture. The 2019 snapshot does not show whether the About copy contained any sustainability language."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "The brand changes from 'About Schlumberger' to 'SLB' and the page now centers on energy-transition and net-zero messaging, although 2019 body text was not captured, so this judgment rests on the title change and the new framing.",
+    "theme_categories": ["environmental_sustainability", "innovation_technology", "diversity_equity_inclusion", "integrity_ethics_trust"],
+    "analyst_notes": "Environmental framing is central ('Navigating to net zero', 'supporting net-zero targets'), but the net-zero goal is not quantified on the page and the 'Published: 10/09/2022' stamp means this 2024 capture carries a 2022-dated page. Specific figures (48% of 2021 STEM hires were women; 80 years of energy access in Africa) sit alongside aspirational lines such as 'going further - every day - for a balanced planet'."
+  }
+}

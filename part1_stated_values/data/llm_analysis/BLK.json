@@ -1,0 +1,50 @@
+{
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with text, so no prior comparison is possible.",
+    "theme_categories": ["customer_focus", "integrity_ethics_trust", "environmental_sustainability", "growth_scale_performance"],
+    "analyst_notes": "Clear, confident values language: 'We work only for our clients', a 'singular focus' on performance, and sustainability framed in financial terms. Specific claims (135 investment teams in 30 countries). The tone is assertive and performance-oriented."
+  },
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "Text is identical to 2017 (classical similarity 1.0).",
+    "theme_categories": ["customer_focus", "integrity_ethics_trust", "environmental_sustainability", "growth_scale_performance"],
+    "analyst_notes": "Verbatim copy of the 2017 text; no new content."
+  },
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "Text is identical to 2018 (classical similarity 1.0).",
+    "theme_categories": ["customer_focus", "integrity_ethics_trust", "environmental_sustainability", "growth_scale_performance"],
+    "analyst_notes": "Verbatim copy of the 2017 text; no new content."
+  },
+  "2020": {
+    "changed_from_prior": true,
+    "change_reason": "A shift to 'Our purpose is to help more and more people experience financial well-being', an investment-and-technology framing (iShares, Aladdin) and a sustainability section; the 'singular focus on performance' language is gone.",
+    "theme_categories": ["innovation_technology", "customer_focus", "environmental_sustainability", "purpose_financial_wellbeing"],
+    "analyst_notes": "Broader, more consumer-oriented language ('from shop assistants in your local stores'). The purpose statement is new, and the tone is softer and less performance-focused than in 2017. This is a full capture, not an artifact."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "Adds explicit diversity, equity and inclusion language ('Speaking out for diversity, equity and inclusion'), employee demographics (16,000 people, 82 languages, 38 countries) and stakeholder segments with sustainability and inclusive-economy pillars.",
+    "theme_categories": ["diversity_equity_inclusion", "environmental_sustainability", "customer_focus", "people_culture"],
+    "analyst_notes": "Aspirational and purpose-led, with a four-part values list (put savings to work, innovate, challenge each other, speak out for DEI). The headcount and language statistics add concreteness."
+  },
+  "2022": {
+    "changed_from_prior": true,
+    "change_reason": "Emphasis moves to climate and the net-zero transition (a $100 million Breakthrough Energy Catalyst commitment through the BlackRock Foundation) and to employee testimonials on diversity; a video transcript is new.",
+    "theme_categories": ["environmental_sustainability", "diversity_equity_inclusion", "people_culture", "community_social_responsibility"],
+    "analyst_notes": "Heavier use of narrative and transcripts, and the climate commitment is concrete. Much of the framing is question-driven ('how can we...'), which reads as aspirational rather than declarative. The 'What's Your Why' employee quotes carry most of the people-culture content."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Not assessable: the captured text is only the page title (the body did not render), so no content comparison with 2022 is possible. The classical flag reflects the capture failure, not a content change.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Title-only capture of a JavaScript-rendered page; no values language can be assessed. The title ('What We Do, Who We Are & Our Purpose') suggests the page was restructured, but this cannot be verified from this text."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only capture identical to 2023; this is the same capture failure, so it is not evidence that the page is unchanged.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Same title-only capture as 2023; no content to assess."
+  }
+}

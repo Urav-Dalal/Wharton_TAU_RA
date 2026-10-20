@@ -1,0 +1,26 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with text, so no prior comparison is possible.",
+    "theme_categories": ["customer_focus", "innovation_technology", "integrity_ethics_trust"],
+    "analyst_notes": "Long-form narrative with specific historical milestones and a strong client-first voice. Much of the text is product history rather than stated values; values are largely implied ('we champion investors'). The EEO paragraph is legal boilerplate, not values language."
+  },
+  "2017": {
+    "changed_from_prior": true,
+    "change_reason": "Adds an explicit 'The Schwab Way: put the client first' statement and a 'technology and people' framing, and the executive quotes from the 2016 version are removed.",
+    "theme_categories": ["customer_focus", "innovation_technology", "integrity_ethics_trust"],
+    "analyst_notes": "Self-aware, slightly defensive tone ('Lots of companies say that'). The explicit client-first statement is the substantive addition; the rest of the text overlaps heavily with 2016."
+  },
+  "2018": {
+    "changed_from_prior": true,
+    "change_reason": "A new 'Who We Are' page states an explicit purpose ('champion every client's goals with passion and integrity') and a list of values (trust, innovation, teamwork, stewardship), with a results panel of assets, accounts and employees.",
+    "theme_categories": ["integrity_ethics_trust", "customer_focus", "innovation_technology", "people_culture"],
+    "analyst_notes": "The most explicit values language in the series, with an effort to tie values to behavior ('a way of doing business, not just a plaque on the wall'). The results metrics (e.g., $3.31 trillion in total client assets) are concrete and self-promotional."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "Adds an explicit diversity and inclusion commitment paragraph (affirmative-action focus on women, minorities, veterans and people with disabilities) and updates the metrics; the values text is otherwise unchanged.",
+    "theme_categories": ["integrity_ethics_trust", "customer_focus", "diversity_equity_inclusion", "growth_scale_performance"],
+    "analyst_notes": "The DEI paragraph is the first substantive DEI language on the page, though framed in legal-policy terms. Otherwise the 2018 structure and values text carry over."
+  }
+}

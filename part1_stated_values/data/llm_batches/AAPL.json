@@ -1,0 +1,60 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple",
+  "sector": "Technology",
+  "years": [
+    {
+      "year": "2016",
+      "status": "OK",
+      "chosen_url": "http://www.apple.com/about/",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "",
+      "text": "Apple Info - Apple\nContact Us\nApple Inc.\n1 Infinite Loop\nCupertino, CA 95014\n408-996-1010\nApple Store\nFind a store\nApple.com\nVisit\napple.com\nOr call 1-800-My-Apple\nSales Support\nFind\norder status online\nOr call 1-800-676-2775\nContact Apple Support\nFind Authorized Resellers\nLatest Press Releases\nRSS Feed\nView all\nJob Opportunities\nWant to work at Apple?\nOverview\nSearch Jobs\nApple Corporate\nApple Retail\nStudents"
+    },
+    {
+      "year": "2017",
+      "status": "OK",
+      "chosen_url": "http://www.apple.com/about/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "Apple Info - Apple\nContact Us\nApple Inc.\n1 Infinite Loop\nCupertino, CA 95014\n408-996-1010\nApple Store\nFind a store\nApple.com\nVisit\napple.com\nOr call 1-800-My-Apple\nSales Support\nFind\norder status online\nOr call 1-800-676-2775\nContact Apple Support\nFind Authorized Resellers\nLatest Press Releases\nRSS Feed\nView all\nJob Opportunities\nWant to work at Apple?\nOverview\nSearch Jobs\nApple Corporate\nApple Retail\nStudents"
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2024",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    }
+  ]
+}

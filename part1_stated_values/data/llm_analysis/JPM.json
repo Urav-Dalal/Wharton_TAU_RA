@@ -1,0 +1,56 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with text, so no prior comparison is possible.",
+    "theme_categories": ["community_social_responsibility", "economic_opportunity", "diversity_equity_inclusion"],
+    "analyst_notes": "The chosen URL is the JPMorgan Chase homepage, not a mission page, and it has no mission or values statement. Content is a rotating set of community stories and report links, led by 'Sparking Economic Opportunity'."
+  },
+  "2017": {
+    "changed_from_prior": true,
+    "change_reason": "The lead shifts to energy efficiency (a Chase and GE branch energy program), 'What Does It Mean to Just Be You?' inclusion content and NatureVest conservation investment, alongside the 2016 economic opportunity theme.",
+    "theme_categories": ["environmental_sustainability", "diversity_equity_inclusion", "community_social_responsibility", "innovation_technology"],
+    "analyst_notes": "Homepage carousel and story feed; the new environmental and inclusion content is prominent. Still no mission statement."
+  },
+  "2018": {
+    "changed_from_prior": true,
+    "change_reason": "LGBT equality, tech talent and Greater Washington expansion lead the carousel; diversity and talent-pipeline stories replace the environmental content.",
+    "theme_categories": ["diversity_equity_inclusion", "people_culture", "community_social_responsibility", "innovation_technology"],
+    "analyst_notes": "Diversity and talent framing dominates. An 'Environmental Social and Governance' label appears in the reports section. Tone is promotional and story-driven."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "The carousel and story feed shift to public-facing community events, veterans programs, plastic-pollution coverage and a new Dallas-Fort Worth employee campus, alongside the Advancing Cities expansion.",
+    "theme_categories": ["community_social_responsibility", "environmental_sustainability", "people_culture", "innovation_technology"],
+    "analyst_notes": "Broader and more public-facing than 2018, including a sustainability story. Still a homepage feed rather than a stated mission."
+  },
+  "2020": {
+    "changed_from_prior": true,
+    "change_reason": "The COVID-19 response and racial equity lead the page ('We're owning our part... systemic racism'), and public policy and autism-inclusion stories are new.",
+    "theme_categories": ["community_social_responsibility", "diversity_equity_inclusion", "people_culture"],
+    "analyst_notes": "Crisis-response and racial-equity language is explicit and new, with a first-person, accountability-oriented tone. It is still a homepage feed with no formal mission or values statement."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "A '$30 billion commitment to advance racial equity' becomes the headline, and the page is organized around 'Our Impact' (Communities, People, Policy Center) with an inclusive-growth framing.",
+    "theme_categories": ["diversity_equity_inclusion", "community_social_responsibility", "people_culture", "environmental_sustainability"],
+    "analyst_notes": "The most quantified and explicit DEI commitment in the series. 'Sustainable business practices' appears only once. The 'browser no longer supported' banner and third-party-link disclaimer are boilerplate."
+  },
+  "2022": {
+    "changed_from_prior": true,
+    "change_reason": "The headline moves from the $30 billion racial-equity pledge to 'closing the racial wealth gap' and 'A Workplace Where Everybody Belongs', and the 'Explore Your Future' recruiting block is dropped.",
+    "theme_categories": ["diversity_equity_inclusion", "community_social_responsibility", "people_culture"],
+    "analyst_notes": "Workplace inclusion becomes an explicit, separate message; community content is about local branches and funding. Still mostly carousel and news feed."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "New values language appears: '200 years of service, integrity and growth' and 'Our work is guided by strong fundamental principles' under 'Dedicated to Lasting Progress'; the racial equity commitment is reframed as 'inclusive growth'.",
+    "theme_categories": ["integrity_ethics_trust", "community_social_responsibility", "growth_scale_performance", "diversity_equity_inclusion"],
+    "analyst_notes": "The first place in the series that states guiding principles and a heritage framing ('service, integrity and growth'), but it is a short line; most of the page is news and stories."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "The page is redesigned around 'Serving with purpose' and a stated purpose that 'weaves together what we value and how we do business'; racial-equity headlines are dropped in favor of talent, belonging and inclusive-growth language.",
+    "theme_categories": ["purpose_statement", "people_culture", "community_social_responsibility", "growth_scale_performance"],
+    "analyst_notes": "The most explicit values language in the series ('united by a purpose'; 'a talent-driven company is, by definition, an inclusive one'). Explicit racial-equity wording no longer appears on the homepage. The capture ends with a filter-widget artifact ('No results found')."
+  }
+}

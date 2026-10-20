@@ -1,0 +1,50 @@
+{
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so there is no prior to compare against.",
+    "theme_categories": ["integrity_ethics_trust", "patient_health_outcomes", "diversity_equity_inclusion", "environmental_sustainability"],
+    "analyst_notes": "A values-heavy mission page built on the line that 'the priceless ingredient of every product is the integrity of its maker', with commitments on governance, transparency and sustainability. The commitments are qualitative (diverse workforce, preserve natural resources) with no metrics or targets."
+  },
+  "2018": {
+    "changed_from_prior": true,
+    "change_reason": "The 2017 commitment text is cut into four stakeholder bullets, dropping the integrity and governance statement and the community-citizenship and sustainability lines.",
+    "theme_categories": ["patient_health_outcomes", "diversity_equity_inclusion", "environmental_sustainability", "growth_scale_performance"],
+    "analyst_notes": "Much terser. Scientific excellence and workforce diversity survive, but the integrity and governance language, which was the page's most distinctive values statement, is gone."
+  },
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "The text is identical to 2018.",
+    "theme_categories": ["patient_health_outcomes", "diversity_equity_inclusion", "environmental_sustainability", "growth_scale_performance"],
+    "analyst_notes": "Unchanged. The abbreviated stakeholder format persists."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "The text is identical to 2019 apart from a hyphen change in the company name in the page title.",
+    "theme_categories": ["patient_health_outcomes", "diversity_equity_inclusion", "environmental_sustainability", "growth_scale_performance"],
+    "analyst_notes": "Only the company-name formatting in the title differs."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "A Mission, Vision and Values framework is introduced (Integrity, Urgency, Accountability, Innovation, Passion, Inclusion), and the commitments add health equity, diverse suppliers and a workforce that reflects community diversity.",
+    "theme_categories": ["integrity_ethics_trust", "patient_health_outcomes", "diversity_equity_inclusion", "access_affordability"],
+    "analyst_notes": "The most substantive upgrade in the series: explicit health-equity and access commitments, a supplier-diversity pledge, and a named values list. The values are written as slogans (e.g., 'Urgency', 'Passion') rather than measurable commitments."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "The text is identical to 2021 apart from the page title.",
+    "theme_categories": ["integrity_ethics_trust", "patient_health_outcomes", "diversity_equity_inclusion", "access_affordability"],
+    "analyst_notes": "Only the title wording differs ('Our Mission, Vision, Values & Commitment')."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "The text is identical to 2022.",
+    "theme_categories": ["integrity_ethics_trust", "patient_health_outcomes", "diversity_equity_inclusion", "access_affordability"],
+    "analyst_notes": "No copy change. The 2021 DEI and equity commitments carry forward unchanged."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "The commitment to hire and develop a workforce that reflects the changing diversity of communities and patients is removed, while the values list, health-equity commitments and supplier-diversity line remain.",
+    "theme_categories": ["integrity_ethics_trust", "patient_health_outcomes", "access_affordability", "diversity_equity_inclusion"],
+    "analyst_notes": "The one substantive DEI-related cut in the series: the workforce-representation pledge is gone, but inclusion remains a named value and the inclusive-culture and diverse-supplier lines are kept. Otherwise the copy matches 2023, with the values reformatted in title case."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year and the captured text is empty, so there is no baseline content to compare.",
+    "theme_categories": [],
+    "analyst_notes": "Page text is empty; likely JS-rendered and not captured by the static scraper, so there is no real content to analyze."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "Text is still empty, identical to 2016, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Page text is empty; likely JS-rendered, so there is no real content to analyze."
+  },
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "Text is still empty, identical to 2017, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Page text is empty; likely JS-rendered, so there is no real content to analyze."
+  },
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "Text is still empty, identical to 2018, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Page text is empty; likely JS-rendered, so there is no real content to analyze."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "Text is still empty, identical to 2019, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Page text is empty; likely JS-rendered, so there is no real content to analyze."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "Text is still empty, identical to 2020, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Page text is empty; likely JS-rendered, so there is no real content to analyze."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Text is still empty, identical to 2021, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Page text is empty; likely JS-rendered, so there is no real content to analyze."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Only the page title 'About | Tesla' was captured; the classical change flag reflects a title-only shift from empty text, not a change in content.",
+    "theme_categories": [],
+    "analyst_notes": "Only the title 'About | Tesla' was captured; the body is likely JS-rendered, so there is no real content to analyze."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Identical title-only capture to 2023, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Only the title 'About | Tesla' was captured; the body is likely JS-rendered, so there is no real content to analyze."
+  }
+}

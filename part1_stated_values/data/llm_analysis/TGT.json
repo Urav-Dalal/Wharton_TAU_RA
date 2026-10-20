@@ -1,0 +1,56 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, but only the page title ('About Target: Our Passion, Our Commitments') was captured, so there is no baseline body text.",
+    "theme_categories": [],
+    "analyst_notes": "Title-only capture with no body copy. The title's 'passion' and 'commitments' wording is the only visible signal and cannot be assessed beyond that."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "The capture is a single word ('about'), so the apparent change from 2016 is a scraping artifact, not a change in the page.",
+    "theme_categories": [],
+    "analyst_notes": "Effectively empty; there is no analyzable content."
+  },
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "Same one-word capture as 2017, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Effectively empty; there is no analyzable content."
+  },
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "Same one-word capture as 2018, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Effectively empty; there is no analyzable content."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "Only the title changed to 'all about Target | Target Corporation fact sheet'; no body text was captured, so no content change can be judged.",
+    "theme_categories": [],
+    "analyst_notes": "Title-only capture. The fact-sheet title suggests a different page, but there is no analyzable content."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "Identical title-only capture to 2020.",
+    "theme_categories": [],
+    "analyst_notes": "Title-only capture; no analyzable content."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Title changed to 'About Target Corporation' with no body text captured, so no meaningful content change can be judged.",
+    "theme_categories": [],
+    "analyst_notes": "Title-only capture; no analyzable content."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Identical title-only capture to 2022.",
+    "theme_categories": [],
+    "analyst_notes": "Title-only capture; no analyzable content."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "First year with a full About page (mission-style copy, store and revenue facts, and links), so the text changed from a title-only capture; this is largely a capture difference, not a comparable change in messaging.",
+    "theme_categories": ["customer_focus", "community_social_responsibility", "growth_scale_performance"],
+    "analyst_notes": "Warm, upbeat tone ('the joy of everyday life') with concrete scale facts (nearly 2,000 stores, 400k+ team members, 5% of profits to communities since 1946). Values and ethics content is thin beyond these facts, and sustainability appears only as a link."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "First available year; it is the baseline 'About Us' page built around purpose, a 117-year history and a founder quote.",
+    "theme_categories": ["innovation_technology", "community_social_responsibility", "customer_focus", "environmental_sustainability"],
+    "analyst_notes": "Warm, heritage-driven tone with purpose language about 'a better world'. Concrete claims are few, and the climate reference ('our climate') is a single phrase."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "The copy was rewritten around services, experiences and software, added a 'family company' framing and an 'Our culture' paragraph on belonging, and dropped the climate phrasing.",
+    "theme_categories": ["innovation_technology", "integrity_ethics_trust", "diversity_equity_inclusion", "customer_focus"],
+    "analyst_notes": "The tone moves from heritage and purpose toward trust and inclusion ('serve the world with integrity and competence', 'a culture of belonging'). The claims are aspirational and carry no metrics."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "The captured text is identical to 2021.",
+    "theme_categories": ["innovation_technology", "integrity_ethics_trust", "diversity_equity_inclusion", "customer_focus"],
+    "analyst_notes": "Identical copy to 2021, so tone and specificity are unchanged."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "The 'Our culture' paragraph on belonging and shared ideals was removed, and the rest of the copy is the same.",
+    "theme_categories": ["innovation_technology", "integrity_ethics_trust", "customer_focus"],
+    "analyst_notes": "The removal is notable because the belonging paragraph was the only explicit DEI-type statement on the page. The remaining copy is generic and aspirational."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Only the years-in-business count changed to 121, plus a minor rewording ('That is why we are evolving'), so there is no substantive change.",
+    "theme_categories": ["innovation_technology", "integrity_ethics_trust", "customer_focus"],
+    "analyst_notes": "Essentially the 2023 copy. The page remains aspirational and light on specifics, with no culture section."
+  }
+}

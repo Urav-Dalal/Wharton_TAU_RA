@@ -1,0 +1,56 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with text, so no prior comparison is possible.",
+    "theme_categories": ["community_social_responsibility", "customer_focus", "integrity_ethics_trust"],
+    "analyst_notes": "The chosen URL is the About Wells Fargo section landing page, and the body is mostly navigation labels and link text. The one mission-like line is 'help customers succeed, help communities thrive.' The 'Vision and Values' item is only a link, so the actual values text is not captured."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "Nearly identical to 2016 (classical similarity 0.96); changes are navigation labels only, such as 'Corporate Responsibility Priorities' and 'Community Giving' replacing the earlier report links.",
+    "theme_categories": ["community_social_responsibility", "customer_focus", "integrity_ethics_trust"],
+    "analyst_notes": "Same navigational landing page with little values language. The 'Corporate Responsibility Priorities' label is new, but no priorities are stated in the captured text."
+  },
+  "2018": {
+    "changed_from_prior": true,
+    "change_reason": "A new 'Vision, Values and Goals' block states an 'enduring vision is to help our customers succeed financially', refers to five values and six goals, and the responsible lending block is reworded. The values and goals themselves are not captured.",
+    "theme_categories": ["customer_focus", "integrity_ethics_trust", "community_social_responsibility"],
+    "analyst_notes": "First explicit vision statement on the page, a substantive addition. Nav blocks are heavily duplicated in the capture, which suggests a scrape artifact rather than a design choice."
+  },
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "Only a Spanish-language notice and minor wording changes ('vision, values, and goals'); the substantive content matches 2018.",
+    "theme_categories": ["customer_focus", "integrity_ethics_trust", "community_social_responsibility"],
+    "analyst_notes": "Same navigation-heavy page; the vision line is unchanged, and the values content is still absent from the capture."
+  },
+  "2020": {
+    "changed_from_prior": true,
+    "change_reason": "The 'Vision, Values & Goals' block and the 'live our vision and values' wording are removed, and the claim that Wells Fargo loans more to home buyers and small businesses than any other bank is replaced by generic 'commitment to helping people and communities succeed financially.'",
+    "theme_categories": ["community_social_responsibility", "customer_focus", "integrity_ethics_trust"],
+    "analyst_notes": "The most notable change in the series: the explicit vision and values section disappears, and the scale claim is replaced with softer language. The captured text does not explain the removal. The page becomes more of a navigation hub."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "Community priorities are named for the first time: 'housing affordability, small business growth, financial health and sustainability' replaces the more general 'grants, financial education, environmental stewardship, and volunteerism.'",
+    "theme_categories": ["community_social_responsibility", "environmental_sustainability", "customer_focus"],
+    "analyst_notes": "Specific, enumerated priorities including a sustainability mention. Still a navigation-driven page with little articulated values language."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Only minor wording and link changes (Community Mural description, 'Teamworks for Employees', a removed fact-sheet link); the community priorities and values content match 2021.",
+    "theme_categories": ["community_social_responsibility", "environmental_sustainability", "customer_focus"],
+    "analyst_notes": "Same priorities as 2021 with wording tweaks only. The classical flag (changed) is not supported by the substance of the text."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "The Community Mural block is dropped and 'Code of Ethics' is renamed 'Code of Conduct', but the stated priorities and vision are unchanged.",
+    "theme_categories": ["community_social_responsibility", "environmental_sustainability", "integrity_ethics_trust"],
+    "analyst_notes": "The Code of Ethics to Code of Conduct rename is a terminology change worth noting for integrity-focused analysis, but it is not a change in stated values. The page remains navigational."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Only the 'Senior Leadership Team' label changes to 'Operating Committee'; otherwise identical to 2023.",
+    "theme_categories": ["community_social_responsibility", "environmental_sustainability", "integrity_ethics_trust"],
+    "analyst_notes": "Same navigational page as 2023 with the operating-committee rename; no new values content."
+  }
+}

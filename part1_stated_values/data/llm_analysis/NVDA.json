@@ -1,0 +1,8 @@
+{
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "First and only available year, no comparison.",
+    "theme_categories": ["innovation_technology", "customer_focus", "executive_briefing_sales"],
+    "analyst_notes": "This is a sales-oriented page for NVIDIA's Executive Briefing Center rather than an About or mission page, so it shows how NVIDIA pitches AI and accelerated computing to customers, not its stated values. It has no DEI, sustainability, or culture language, so the classical people_culture label is not supported by the text. With only one year, no change over time can be assessed."
+  }
+}

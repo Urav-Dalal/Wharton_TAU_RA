@@ -1,0 +1,26 @@
+{
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so there is no prior to compare against.",
+    "theme_categories": ["community_social_responsibility", "integrity_ethics_trust", "environmental_sustainability", "innovation_technology"],
+    "analyst_notes": "CSR landing page built around a mission ('healthier, cleaner and safer') and four focus areas (business sustainability, employee involvement, philanthropic giving, operational integrity). It mostly points to PDF reports, so specifics live outside the page."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "The page is restructured around four pillars (Operational Integrity, Colleagues, Communities, Environment) with an expanded mission paragraph, replacing the 2018 structure built on the CEO letter and three sub-programs.",
+    "theme_categories": ["integrity_ethics_trust", "people_culture", "community_social_responsibility", "environmental_sustainability"],
+    "analyst_notes": "The copy is more explicit about ESG and STEM education, and it names customer outcomes concretely (research, diagnostics, medicines, laboratory productivity). Environment is framed as minimizing impact while innovating for customers."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "The text is identical to 2019.",
+    "theme_categories": ["integrity_ethics_trust", "people_culture", "community_social_responsibility", "environmental_sustainability"],
+    "analyst_notes": "Unchanged from 2019. The page is still a CSR index that points to PDF reports and carries no quantified targets in its own copy."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "The text is identical to 2020 except that the report-year reference moves from 2018 to 2019.",
+    "theme_categories": ["integrity_ethics_trust", "people_culture", "community_social_responsibility", "environmental_sustainability"],
+    "analyst_notes": "Only the report reference changed. The four-pillar substance remains in the linked reports, and the page itself has no specific targets."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, no comparison.",
+    "theme_categories": ["innovation_technology", "growth_scale_performance", "customer_focus"],
+    "analyst_notes": "A short, factual corporate description: scale ('diversified global semiconductor leader'), 50 years of innovation, and end-market breadth. Value language is generic ('engineering excellence', 'category-leading'), with no DEI, sustainability, or culture content, so the classical diversity_equity_inclusion label is not supported by the text."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "Substantively identical to 2016; only a line break and trivial wording differ.",
+    "theme_categories": ["innovation_technology", "growth_scale_performance", "customer_focus"],
+    "analyst_notes": "A near-verbatim repeat of 2016, so the 0.999 classical similarity is accurate. Tone and specificity are unchanged."
+  },
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "Only the legal name changes from 'Broadcom Limited' to 'Broadcom Inc.' and a cookie banner is added; the description is unchanged.",
+    "theme_categories": ["innovation_technology", "growth_scale_performance", "customer_focus"],
+    "analyst_notes": "The name change reflects a corporate domicile move, a material fact but not a change in stated emphasis. The cookie banner is page chrome, not a stated-values signal."
+  },
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only scrape ('About Us'); no content to compare, so no change can be detected.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "The scrape captured only the page heading, so this year cannot be coded for stated values and the real page text is missing. The classical 'changed' flag (similarity 0.015) is a scrape artifact and should be disregarded."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only scrape ('About Us'); no content to compare, so no change can be detected.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Title-only scrape with no page content, so no stated-values coding is possible. The classical unchanged flag is uninformative here."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only scrape ('About Us'); no content to compare, so no change can be detected.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Title-only scrape with no page content, so no stated-values coding is possible. The classical unchanged flag is uninformative here."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only scrape ('About Us'); no content to compare, so no change can be detected.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Title-only scrape with no page content, so no stated-values coding is possible. The classical unchanged flag is uninformative here."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only scrape ('About Us'); no content to compare, so no change can be detected.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Title-only scrape with no page content, so no stated-values coding is possible. The classical unchanged flag is uninformative here."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only scrape ('About Us'); no content to compare, so no change can be detected.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Title-only scrape with no page content, so no stated-values coding is possible. The classical unchanged flag is uninformative here."
+  }
+}

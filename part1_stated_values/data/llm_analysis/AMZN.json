@@ -1,0 +1,44 @@
+{
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so it sets the baseline: a rotating newsroom-style 'About Amazon' feed of featured stories.",
+    "theme_categories": ["environmental_sustainability", "community_social_responsibility", "innovation_technology", "diversity_equity_inclusion"],
+    "analyst_notes": "Mostly story-card promotion (Books, Prime Air, The Spheres) rather than a statement of values, so explicit claims are sparse. The line on helping people with disabilities find employment is one of the few concrete commitments; specificity is low to moderate."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "Featured content shifted toward delivery, AI and robotics and a net-zero shipping vision (Shipment Zero), and the page added quantified job and investment claims (125 jobs a day, $100 billion invested in the US).",
+    "theme_categories": ["innovation_technology", "environmental_sustainability", "growth_scale_performance", "community_social_responsibility"],
+    "analyst_notes": "More confident and corporate in tone than 2018, with a concrete target (50% of shipments net-zero by 2030). The employment and investment figures are self-reported and not independently verifiable, and most copy is still story-card promotion."
+  },
+  "2020": {
+    "changed_from_prior": true,
+    "change_reason": "COVID-19 response, a front-line employee bonus and the four Leadership Principles displaced the 2019 innovation and delivery emphasis, and an explicit diversity and affinity-group section appeared.",
+    "theme_categories": ["people_culture", "community_social_responsibility", "innovation_technology", "diversity_equity_inclusion"],
+    "analyst_notes": "Crisis-era copy is more people-centric and more explicit about values (customer obsession, long-term thinking), with concrete commitments such as a $1 million Seattle COVID-19 fund and 12 affinity groups. The claims still read as episodic news items rather than a sustained program."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "The format switched to a 'Did you know?' fact carousel with many quantified claims on pay, benefits, packaging and electric delivery vans, replacing the 2018-2020 story-card layout.",
+    "theme_categories": ["people_culture", "environmental_sustainability", "diversity_equity_inclusion", "growth_scale_performance"],
+    "analyst_notes": "The most quantified year so far (at least $15/hr minimum pay, over 1 million tons of packaging removed since 2015, 100,000 electric vans by 2039), so it is specific. The numbers are self-reported marketing claims, not audited results."
+  },
+  "2022": {
+    "changed_from_prior": true,
+    "change_reason": "The fact list turned to worker investment (tuition, Upskilling 2025 at $1.2 billion, $18/hr starting pay), disaster relief and counterfeit enforcement, and the 2021 sustainability and immigrant-rights items dropped out.",
+    "theme_categories": ["people_culture", "community_social_responsibility", "integrity_ethics_trust", "innovation_technology"],
+    "analyst_notes": "The emphasis moves toward employee benefits and customer protection, giving a more trust-based tone than 2021. Claims are concrete (for example, $15 billion in COVID-19 costs and $24.8 million for affordable homes) but outcomes are not reported."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "Featured claims moved toward infrastructure and AI-adjacent investments (a $10 billion satellite internet constellation, a $7.8 billion AWS investment in Ohio, a Generative AI Innovation Center), with new employee support items such as cancer-care benefits.",
+    "theme_categories": ["innovation_technology", "growth_scale_performance", "people_culture", "community_social_responsibility"],
+    "analyst_notes": "The tone is more growth and product marketing (Prime Day, Prime Video) than values, though the dollar commitments are specific. The average hourly wage ($19) is given without context, such as comparison to peers or benchmarks."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "The page became dominated by generative AI announcements (Rufus, the Anthropic investment, Bedrock models, AI courses), and the fact carousel was replaced by a list of trending articles.",
+    "theme_categories": ["innovation_technology", "people_culture", "community_social_responsibility", "environmental_sustainability"],
+    "analyst_notes": "Explicit values and DEI language nearly disappear; 'inclusive environment' appears once. Much of the copy is promotional, and the claim that AI workloads' carbon footprint can fall 'by up to 99%' is given without method detail."
+  }
+}

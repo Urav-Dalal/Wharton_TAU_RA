@@ -1,0 +1,32 @@
+{
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, no comparison.",
+    "theme_categories": ["innovation_technology", "people_culture", "community_social_responsibility", "integrity_ethics_trust"],
+    "analyst_notes": "Confident, mission-led About page ('IBMers believe in progress') with a strong IBMer culture message and a long history section that takes up much of the page. Responsibility content (P-TECH, Trust Center, AI for social good) is present but brief, and the environment appears in only one line, so the classical environmental label is weak."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "Headline cloud messaging is rewritten around hybrid cloud ('The world is going hybrid with IBM'), with new AI and quantum research entries and a 2-nanometer chip timeline item; culture and mission copy is unchanged.",
+    "theme_categories": ["innovation_technology", "hybrid_cloud_transformation", "customer_focus", "people_culture"],
+    "analyst_notes": "The organizing story moves from 'the cloud for smarter business' to hybrid cloud, a meaningful strategic change that the classical signal (similarity 0.86, unchanged) misses. Tone is confident, but claims remain largely qualitative."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Near-identical to 2021: the Services label becomes Consulting, the CEO title becomes Chairman and CEO, and a Fellows quote is updated; the core messaging is the same.",
+    "theme_categories": ["innovation_technology", "hybrid_cloud_transformation", "customer_focus", "people_culture"],
+    "analyst_notes": "The Services-to-Consulting relabel is a branding change worth tracking, but the messaging and emphasis are unchanged. The classical unchanged flag agrees."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "The page is restructured around 'Creators, partners and clients putting technology to work in the real world'; the IBMers-believe-in-progress and people-centered messages are removed, and new sections cover a net-zero 2030 emissions goal, AI digital workers, and enterprise social good.",
+    "theme_categories": ["innovation_technology", "customer_focus", "environmental_sustainability", "community_social_responsibility"],
+    "analyst_notes": "This is the clearest strategic shift in the series: culture and employee messaging drop out, and the page now centers on a business structure (Consulting, Software, Red Hat, Infrastructure, Ecosystem) and a specific net-zero pledge. The classical flag (True, similarity 0.03) is right on direction."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "Adds specific programs (IBM Sustainability Accelerator and IBM SkillsBuild, aimed at traditionally underrepresented communities in technology), shortens the history timeline and FAQ, and updates product naming to watsonx Orchestrate.",
+    "theme_categories": ["innovation_technology", "customer_focus", "environmental_sustainability", "community_social_responsibility"],
+    "analyst_notes": "More concrete on social programs, including explicit underrepresented-community language absent in 2023, and shorter overall. Employee and culture content is still absent. The classical flag (True, similarity 0.32) agrees."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so there is no prior to compare against.",
+    "theme_categories": ["innovation_technology", "growth_scale_performance", "customer_focus"],
+    "analyst_notes": "Fact-sheet style page built on scale and capability claims (130 countries, about $3.3B in technology spend, about 1 trillion transactions). Mission language about 'healthier lives' and making the health system work better is generic, and explicit values are absent."
+  },
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "The narrative and structure are identical to 2018; only the fact-box figures (technology spend, transactions, workforce, clinician count) were updated.",
+    "theme_categories": ["innovation_technology", "growth_scale_performance", "customer_focus"],
+    "analyst_notes": "Numeric refresh only. The classical flag marks this as changed, which reflects figure updates rather than any shift in stated values."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "The narrative is identical to 2019; only the fact figures were updated (countries 130 to 140, technology spend $3.6B, workforce 325K).",
+    "theme_categories": ["innovation_technology", "growth_scale_performance", "customer_focus"],
+    "analyst_notes": "Scale and technology claims grow in the numbers, but the wording stays generic. No DEI, environmental or community commitments appear in the captured copy, and the 2021-2024 captures are missing, leaving a gap in the series."
+  }
+}

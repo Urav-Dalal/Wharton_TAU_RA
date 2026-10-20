@@ -1,0 +1,20 @@
+{
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, but the capture is a 404 error page, so there is no baseline content.",
+    "theme_categories": [],
+    "analyst_notes": "The captured text is a 404 error page, so there is no company content in this year. The chosen URL should be rechecked."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "Identical 404 capture to 2019, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Same 404 error page; no company content."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "Identical 404 capture to 2020, so no change can be detected.",
+    "theme_categories": [],
+    "analyst_notes": "Same 404 error page; no company content."
+  }
+}

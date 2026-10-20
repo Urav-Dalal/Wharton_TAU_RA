@@ -1,0 +1,14 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, no comparison.",
+    "theme_categories": ["corporate_contact_info", "careers_recruitment"],
+    "analyst_notes": "The scraped text is almost entirely site navigation and contact details (address, phone numbers, store and support links), with no mission, values, or narrative about the company. The scrape did not capture the About page's real content, so this year carries essentially no stated-values signal; the empty classical signal is consistent with that."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "Text is textually identical to the 2016 navigation and contact text; no change.",
+    "theme_categories": ["corporate_contact_info", "careers_recruitment"],
+    "analyst_notes": "Identical to the 2016 snapshot, so there is nothing to compare, and it likewise reflects navigation boilerplate rather than Apple's stated values. The 1.0 similarity is a scrape artifact, not evidence of stable messaging."
+  }
+}

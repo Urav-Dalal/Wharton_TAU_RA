@@ -1,0 +1,60 @@
+{
+  "ticker": "ABBV",
+  "company_name": "AbbVie",
+  "sector": "Healthcare",
+  "years": [
+    {
+      "year": "2016",
+      "status": "OK",
+      "chosen_url": "http://www.abbvie.com:80/about-us/who-we-are.html",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "innovation_technology|community_social_responsibility",
+      "text": "AbbVie | Who We Are\nOUR LIFE'S WORK IS TO IMPROVE LIVES\nWe are 28,000 people focused on developing new products and new ways to help people manage some of the most serious health conditions. We are scientists, researchers, communicators, manufacturing specialists, and regulatory experts. We also are parents, brothers, sisters, friends, community leaders, volunteers, and more. We have a lot in common with the people we serve, and we come together every day to create, discover, and deliver new ways to improve people's health.\nFINDING BETTER WAYS TO HELP PATIENTS\nAbbVie began as the pharmaceutical leader, Abbott, which was founded in 1888 by Chicago physician, Dr. Wallace Abbott. Since then, Abbott has evolved to become a global healthcare leader, delivering innovative pharmaceutical, nutritional, diagnostic, and medical products to people in more than 150 countries.\nA NEW BEGINNING\nOn January 1, 2013, AbbVie was founded, a global biopharmaceutical company with the focus and capabilities to address some of the world's greatest health challenges. AbbVie has the stability, resources, expertise, and passion to discover, develop, and bring to market groundbreaking science to solve the biggest health problems that face the world today and tomorrow.\nABBVIE IS\u2026\nFocused\nWe are focused on developing leading-edge therapies and innovations.\nPassionate\nWe have the commitment, expertise, and capabilities to provide life-changing products to patients who need them most.\nMaking a Difference\nAbbVie combines deep understanding of patient needs and disease states to deliver treatments that have an impact on peoples' lives.\nABBVIE HAS\u2026\nA diverse product portfolio, including several market-leading medicines.\nA focused business and investment model designed to address unmet patient needs.\nProven commercial capabilities, infrastructure, and expertise rooted in a 125-year history as an innovative leader in advancing healthcare.\n28,000 dedicated employees who are committed to addressing the world's greatest health challenges."
+    },
+    {
+      "year": "2017",
+      "status": "OK",
+      "chosen_url": "http://www.abbvie.com:80/about-us/who-we-are.html",
+      "classical_similarity_to_prior": "0.9985",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "innovation_technology|community_social_responsibility",
+      "text": "AbbVie | Who We Are\nOUR LIFE'S WORK IS TO IMPROVE LIVES\nWe are 28,000 people focused on developing new products and new ways to help people manage some of the most serious health conditions. We are scientists, researchers, communicators, manufacturing specialists, and regulatory experts. We also are parents, brothers, sisters, friends, community leaders, volunteers, and more. We have a lot in common with the people we serve, and we come together every day to create, discover, and deliver new ways to improve people's health.\nFINDING BETTER WAYS TO HELP PATIENTS\nAbbVie began as the pharmaceutical leader, Abbott, which was founded in 1888 by Chicago physician, Dr. Wallace Abbott. Since then, AbbVie has evolved to become a global healthcare leader, delivering innovative pharmaceutical, nutritional, diagnostic, and medical products to people in more than 150 countries.\nA NEW BEGINNING\nOn January 1, 2013, AbbVie was founded, a global biopharmaceutical company with the focus and capabilities to address some of the world's greatest health challenges. AbbVie has the stability, resources, expertise, and passion to discover, develop, and bring to market groundbreaking science to solve the biggest health problems that face the world today and tomorrow.\nABBVIE IS\u2026\nFocused\nWe are focused on developing leading-edge therapies and innovations.\nPassionate\nWe have the commitment, expertise, and capabilities to provide life-changing products to patients who need them most.\nMaking a Difference\nAbbVie combines deep understanding of patient needs and disease states to deliver treatments that have an impact on peoples' lives.\nABBVIE HAS\u2026\nA diverse product portfolio, including several market-leading medicines.\nA focused business and investment model designed to address unmet patient needs.\nProven commercial capabilities, infrastructure, and expertise rooted in a 125-year history as an innovative leader in advancing healthcare.\n28,000 dedicated employees who are committed to addressing the world's greatest health challenges."
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2024",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    }
+  ]
+}

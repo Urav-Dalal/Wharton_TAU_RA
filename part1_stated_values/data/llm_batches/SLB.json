@@ -1,0 +1,72 @@
+{
+  "ticker": "SLB",
+  "company_name": "SLB (Schlumberger)",
+  "sector": "Energy",
+  "years": [
+    {
+      "year": "2016",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.slb.com:80/about.aspx",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "",
+      "text": "About Schlumberger | Schlumberger"
+    },
+    {
+      "year": "2017",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.slb.com:80/about.aspx",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "About Schlumberger | Schlumberger"
+    },
+    {
+      "year": "2018",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.slb.com:80/about.aspx",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "About Schlumberger | Schlumberger"
+    },
+    {
+      "year": "2019",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.slb.com:80/about.aspx",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "About Schlumberger | Schlumberger"
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "http://www.slb.com:80/about.aspx",
+      "classical_similarity_to_prior": "0.0071",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "environmental_sustainability|innovation_technology|diversity_equity_inclusion|integrity_ethics_trust",
+      "text": "About | SLB\nTopic Page\nAbout\nPublished: 10/09/2022\nCreating the energy technologies our world needs. Today.\nNavigating to net zero\nOur collective future depends on transforming the global energy system and establishing a lower-carbon world. At SLB, we are committed to tackling this challenge by driving energy innovation across industry, supporting net-zero targets, and going further\u2014every day\u2014for a balanced planet.\nExplore\nWe\u2019re transforming the energy industry. Again.\nIndustry is at a crossroads. We believe that science, technology, and engineering will be key to getting us where we need to go, and we must drive innovation like never before.\nExplore\n48%\nOf STEM new hires in 2021 were women\nAA\nRating Morgan Stanley Capital International, 2021\n80\nYears SLB has supported sustainable access to energy in Africa\n100 years of constant innovation\nFor nearly a century, SLB has has driven innovation in the energy industry, unlocking access to energy for the benefit of all.\nExplore\nMeet SLB\u2019s executive management team\nSLB\u2019s leadership team brings significant global experience in energy, engineering, finance, operations, and technology.\nRead more\nIntegrity first\nHealth, Safety, and the Environment (HSE)\nMeeting the highest standards of human health and safety, and environmental protection.\nView\nHealth, Safety, and the Environment (HSE)\nA long-standing HSE commitment to the highest standards.\nView\nDiversity & Inclusion\nLong-standing commitment to national and cultural diversity.\nView\nDiversity & Inclusion\nOne of SLB's greatest strengths is the diversity of our workforce, with people of many nationalities and backgrounds working together and sharing common objectives.\nView\nCorporate Governance\nSLB corporate governance, principles, and practices.\nView\nCorporate Governance\nSLB corporate governance, principles, and practices.\nView\nClimate, People, Nature\nThe sustainable pillars that are core to the way we work.\nExplore\nClimate, People, Nature\nThe sustainable pillars that are core to the way we work.\nExplore\nSupply Chain\nFind out how to become a supplier to SLB.\nExplore\nAlumni\nStay connected to what\u2019s new at SLB, renew relationships with friends and former colleagues, and explore career and networking opportunities.\nExplore\nDigital Platform Partners\nLearn how we connect digital innovators to our customers through our open digital platforms\nContact Us\nBe part of the winning team\nWe\u2019d like you to build your career with us. And whatever your background or expertise, a career with SLB puts you at the heart of the energy transition, at the heart of the global energy industry. It\u2019s where the most investment is happening, and it\u2019s where you can make the most impact, in every corner of the world.\nJoin Us\nBe part of the winning team\nWe\u2019d like you to build your career with us. And whatever your background or expertise, a career with SLB puts you at the heart of the energy transition, at the heart of the global energy industry. It\u2019s where the most investment is happening, and it\u2019s where you can make the most impact, in every corner of the world.\nJoin Us"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with full text covering net zero, Direct Air Capture, essential chemistry, and DEI.",
+    "theme_categories": ["environmental_sustainability", "innovation_technology", "diversity_equity_inclusion", "growth_scale_performance"],
+    "analyst_notes": "Environmental content dominates and is unusually specific for an About page: net-zero targets for operations by 2040 and for product use by 2050, a 16 MW solar farm with 174,000 panels, and a named Direct Air Capture plant. The page also carries an NYSE price ticker, which is scrape noise."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Changes are minor: a 2021 Climate Report link, a Low Carbon Ventures investor update block, and 'lower-carbon' becoming 'low-carbon', with the core copy unchanged.",
+    "theme_categories": ["environmental_sustainability", "innovation_technology", "diversity_equity_inclusion", "growth_scale_performance"],
+    "analyst_notes": "Net-zero claims are repeated with the same interim 2024 and 2032 goals and the TPI recognition. The copy is confident and specific about targets, but the page does not disclose emissions baselines or progress figures."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Copy is nearly identical to 2022; the net-zero section changes tense only ('Oxy engages' replaces 'Throughout 2021, Oxy engaged') and the investor update block is removed.",
+    "theme_categories": ["environmental_sustainability", "innovation_technology", "diversity_equity_inclusion", "growth_scale_performance"],
+    "analyst_notes": "Project details are concrete (Goldsmith solar field, Cemvita partnership), but progress claims remain forward-looking. The tone is brand-driven ('Zero In') and confident."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "The Direct Air Capture project status changes from a front-end engineering and design study (2023) to 'construction is underway' under the STRATOS name, a factual milestone change, while the rest of the copy is essentially unchanged.",
+    "theme_categories": ["environmental_sustainability", "innovation_technology", "diversity_equity_inclusion", "growth_scale_performance"],
+    "analyst_notes": "Milestone language is concrete (a named facility and a construction status). Ambitious superlatives such as 'the largest facility of its kind in the world' are not verified on the page."
+  }
+}

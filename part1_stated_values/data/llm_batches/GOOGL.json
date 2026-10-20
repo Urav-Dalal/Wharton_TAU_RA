@@ -1,0 +1,60 @@
+{
+  "ticker": "GOOGL",
+  "company_name": "Alphabet",
+  "sector": "Technology",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "OK",
+      "chosen_url": "https://abc.xyz/2023-0717/",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "",
+      "text": "Alphabet Announces Date of Second Quarter 2023 Financial Results Conference Call - Alphabet Investor Relations\nSkip to main content\nAlphabet Announces Date of Second Quarter 2023 Financial Results Conference Call\nMOUNTAIN VIEW, Calif. (July 17, 2023) \u00e2\u0080\u0093 Alphabet Inc. (NASDAQ: GOOG, GOOGL) will hold its quarterly conference call to discuss second quarter 2023 financial results on Tuesday, July 25, at 2:00 p.m. Pacific Time (5:00 p.m. Eastern Time).\nThe live webcast of the earnings conference call can be accessed\nhere\n. A replay of the webcast will be available through the same link following the conference call. Please visit the Investor Relations website at\nabc.xyz/investor\non July 25, 2023 to view the earnings release before the conference call.\nAbout Alphabet Inc.\nAlphabet is a collection of companies, the largest of which is Google. Larry Page and Sergey Brin founded Google in September 1998 and the company is headquartered in Mountain View, Calif. Billions of people use its wide range of popular products and platforms each day, like Search, Ads, Chrome, Cloud, YouTube and Android.\nContact\nInvestor Relations:\ninvestor-relations@abc.xyz\nMedia:\npress@abc.xyz"
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "https://abc.xyz/2023-0717/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "Alphabet Announces Date of Second Quarter 2023 Financial Results Conference Call - Alphabet Investor Relations\nSkip to main content\nAlphabet Announces Date of Second Quarter 2023 Financial Results Conference Call\nMOUNTAIN VIEW, Calif. (July 17, 2023) \u00e2\u0080\u0093 Alphabet Inc. (NASDAQ: GOOG, GOOGL) will hold its quarterly conference call to discuss second quarter 2023 financial results on Tuesday, July 25, at 2:00 p.m. Pacific Time (5:00 p.m. Eastern Time).\nThe live webcast of the earnings conference call can be accessed\nhere\n. A replay of the webcast will be available through the same link following the conference call. Please visit the Investor Relations website at\nabc.xyz/investor\non July 25, 2023 to view the earnings release before the conference call.\nAbout Alphabet Inc.\nAlphabet is a collection of companies, the largest of which is Google. Larry Page and Sergey Brin founded Google in September 1998 and the company is headquartered in Mountain View, Calif. Billions of people use its wide range of popular products and platforms each day, like Search, Ads, Chrome, Cloud, YouTube and Android.\nContact\nInvestor Relations:\ninvestor-relations@abc.xyz\nMedia:\npress@abc.xyz"
+    }
+  ]
+}

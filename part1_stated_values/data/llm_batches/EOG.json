@@ -1,0 +1,84 @@
+{
+  "ticker": "EOG",
+  "company_name": "EOG Resources",
+  "sector": "Energy",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.eogresources.com:80/",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "",
+      "text": "\u00ef\u00bb\u00bf\nHome : EOG Resources, Inc.\nLatest Press Releases\nClick to subscribe to EOG Investor Relations e-mail alerts.\nLoading data...\nmore press releases"
+    },
+    {
+      "year": "2018",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.eogresources.com:80/",
+      "classical_similarity_to_prior": "0.951",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "\u00ef\u00bb\u00bf\nHome : EOG Resources, Inc.\nLatest News\nClick to subscribe to EOG Investor Relations e-mail alerts.\nLoading data...\nmore press releases"
+    },
+    {
+      "year": "2019",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.eogresources.com:80/",
+      "classical_similarity_to_prior": "0.1911",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "EOG \u2013 EOG Resources"
+    },
+    {
+      "year": "2020",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.eogresources.com:80/",
+      "classical_similarity_to_prior": "0.52",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "EOG Resources, Inc. \u2013 Home Page"
+    },
+    {
+      "year": "2021",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.eogresources.com:80/",
+      "classical_similarity_to_prior": "0.0",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": ""
+    },
+    {
+      "year": "2022",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.eogresources.com:80/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": ""
+    },
+    {
+      "year": "2023",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.eogresources.com:80/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": ""
+    },
+    {
+      "year": "2024",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "http://www.eogresources.com:80/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": ""
+    }
+  ]
+}

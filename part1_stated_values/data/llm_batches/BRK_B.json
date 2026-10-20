@@ -1,0 +1,56 @@
+{
+  "ticker": "BRK.B",
+  "company_name": "Berkshire Hathaway",
+  "sector": "Financials",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2024",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://berkshirehathaway.com/govern/code.html",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "",
+      "text": "\u0013`\u0006\u0000\u00c4\u00ff\u00d4\u00e9\u008c\u00c3\u00feN!PR@Eg\u0092c\u00b7\u00ec\u00967\u00c3\u000f\u0090j*^\u00bf\u00df\u00aah\u00ad\n:%2}\u0005y\u00ef\u00837\u0093,\u0096T\u0012\u00de\u00e8D\u00d1\u00ceI\u0013\n\u00edb\u00b8\u0087\u00b8\u00bdS\u00a17#Q\u00e1\u00c4\u009f\u00c0\u0099\u007fC\u0011N\u00d1\u009c\u0016\u00e1\u00b4\u00bf\u00c8[\u00e8a\u00ac\u00f5tEp\u0099\u009e\u00cf! `\u00a7\u00e0\u00d9\n\u00d0#\u0099A\u00ac\b\u00a7\u0004\u00a2\u0088\u0000\u00b0\u008a\u0083\u0081\u00fd\u00e0\u00d9\u00ec\n\u000f\u008eOO\u000f\u000e\u00ce\u0006\u00bd!\u0093\u0082\u00c3l\u0083\u009e\u0093{\u00db\b"
+    }
+  ]
+}

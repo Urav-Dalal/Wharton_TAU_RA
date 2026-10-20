@@ -1,0 +1,32 @@
+{
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "First available year; only the tagline title 'Valero | Advancing the Future of Energy' was captured.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "The tagline is the only copy captured, so no values, tone, or environmental content can be assessed for this year."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "The title is identical to 2020 and there is no body text to show any change.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture. The classical similarity of 1.0 reflects an unchanged tagline, not verified stability of the About copy."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "The title is identical to 2021 and there is no body text to show any change.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture, identical to 2020 and 2021. Nothing on environmental or values messaging can be read."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "The title is identical to 2022 and there is no body text to show any change.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture, identical to prior years. No content can be coded."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "The title is identical to 2023 and there is no body text to show any change.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture, identical to prior years. The JavaScript-rendered About content was not captured for any year."
+  }
+}

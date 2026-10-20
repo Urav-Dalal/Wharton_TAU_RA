@@ -1,0 +1,72 @@
+{
+  "ticker": "LOW",
+  "company_name": "Lowe's",
+  "sector": "Consumer Discretionary",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "OK",
+      "chosen_url": "https://corporate.lowes.com/",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "growth_scale_performance|innovation_technology|customer_focus|community_social_responsibility",
+      "text": "Home | Lowe\u2019s Corporate\nCommunity\n10/13/2020\nLowe's commits $9.25M in 2020 to boost Greater Charlotte Region\nThe hometown support impacts safe, affordable housing, skilled trades, technology and more\nRead More\nHurricane\n10/10/2020\nHurricane Delta - Store Hours/Closings\nStores will stay open as long as it's safe for customers and associates. Check back regularly for updates.\nRead More\nProducts\n10/09/2020\nIs your home fire safe? 4 spaces to double-check\nOctober is National Fire Prevention Month; help keep your home safe with Lowe\u2019s\nRead More\nBuilding a Responsible Foundation\nWe use our growth for the greater good because corporate citizenship has always been a core value at Lowe\u2019s.\nRead More\nTaking Pride in What We Do Best\nWho We Are\nCreating Pathways to Opportunity\nCareers\nDRIVING SHAREHOLDER VALUE\nInvestors"
+    },
+    {
+      "year": "2021",
+      "status": "OK",
+      "chosen_url": "https://corporate.lowes.com/",
+      "classical_similarity_to_prior": "0.4135",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "growth_scale_performance|integrity_ethics_trust",
+      "text": "Home | Lowe\u2019s Corporate\nMilitary\n05/21/2021\nMeet the family featured in Lowe\u2019s new \"Always Home\" commercial\nThe Lanes are a proud military family, and they\u2019re honored to share their story\nRead More\nMilitary\n05/19/2021\nRebuilding Remembrance Trail\nLowe\u2019s associates from 12 stores honor fallen Fort Campbell heroes\nRead More\nProducts\n05/17/2021\nMeet Lowe's newest private brand: STAINMASTER\u00ae\nLearn more about the most recognized and trusted carpet brand on the market\nRead More\nBuilding a Responsible Foundation\nWe use our growth for the greater good because corporate citizenship has always been a core value at Lowe\u2019s.\nRead More\nTaking Pride in What We Do Best\nWho We Are\nCreating Pathways to Opportunity\nCareers\nDRIVING SHAREHOLDER VALUE\nInvestors"
+    },
+    {
+      "year": "2022",
+      "status": "OK",
+      "chosen_url": "https://corporate.lowes.com/",
+      "classical_similarity_to_prior": "0.4108",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "community_social_responsibility|environmental_sustainability|growth_scale_performance",
+      "text": "Home | Lowe\u2019s Corporate\nCommunity\n06/23/2022\n100 projects, millions of hearts: Lowe\u2019s reveals communities chosen for Lowe\u2019s Hometowns\nProjects announced are part of a new five-year, $100 million commitment to supporting communities\nRead More\nProducts\n06/21/2022\nVendor Spotlight: Owner of handmade lighting company takes pride in journey to Lowe's\nLGBTQ owned 'Illuminate Vintage' has grown from humble beginnings\nRead More\nSustainability\n06/21/2022\nHow Lowe\u2019s is delivering on its sustainability commitments\nLowe\u2019s releases its 2021 Corporate Responsibility Report\nRead More\nBuilding a Responsible Foundation\nWe use our growth for the greater good because corporate citizenship has always been a core value at Lowe\u2019s.\nRead More\nTaking Pride in What We Do Best\nWho We Are\nCreating Pathways to Opportunity\nCareers\nDRIVING SHAREHOLDER VALUE\nInvestors"
+    },
+    {
+      "year": "2023",
+      "status": "OK",
+      "chosen_url": "https://corporate.lowes.com/",
+      "classical_similarity_to_prior": "0.4583",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "community_social_responsibility|growth_scale_performance",
+      "text": "Home | Lowe\u2019s Corporate\nCommunity\n06/09/2023\nIt's back! Build it Forward Season 2\nHGTV and Lowe's bring you another season of surprise home renovations for local heroes.\nRead More\nCareers\n06/08/2023\nLowe\u2019s Internship Program: A Rewarding Experience for Future Leaders\nLearning from the best, working on real projects, and making a positive impact in retail\nRead More\nCommunity\n04/28/2023\nLowe\u2019s gifts 92-year-old gardener with yard refresh\nLowe\u2019s associates built new, easy-to-access vegetable garden beds on Sybil\u2019s terrace, installed new solar landscape lighting throughout her garden, and also\u2026\nRead More\nBuilding a Responsible Foundation\nWe use our growth for the greater good because corporate citizenship has always been a core value at Lowe\u2019s.\nRead More\nTaking Pride in What We Do Best\nWho We Are\nCreating Pathways to Opportunity\nCareers\nDRIVING SHAREHOLDER VALUE\nInvestors"
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "https://corporate.lowes.com/",
+      "classical_similarity_to_prior": "0.4915",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "growth_scale_performance|community_social_responsibility",
+      "text": "Home | Lowe\u2019s Corporate\nAssociates\n07/01/2024\nFrom Struggle to Support: Angela's Inspiring Journey with Lowe's Assistance\nRead More\nCommunity\n06/25/2024\nLowe's Launches 2024 Hometowns Season\nRead More\nPartners\n06/21/2024\nLowe's Celebrates Latest Home Team Member Lionel Messi during Copa Am\u00e9rica Tournament\nRead More\nBuilding a Responsible Foundation\nWe use our growth for the greater good because corporate citizenship has always been a core value at Lowe\u2019s.\nRead More\nTaking Pride in What We Do Best\nWho We Are\nCreating Pathways to Opportunity\nCareers\nDRIVING SHAREHOLDER VALUE\nInvestors"
+    }
+  ]
+}

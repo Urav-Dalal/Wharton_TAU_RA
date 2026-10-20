@@ -1,0 +1,56 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so there is no prior to compare against.",
+    "theme_categories": ["patient_health_outcomes", "customer_focus", "community_social_responsibility"],
+    "analyst_notes": "This is the abbott.com homepage, not an About page. Its mission line ('Help you live the best life you can') is consumer-wellness oriented, and the content is mostly health tips and a quiz, with corporate values absent apart from one careers testimonial."
+  },
+  "2017": {
+    "changed_from_prior": true,
+    "change_reason": "Nearly all rotating feature stories are new, and the page now announces the St. Jude Medical acquisition and a cardiac device focus, although the mission line is unchanged.",
+    "theme_categories": ["innovation_technology", "patient_health_outcomes", "people_culture"],
+    "analyst_notes": "Story-led tone ('High tech, with a mother's touch'). The homepage signals current news more than stable values, and the rotation is so high that year-to-year comparison is mostly about story selection."
+  },
+  "2018": {
+    "changed_from_prior": true,
+    "change_reason": "The 'Our Mission' line is removed from the homepage, and the page shifts to consumer-tech and patient stories plus an employee student-loan benefit and a dairy shared-value program in India.",
+    "theme_categories": ["innovation_technology", "patient_health_outcomes", "community_social_responsibility", "people_culture"],
+    "analyst_notes": "First year without the mission statement, which is a notable change in how the company states its purpose on this page. Shared value (farmers in India) and the employee benefit are the only explicit responsibility items."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "The feature set is largely replaced, with a new 'STEM Sisterhood' lead story, nutrition and noncommunicable-disease items, and a student-debt follow-up, and the page still has no mission line.",
+    "theme_categories": ["diversity_equity_inclusion", "patient_health_outcomes", "community_social_responsibility", "innovation_technology"],
+    "analyst_notes": "The lead story on women in STEM is the first explicit diversity-related item on the page. Otherwise the tone is product- and patient-story oriented."
+  },
+  "2020": {
+    "changed_from_prior": true,
+    "change_reason": "The page is reorganized around COVID-19 (testing, telehealth, immunity), with FreeStyle Libre and imaging updates and an 'ABBOTT EDGE' editorial brand, displacing 2019's STEM and benefits stories.",
+    "theme_categories": ["patient_health_outcomes", "innovation_technology", "access_affordability"],
+    "analyst_notes": "Crisis-response messaging dominates, and the claims are concrete but product-level (rapid tests, in-hospital CGM use) rather than statements of corporate values. Access appears in the COVID section but is not framed as a commitment."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "A 'sustainable future starts with health' commitment appears for the first time, aiming to design products for access and affordability and reach one in three people every year by 2030, alongside women-in-STEM and at-home COVID test stories.",
+    "theme_categories": ["access_affordability", "environmental_sustainability", "innovation_technology", "diversity_equity_inclusion"],
+    "analyst_notes": "The 2030 access target is the first quantified public commitment on this page. Otherwise the copy is product-led and COVID-heavy, and the capture includes no environmental metrics."
+  },
+  "2022": {
+    "changed_from_prior": true,
+    "change_reason": "A clinical-trial diversity feature now leads the page, the 2030 sustainability plan and women-in-cardiology research are foregrounded, and new pandemic-defense and malnutrition stories appear.",
+    "theme_categories": ["diversity_equity_inclusion", "access_affordability", "patient_health_outcomes", "community_social_responsibility"],
+    "analyst_notes": "The most explicit DEI and health-equity framing so far ('Clinical trials have a diversity problem'; 'Cardiovascular research doesn't reflect patient diversity'), though presented as campaign features rather than targets. The page remains more product-centric than values-centric."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "An 'Advancing Health Equity' item is added alongside concussion, biowearable and CSI-acquisition stories, while the clinical-trial diversity and 2030 access features remain.",
+    "theme_categories": ["diversity_equity_inclusion", "access_affordability", "innovation_technology", "patient_health_outcomes"],
+    "analyst_notes": "Equity is now a headline theme ('People face real barriers to living healthy'), and a malnutrition community campaign is added. The claims remain feature-level, with no quantified equity metrics on the page."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "The clinical-trial diversity feature is no longer on the page, and the lead content shifts to metabolic health, nutrition, GLP-1 and CGM use, and over-the-counter glucose-monitor launches.",
+    "theme_categories": ["patient_health_outcomes", "innovation_technology", "access_affordability", "consumer_health_wellness"],
+    "analyst_notes": "DEI framing has receded to secondary items ('Advancing Health Equity', women in STEM), with the diversity and equity word count falling from 4 in 2022-2023 to 1. Tone is more consumer-facing and product-oriented."
+  }
+}

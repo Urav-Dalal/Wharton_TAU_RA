@@ -1,0 +1,64 @@
+{
+  "ticker": "META",
+  "company_name": "Meta Platforms",
+  "sector": "Technology",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "OK",
+      "chosen_url": "https://about.meta.com/",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "community_social_responsibility|innovation_technology|growth_scale_performance",
+      "text": "Meta | Social Metaverse Company\nSkip to content\nBringing people closer every day\nLearn about our mission\nMeta builds technologies that help people connect, find communities and grow businesses.\nThe future of digital connection\nWe\u2019re moving beyond 2D screens and into immersive experiences in the metaverse, helping create the next evolution of social technology.\nExperience the metaverse\nMore about the metaverse\nWhat is the metaverse?\nHow we\u2019re building the metaverse responsibly\nKeeping people safe and making a positive impact\nLearn about our actions\nPrioritizing privacy and security\nWe\u2019re building social experiences that keep your account secure and enable you to make choices around how your data is used.\nLearn more\nMore actions we're taking\nPreparing for elections\nPromoting safety and expression\nFollow Us\nVirtual Reality\nShop Meta Quest\nRefurbished Meta Quest 2\nVR for Good\nForums\nReferrals\nBlog\nCreators\nDownload SDKs\nDevelopers\nMeta Quest Health & Safety Info\nMeta Quest Safety Center\nVideo Calling\nShop Meta Portal\nCompare\nFeatures\nPrivate by Design\nMeta Portal Health & Safety Info\nSmart Glasses\nShop Ray-Ban Stories\nPrivacy Info\nTerms of Service\nData Policy\nSupported Countries\nAbout Us\nAbout Meta\nMedia Gallery\nBrand Resources\nFor Investors\nOur Community\nSupport SMB\nGiving Together\nSocial Impact\nBusiness and Community Growth\nVR for Good\nOur Actions\nData & Privacy\nSafety & Expression\nElections\nCOVID-19\nRegulations\nSupport\nShop Help Center\nOrder Status\nReturns\nFind a Product Demo\nLegal\nFacebook Help Center\nMessenger Help Center\nInstagram Help Center\nWhatsApp Help Center\nMeta Quest\nWorkplace Help Center\n\u00a9 2022 Meta\nCommunity Standards\nPrivacy Policy\nTerms\nCookie Policy\nLanguage English (US)"
+    },
+    {
+      "year": "2023",
+      "status": "OK",
+      "chosen_url": "https://about.meta.com/",
+      "classical_similarity_to_prior": "0.2729",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "innovation_technology|community_social_responsibility",
+      "text": "Meta | Social Metaverse Company\nSkip to content\nMeta builds technologies that help people connect, find communities and grow businesses.\nThe future of digital connection\nWe\u2019re moving beyond 2D screens and into immersive experiences in the metaverse, helping create the next evolution of social technology.\nLearn More\nMORE ABOUT THE METAVERSE\nWhat is the Metaverse?\nHow we\u2019re building the metaverse responsibly\nKeeping people safe and making a positive impact\nLearn about our actions\nPrioritizing privacy and security\nWe\u2019re building social experiences that keep your account secure and give you the power to make choices around how your data is used.\nLearn more\nMORE ACTION WE ARE TAKING\nPreparing for elections\nPromoting safety and expression"
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "https://about.meta.com/",
+      "classical_similarity_to_prior": "0.6243",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "community_social_responsibility|innovation_technology|integrity_ethics_trust",
+      "text": "Meta | Social Metaverse Company\nSkip to content\nMeta builds technologies that help people connect, find communities and grow businesses.\nThe future of digital connection\nWe\u2019re moving beyond 2D screens and into immersive experiences in the metaverse, helping create the next evolution of social technology.\nLearn More\nMORE ABOUT THE METAVERSE\nWhat is the Metaverse?\nHow we\u2019re building the metaverse responsibly\nKeeping people safe and making a positive impact\nLearn about our actions\nPrioritizing privacy and security\nWe\u2019re building social experiences that keep your account secure and give you the power to make choices around how your data is used.\nLearn more\nMORE ACTION WE ARE TAKING\nPreparing for elections\nPromoting safety and expression\nFollow Us\nVirtual reality\nShop Meta Quest\nRefurbished Meta Quest 2\nVR for Good\nForums\nReferrals\nBlog\nCreators\nDownload SDKs\nDevelopers\nMade for Meta partner program\nMeta Quest health & safety information\nMeta Quest safety center\nMeta for Work\nSmart glasses\nShop Ray-Ban Meta smart glasses\nRay-Ban Stories\nPrivacy information\nSupported countries\nSupport\nShop Help Center\nOrder status\nReturns\nFind a product demo\nLegal\nFacebook Help Center\nMessenger Help Center\nInstagram Help Center\nWhatsApp Help Center\nWorkplace Help Center\nMeta Quest\nMeta Verified\nAbout us\nAbout Meta\nMedia gallery\nBrand resources\nFor investors\nOur community\nSupport SMB\nGiving together\nSocial impact\nVR for Good\nOur actions\nData and privacy\nSafety and expression\nResponsible business practices\nElections\nCOVID-19 response\nRegulations\n\u00a9 2024 Meta\nCommunity Standards\nPrivacy Policy\nTerms\nCookie policy\nLanguage English (US)"
+    }
+  ]
+}

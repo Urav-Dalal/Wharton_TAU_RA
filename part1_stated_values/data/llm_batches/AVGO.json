@@ -1,0 +1,88 @@
+{
+  "ticker": "AVGO",
+  "company_name": "Broadcom",
+  "sector": "Technology",
+  "years": [
+    {
+      "year": "2016",
+      "status": "OK",
+      "chosen_url": "https://www.broadcom.com/company/about-us/",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "innovation_technology|customer_focus|diversity_equity_inclusion|growth_scale_performance",
+      "text": "About Us\nAbout Us\nBroadcom Limited is a diversified global semiconductor leader built on 50 years of innovation, collaboration and engineering excellence.\nBroadcom\u2019s extensive product portfolio serves multiple applications within four primary end markets: wired infrastructure, wireless communications, enterprise storage and industrial & others. Applications for our products in these end markets include: data center networking, home connectivity, broadband access, telecommunications equipment, smartphones and base stations, data center servers and storage, factory automation, power generation and alternative energy systems, and displays.\nBroadcom Limited combines global scale, engineering depth, broad product portfolio diversity and superior execution and operational focus to deliver category-leading connectivity products so its customers can build and grow successful businesses today and in the future."
+    },
+    {
+      "year": "2017",
+      "status": "OK",
+      "chosen_url": "https://www.broadcom.com/company/about-us/",
+      "classical_similarity_to_prior": "0.9989",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "innovation_technology|customer_focus|diversity_equity_inclusion|growth_scale_performance",
+      "text": "About Us\nAbout Us\nBroadcom Limited is a diversified global semiconductor leader built on 50 years of innovation, collaboration and engineering excellence.\nBroadcom\u2019s extensive product portfolio serves multiple applications within four primary end markets: wired infrastructure, wireless communications, enterprise storage and industrial & others. Applications for our products in these end markets include: data center networking, home connectivity, broadband access, telecommunications equipment, smartphones and base stations, data center servers and storage, factory automation, power generation and alternative energy systems, and displays.\nBroadcom Limited\ncombines global scale, engineering depth, broad product portfolio diversity and superior execution and operational focus to deliver category-leading connectivity products so its customers can build and grow successful businesses today and in the future."
+    },
+    {
+      "year": "2018",
+      "status": "OK",
+      "chosen_url": "https://www.broadcom.com/company/about-us/",
+      "classical_similarity_to_prior": "0.9147",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "innovation_technology|customer_focus|diversity_equity_inclusion|growth_scale_performance",
+      "text": "About Us\nBy clicking here, you understand that we use cookies to improve your experience on our website.\nFor more details, please see our\nCookie Policy.\n\u00d7\nAbout Us\nBroadcom Inc. is a diversified global semiconductor leader built on 50 years of innovation, collaboration and engineering excellence.\nBroadcom\u2019s extensive product portfolio serves multiple applications within four primary end markets: wired infrastructure, wireless communications, enterprise storage and industrial & others. Applications for our products in these end markets include: data center networking, home connectivity, broadband access, telecommunications equipment, smartphones and base stations, data center servers and storage, factory automation, power generation and alternative energy systems, and displays.\nBroadcom Inc.\ncombines global scale, engineering depth, broad product portfolio diversity and superior execution and operational focus to deliver category-leading connectivity products so its customers can build and grow successful businesses today and in the future."
+    },
+    {
+      "year": "2019",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.broadcom.com/company/about-us/",
+      "classical_similarity_to_prior": "0.0151",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "About Us"
+    },
+    {
+      "year": "2020",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.broadcom.com/company/about-us/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "About Us"
+    },
+    {
+      "year": "2021",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.broadcom.com/company/about-us/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "About Us"
+    },
+    {
+      "year": "2022",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.broadcom.com/company/about-us/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "About Us"
+    },
+    {
+      "year": "2023",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.broadcom.com/company/about-us/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "About Us"
+    },
+    {
+      "year": "2024",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.broadcom.com/company/about-us/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "About Us"
+    }
+  ]
+}

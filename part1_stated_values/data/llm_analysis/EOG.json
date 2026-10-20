@@ -1,0 +1,26 @@
+{
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with non-empty text; it is a JavaScript shell with no company copy.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "The capture is a 'Loading data...' press-release shell, so no About-page values, tone, or environmental content can be coded. Years 2021-2024 are also absent from this file because their captured text is empty."
+  },
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "The only visible change from 2017 is the shell heading 'Latest Press Releases' becoming 'Latest News', so no content comparison is possible.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Still a 'Loading data...' shell with no readable company copy. EOG's stated values and environmental messaging cannot be assessed from this snapshot."
+  },
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "The capture is only the page title ('EOG - EOG Resources'), a formatting difference that is not evidence of changed About copy.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture. The classical changed flag reflects the title string, not a change in content."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only capture ('EOG Resources, Inc. - Home Page') with no body text to compare against 2019.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "No body copy was captured, so EOG's environmental messaging cannot be evaluated from these snapshots."
+  }
+}

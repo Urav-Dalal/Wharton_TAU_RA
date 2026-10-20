@@ -1,0 +1,14 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with text, so no prior comparison is possible.",
+    "theme_categories": ["innovation_technology", "customer_focus", "newsroom_listing"],
+    "analyst_notes": "The captured page is mostly a press-release feed; the only values language is one tagline, 'A heritage built on service and sustained by innovation.' Thin and not a dedicated mission page; it reads like a newsroom homepage fallback."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "Text is identical to 2016 (classical similarity 1.0): the same press-release feed and tagline.",
+    "theme_categories": ["innovation_technology", "customer_focus", "newsroom_listing"],
+    "analyst_notes": "Identical capture, so the stability reflects the same snapshot rather than an observed unchanged page. Same thin, newsroom-style content with a single values line."
+  }
+}

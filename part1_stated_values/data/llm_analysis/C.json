@@ -1,0 +1,20 @@
+{
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with text, so no prior comparison is possible.",
+    "theme_categories": ["customer_focus", "growth_scale_performance", "integrity_ethics_trust", "environmental_sustainability"],
+    "analyst_notes": "A dedicated About Us page with a stated mission ('a trusted partner to our clients') and leadership principles. The language is confident and scale-heavy (4+ trillion in flows, 100+ million customers) with a large ESG figure ($1+ trillion). Much of the lower page is news feed."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "The mission and principles text is identical to 2022; only the news feed changes (a net-zero article replaces a community-donation release). The classical flag agrees there is no content change.",
+    "theme_categories": ["customer_focus", "growth_scale_performance", "integrity_ethics_trust", "environmental_sustainability"],
+    "analyst_notes": "Same mission language, with minor additions (a 'Learn more' link and a revised infographic). Borderline on emphasis, but the stated values did not change."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "The stated mission and principles are identical to 2023; the change is in the news block (AI skills, world hunger, a card update), which is feed content rather than company messaging.",
+    "theme_categories": ["customer_focus", "innovation_technology", "growth_scale_performance", "integrity_ethics_trust"],
+    "analyst_notes": "The only new value-adjacent item is a 'Skills for Thriving Amid AI' article in the news feed, which is not a stated company value. Mission and tone are unchanged."
+  }
+}

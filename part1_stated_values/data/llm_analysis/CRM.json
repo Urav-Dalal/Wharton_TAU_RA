@@ -1,0 +1,38 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, no comparison.",
+    "theme_categories": ["customer_focus", "innovation_technology", "people_culture", "privacy_security"],
+    "analyst_notes": "Promotional 'Who We Are' page built around the Ohana (family) culture and four core values, with customer success and Einstein AI as lead messages. The values are relatively concrete (for example, a pledge to keep customer data secure), and the 'Trailblazer' framing is distinctive."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "Virtually identical to 2016; only header wording and repeated CTA labels differ.",
+    "theme_categories": ["customer_focus", "innovation_technology", "people_culture", "privacy_security"],
+    "analyst_notes": "Repeats the 2016 copy almost verbatim, so messaging was stable across the year. The classical similarity of 0.997 is accurate."
+  },
+  "2018": {
+    "changed_from_prior": true,
+    "change_reason": "Major rewrite: adds Fourth Industrial Revolution framing and 'greater opportunity and equality for all' messaging, adds equality and women-in-tech content, and restructures the value headlines.",
+    "theme_categories": ["innovation_technology", "diversity_equity_inclusion", "people_culture", "customer_focus"],
+    "analyst_notes": "The page moves from product-led CRM messaging toward a broader societal narrative about technology, equality, and the future of work. The equality video and women-in-tech links are new, and the language is aspirational rather than specific about outcomes. The classical flag (True) agrees."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "Restates the four Ohana values as explicit commitments, adds a data-privacy headline ('Nothing is more important ... than the privacy of our customers' data'), and adds 'career satisfaction and better lives' economic framing.",
+    "theme_categories": ["privacy_security", "customer_focus", "diversity_equity_inclusion", "innovation_technology"],
+    "analyst_notes": "Value statements are more concrete (a privacy headline, customer success tied to growth, inclusion as an explicit commitment), and the page leans on IDC-sourced market-share claims. This is the most substantive shift in the series for trust and data-privacy messaging. The classical flag (True) agrees."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "Nearly identical to 2019; only the IDC citation year differs.",
+    "theme_categories": ["privacy_security", "customer_focus", "diversity_equity_inclusion", "innovation_technology"],
+    "analyst_notes": "Copy is essentially unchanged from 2019, so the message held steady over the year. The classical similarity of 0.999 is accurate."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "Same body copy as 2020; differences are lowercase link labels and an updated IDC citation date.",
+    "theme_categories": ["privacy_security", "customer_focus", "diversity_equity_inclusion", "innovation_technology"],
+    "analyst_notes": "Formatting-level changes (lowercase button text, updated source date) drive the classical 'changed' flag (similarity 0.75), so I treat the substantive message as unchanged. The themes are stable across 2019 to 2021."
+  }
+}

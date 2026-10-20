@@ -1,0 +1,44 @@
+{
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, no comparison.",
+    "theme_categories": ["growth_scale_performance", "customer_focus", "cloud_services"],
+    "analyst_notes": "Mostly navigation plus a few facts (430,000 customers, 138,000 employees, US$37.7B revenue) and one product sentence about SaaS, PaaS, IaaS, and DaaS. Sustainability and diversity appear only as link labels, not as claims, so the classical environmental and DEI labels rest on navigation text rather than content."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "Adds an innovation section (Autonomous Database, 'self-driving, self-securing, self-repairing') and a '#1 provider of business software' claim; the fact sheet and navigation otherwise carry over.",
+    "theme_categories": ["innovation_technology", "growth_scale_performance", "cloud_services", "customer_focus"],
+    "analyst_notes": "The page now leads with technology leadership and an autonomous-database narrative, which is more specific than 2018. The classical flag (True) agrees, though its diversity and community labels still come from link text."
+  },
+  "2020": {
+    "changed_from_prior": true,
+    "change_reason": "Largest rewrite in the series: a new mission statement, a 'Working @ Oracle' culture section (Innovative, Growth Centric, People Oriented, Socially Responsible, Diverse and Inclusive), and a 1977-2019 company history timeline replace the fact sheet.",
+    "theme_categories": ["innovation_technology", "people_culture", "diversity_equity_inclusion", "environmental_sustainability"],
+    "analyst_notes": "First year Oracle states an explicit mission and culture, including a line that sustainability is good business. The copy is brief and generic, and the header contains search-results boilerplate ('No results found'), a scrape artifact. The classical flag (True) agrees."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "Body copy is unchanged from 2020; additions are a COVID-19 entry in the history timeline and new What's New and resource links (Arm processors, sports sponsorships, a Learn section).",
+    "theme_categories": ["innovation_technology", "people_culture", "diversity_equity_inclusion", "community_social_responsibility"],
+    "analyst_notes": "Most of the change sits in the timeline and link lists, so the mission and culture messages hold steady while COVID-19 response becomes part of the company's self-narrative. The classical flag (True, 0.83) agrees on direction, though it is driven largely by link lists."
+  },
+  "2022": {
+    "changed_from_prior": true,
+    "change_reason": "Navigation now carries explanatory text for Corporate Responsibility (sustainability, education, giving, volunteering) and Diversity and Inclusion ('innovation starts with inclusion'), and adds a Ukraine-support link.",
+    "theme_categories": ["innovation_technology", "diversity_equity_inclusion", "community_social_responsibility", "customer_focus"],
+    "analyst_notes": "Explicit DEI and philanthropy language is new in the body text, making these commitments more visible than in earlier years. They are descriptions of pages users can click into rather than commitments with metrics. The classical flag (True) agrees."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "The history timeline adds the Cerner acquisition (healthcare information systems) and the Oracle Red Bull Racing F1 Constructors' title; mission and culture copy is unchanged.",
+    "theme_categories": ["innovation_technology", "healthcare_expansion", "diversity_equity_inclusion", "community_social_responsibility"],
+    "analyst_notes": "Timeline additions signal healthcare as a strategic area, and the F1 sponsorship is promoted to a headline story, though the tone remains promotional and the mission copy is unchanged. The classical flag is False (similarity 0.86), which I disagree with because the timeline additions are substantive new content."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "The only substantive edit is renaming the 'Diversity and Inclusion' link to 'Culture and Inclusion'; the description text is identical, plus minor header edits.",
+    "theme_categories": ["innovation_technology", "customer_focus", "diversity_equity_inclusion", "community_social_responsibility"],
+    "analyst_notes": "The rename is a deliberate change in DEI vocabulary, but the description still promises the same commitment, so I count it as a label change rather than a substantive shift. Scrape artifacts include keyboard-shortcut instructions from an accessibility note. The classical flag (False) agrees."
+  }
+}

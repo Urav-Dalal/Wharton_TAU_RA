@@ -1,0 +1,88 @@
+{
+  "ticker": "TGT",
+  "company_name": "Target",
+  "sector": "Consumer Discretionary",
+  "years": [
+    {
+      "year": "2016",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://corporate.target.com/about/",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "",
+      "text": "About Target: Our Passion, Our Commitments | Target Corporate"
+    },
+    {
+      "year": "2017",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://corporate.target.com/about/",
+      "classical_similarity_to_prior": "0.1212",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "about"
+    },
+    {
+      "year": "2018",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://corporate.target.com/about/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "about"
+    },
+    {
+      "year": "2019",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://corporate.target.com/about/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "about"
+    },
+    {
+      "year": "2020",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://corporate.target.com/about/",
+      "classical_similarity_to_prior": "0.1887",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "all about Target | Target Corporation fact sheet"
+    },
+    {
+      "year": "2021",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://corporate.target.com/about/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "all about Target | Target Corporation fact sheet"
+    },
+    {
+      "year": "2022",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://corporate.target.com/about/",
+      "classical_similarity_to_prior": "0.6389",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "About Target Corporation"
+    },
+    {
+      "year": "2023",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://corporate.target.com/about/",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "About Target Corporation"
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "https://corporate.target.com/about/",
+      "classical_similarity_to_prior": "0.0324",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "community_social_responsibility|environmental_sustainability|integrity_ethics_trust",
+      "text": "About Target Corporation\nAbout\nWe're here to help all families discover the joy of everyday life.\nPurpose & History\nWho we are today is rooted in our company history and the vision of our founders. Learn more, and meet the leadership team who is driving Target into the future.\nExplore section\nOur Locations\nLearn more about the nearly 2,000 stores we operate, plus our supply chain facilities and headquarters locations.\nExplore section\nProducts & Services\nFrom our exclusive only-at-Target offerings to the national brands our guests expect, you can shop Target in stores, online or delivered to your home.\nExplore section\nContact & Help\nYour one-stop-shop for key contact information for our corporate teams and guest services.\nExplore section\n$109b\nin total revenue, 2022\n5%\nof our profits go back into communities*\n45+\nowned brands unique to Target\n1,956\nstores in the U.S.\n59\nsupply chain facilities\n30\noffice locations globally\n400k+\nteam members employed\n75%\nof the U.S. population lives within 10 miles of a store\nOur mascot, Bullseye\nBullseye has been our mascot since 1999. He made his debut in Target's iconic \"Sign of the Times\" advertising campaign.\nCompany News\nExplore latest articles\nInvestors & Financials\nLearn about investing in Target\nSustainability & Governance\nLearn more\n* Since 1946, we have given 5% of our profits to communities in cash, products, and through the Target Foundation, which today equals millions of dollars a week."
+    }
+  ]
+}

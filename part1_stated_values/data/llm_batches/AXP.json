@@ -1,0 +1,60 @@
+{
+  "ticker": "AXP",
+  "company_name": "American Express",
+  "sector": "Financials",
+  "years": [
+    {
+      "year": "2016",
+      "status": "OK",
+      "chosen_url": "http://about.americanexpress.com/?source=prosphp_inav-aboutus",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "innovation_technology",
+      "text": "About American Express\nPRESS RELEASES\nMar 2, 2017\nAmerican Express Redefines Premium with The New Platinum Card\u00ae\nFeb 16, 2017\nU.S. Small and Medium Enterprises Optimistic About Business Prospects in 2017 and Beyond, According to New Global Research from American Express\nFeb 14, 2017\nAmerican Express Executive to Participate in KBW Cards, Payments & Financial Technology Symposium; Company Plans Live Audio Webcast of Annual Investor Day\nMORE PRESS RELEASES\nA heritage built on service and sustained by innovation.\nFIND OUT MORE"
+    },
+    {
+      "year": "2017",
+      "status": "OK",
+      "chosen_url": "http://about.americanexpress.com/?source=prosphp_inav-aboutus",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "innovation_technology",
+      "text": "About American Express\nPRESS RELEASES\nMar 2, 2017\nAmerican Express Redefines Premium with The New Platinum Card\u00ae\nFeb 16, 2017\nU.S. Small and Medium Enterprises Optimistic About Business Prospects in 2017 and Beyond, According to New Global Research from American Express\nFeb 14, 2017\nAmerican Express Executive to Participate in KBW Cards, Payments & Financial Technology Symposium; Company Plans Live Audio Webcast of Annual Investor Day\nMORE PRESS RELEASES\nA heritage built on service and sustained by innovation.\nFIND OUT MORE"
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2024",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    }
+  ]
+}

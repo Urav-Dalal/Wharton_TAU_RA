@@ -1,0 +1,14 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so there is no prior to compare against.",
+    "theme_categories": ["patient_health_outcomes", "innovation_technology", "people_culture", "growth_scale_performance"],
+    "analyst_notes": "Confident, self-referential brand copy ('Our life's work is to improve lives'; Focused, Passionate, Making a Difference). Specific on scale (28,000 employees, 150+ countries, 125-year heritage) but vague on what the improvement consists of, and no DEI, environmental or ethics commitments appear in the captured text."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "The page is essentially identical to 2016; the only edit is 'Abbott has evolved' changed to 'AbbVie has evolved'.",
+    "theme_categories": ["patient_health_outcomes", "innovation_technology", "people_culture", "growth_scale_performance"],
+    "analyst_notes": "Almost verbatim copy with a corporate-name correction and no new commitments, which is consistent with a static page. The 2018-2024 captures are missing, so the series cannot be extended."
+  }
+}

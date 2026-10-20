@@ -1,0 +1,42 @@
+Web Accessibility: Starbucks Coffee Company
+Web Accessibility
+Skip to main content
+Web Accessibility
+Starbucks is committed to diversity, inclusion and accessibility in everything we do. These core values are fundamental to the way we do business and come through in the experiences we design for people – both in our coffeehouses and on the web.
+With this in mind, we are continuously taking steps to improve Starbucks.com and ensure it complies with the best practices and standards defined by
+Section 508 of the U.S. Rehabilitation Act
+and the
+Web Content Accessibility Guidelines
+of the
+World Wide Web Consortium
+.
+Our website is monitored and tested periodically by internal and third-party accessibility consultants. These people help us identify usability issues and discover new solutions to further improve the accessibility of our site.
+Starbucks Online Policies
+Our Current Accessibility Features
+Alternative text detail for appropriate images and other non-text elements.
+Title attributes for additional information about links and indication of new browser windows.
+Structural markup to indicate headings and lists to aid in page comprehension.
+Association of forms with labels.
+Association of all data cells in a data table with their headers.
+JavaScript and style sheets to enhance the appearance and functionality of the site. If these technologies are not available, alternative content is provided where necessary to ensure a usable experience.
+Further accessibility efforts are under way. As we continue to improve our website, we will reflect any changes here within our accessibility statement. That way you’ll know about the progress we’re making.
+Learn More About Accessibility
+Section 508: The Road to Accessibility
+Provides information and news about the accessibility standards introduced by Section 508 of the Rehabilitation Act.
+Learn more
+Department of Justice Section 508
+Offers information about Section 508 from the Department of Justice.
+Learn more
+U.S. Access Board
+Provides design guidelines for the built environment, transit vehicles, telecommunications equipment, and for electronic and information technology.
+Learn more
+Web Accessibility
+Describes the work being done to provide equal access to websites.
+Learn more
+Web Accessibility Initiative (WAI)
+Develops strategies, guidelines and resources to help make the web accessible to people with disabilities.
+Learn more
+Download Plug-ins
+Some of the content on this website requires a plug-in to view. Links to download these plug-ins are available here:
+Adobe Acrobat Reader
+Adobe Flash Player

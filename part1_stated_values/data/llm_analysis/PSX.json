@@ -1,0 +1,26 @@
+{
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "First available year; the capture is only the title 'SeRT Technology' from a technology product page.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture of a product page, so no About-page values or tone are available for this year."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "The title is identical to 2019 ('SeRT Technology') with no body text to show a change.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture. The classical similarity of 1.0 reflects the identical title and carries no content information."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "Body text appears for the first time, but the 2020 capture had none, so the difference reflects capture coverage rather than a verified copy change; the title only adds the company name.",
+    "theme_categories": ["innovation_technology", "environmental_sustainability"],
+    "analyst_notes": "This is a product page for SeRT selenium-removal technology rather than an About Us page. Environmental content is limited to regulatory compliance (selenium discharge limits) and is presented as technical and cost-effective, not as a sustainability commitment."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "The copy is identical to 2021.",
+    "theme_categories": ["innovation_technology", "environmental_sustainability"],
+    "analyst_notes": "Specific and technical, with low marketing language and no values statements. The environmental angle is compliance-driven and does not describe PSX's own emissions or sustainability goals."
+  }
+}

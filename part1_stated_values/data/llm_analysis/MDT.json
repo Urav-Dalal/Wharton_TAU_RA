@@ -1,0 +1,44 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so there is no prior to compare against.",
+    "theme_categories": ["patient_health_outcomes", "integrity_ethics_trust", "community_social_responsibility"],
+    "analyst_notes": "Mission-led copy ('alleviate pain, restore health, and extend life') with a founder story ('put people first') and a corporate-responsibility pointer. Figures are few (85,000 employees, 260 locations, 155 countries), and much of the text is browser-warning and navigation boilerplate."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "The copy matches 2016 with layout and navigation relabeling, and the figures (85,000 employees, 260 locations, 155 countries) are unchanged.",
+    "theme_categories": ["patient_health_outcomes", "integrity_ethics_trust", "community_social_responsibility"],
+    "analyst_notes": "Substance is unchanged. The page is a navigation shell around a short mission statement and a CEO quote, and the 'deep sense of moral purpose' line is the only explicit values language."
+  },
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "Only headline figures change (about 84,000 employees, 370 locations in about 160 countries), while the mission and responsibility copy is unchanged.",
+    "theme_categories": ["patient_health_outcomes", "integrity_ethics_trust", "community_social_responsibility"],
+    "analyst_notes": "Footprint language grows, but the values language is unchanged from 2017."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "The captured text collapses to a single corporate governance blurb, dropping the mission, workforce and location copy present in 2018, which looks like a capture or layout artifact rather than a deliberate content change.",
+    "theme_categories": ["integrity_ethics_trust", "thin_capture"],
+    "analyst_notes": "Only a governance line is captured, so this year cannot be judged on its own. The 2020 page is a full redesign, which suggests the 2019 snapshot was partial, so treat this change flag with caution."
+  },
+  "2020": {
+    "changed_from_prior": true,
+    "change_reason": "The page is rebuilt as 'Who We Are' with new copy on diverse perspectives, accountability, quality and reducing environmental impact, plus Careers, Citizenship and COVID-19 sections.",
+    "theme_categories": ["patient_health_outcomes", "diversity_equity_inclusion", "environmental_sustainability", "people_culture"],
+    "analyst_notes": "Adds explicit people and environment language ('we value diverse perspectives'; 'reducing our impact on the environment') and a quantified reach (about 75 million people treated a year, 70 conditions). The citizenship language is brief."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "An 'Inclusion, Diversity, and Equity Report' link and an 'ESG Performance and Progress' section are added and the COVID-19 block is dropped, while the who-we-are copy stays nearly identical (patients treated figure falls from 75M to 72M).",
+    "theme_categories": ["patient_health_outcomes", "diversity_equity_inclusion", "environmental_sustainability", "integrity_ethics_trust"],
+    "analyst_notes": "Dedicated DEI and ESG reporting links make the commitments more visible, but the page points to reports rather than stating targets. The patient-reach figure drops from 75M to 72M without explanation on the page."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "The text is identical to 2021.",
+    "theme_categories": ["patient_health_outcomes", "diversity_equity_inclusion", "environmental_sustainability", "integrity_ethics_trust"],
+    "analyst_notes": "Copy is word-for-word the same as 2021, so the DEI and ESG report links carry forward without new wording."
+  }
+}

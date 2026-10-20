@@ -1,0 +1,64 @@
+{
+  "ticker": "UNH",
+  "company_name": "UnitedHealth Group",
+  "sector": "Healthcare",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "OK",
+      "chosen_url": "https://www.unitedhealthgroup.com/about.html",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "innovation_technology|customer_focus|diversity_equity_inclusion|community_social_responsibility",
+      "text": "About UnitedHealth Group - UnitedHealth Group\nUnitedHealth Group is a distinctively diversified health and well-being company headquartered in the United States, and a leader worldwide in helping people live healthier lives and helping make the health system work better for everyone.\nWe are committed to introducing innovative approaches, products and services that can improve personal health and promote healthier populations in local communities. Our core capabilities in clinical expertise, advanced technology and data and health information uniquely enable us to meet the evolving needs of a changing health care environment.\nUnitedHealth Group serves clients and consumers through\ntwo distinct platforms\n:\nUnitedHealthcare provides health care coverage and benefits services.\nOptum provides information and technology-enabled health services.\nKnowledge and experience in organizing health care resources to best serve specific local market needs.\nEnabling a variety of interactions at enormous scale and complexity, helping connect all participants in health care.\nUnique skills in collecting, managing and analyzing data; and the capability to translate data into actionable information.\nFast Facts\n130\nThrough UnitedHealthcare and Optum, UnitedHealth Group offers health benefits and services to people residing in all 50 states in the United States and more than 130 other countries.\nRelated Topics\nGlobal Health\nOptum\nUnitedHealthcare\n~$3.3B\nUnitedHealth Group invests more than $3.3 billion in technology and innovation, and processes approximately 1 trillion transactions annually.\nRelated Topics\nOptum\nOur History of Innovation\nResearch & Development\n285K\nMore than 285,000 people worldwide power UnitedHealth Group with their entrepreneurial spirit and commitment to quality, including at least 85,000 clinical professionals focused on helping people live healthier lives.\nRelated Topics\nCareers at UnitedHealth Group\nCenter for Clinician Advancement\nDiversity and Inclusion\nLearn More\nUnitedHealth Group At A Glance\nView PDF\nUnitedHealth Group Fact Book\nView PDF"
+    },
+    {
+      "year": "2019",
+      "status": "OK",
+      "chosen_url": "https://www.unitedhealthgroup.com/about.html",
+      "classical_similarity_to_prior": "0.8469",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "innovation_technology|customer_focus|diversity_equity_inclusion|community_social_responsibility",
+      "text": "About UnitedHealth Group - UnitedHealth Group\nUnitedHealth Group is a distinctively diversified health and well-being company headquartered in the United States, and a leader worldwide in helping people live healthier lives and helping make the health system work better for everyone.\nWe are committed to introducing innovative approaches, products and services that can improve personal health and promote healthier populations in local communities. Our core capabilities in clinical expertise, advanced technology and data and health information uniquely enable us to meet the evolving needs of a changing health care environment.\nUnitedHealth Group serves clients and consumers through\ntwo distinct platforms\n:\nUnitedHealthcare provides health care coverage and benefits services.\nOptum provides information and technology-enabled health services.\nKnowledge and experience in organizing health care resources to best serve specific local market needs.\nEnabling a variety of interactions at enormous scale and complexity, helping connect all participants in health care.\nUnique skills in collecting, managing and analyzing data; and the capability to translate data into actionable information.\nFast Facts\n130\nThrough UnitedHealthcare and Optum, UnitedHealth Group offers health benefits and services to people residing in all 50 states in the United States and more than 130 other countries.\nRelated Topics\nGlobal Health\nOptum\nUnitedHealthcare\n~$3.5B\nUnitedHealth Group invests more than $3.5 billion in technology and innovation, and processes approximately 1.1 trillion transactions annually.\nRelated Topics\nOptum\nOur History of Innovation\nResearch & Development\n305K\nMore than 305,000 people worldwide power UnitedHealth Group with their entrepreneurial spirit and commitment to quality, including 85,000 clinical professionals focused on helping people live healthier lives.\nRelated Topics\nCareers at UnitedHealth Group\nCenter for Clinician Advancement\nDiversity and Inclusion"
+    },
+    {
+      "year": "2020",
+      "status": "OK",
+      "chosen_url": "https://www.unitedhealthgroup.com/about.html",
+      "classical_similarity_to_prior": "0.9336",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "innovation_technology|customer_focus|diversity_equity_inclusion|community_social_responsibility",
+      "text": "About UnitedHealth Group - UnitedHealth Group\nUnitedHealth Group is a distinctively diversified health and well-being company headquartered in the United States, and a leader worldwide in helping people live healthier lives and helping make the health system work better for everyone.\nWe are committed to introducing innovative approaches, products and services that can improve personal health and promote healthier populations in local communities. Our core capabilities in clinical expertise, advanced technology and data and health information uniquely enable us to meet the evolving needs of a changing health care environment.\nUnitedHealth Group serves clients and consumers through\ntwo distinct platforms\n:\nUnitedHealthcare provides health care coverage and benefits services.\nOptum provides information and technology-enabled health services.\nKnowledge and experience in organizing health care resources to best serve specific local market needs.\nEnabling a variety of interactions at enormous scale and complexity, helping connect all participants in health care.\nUnique skills in collecting, managing and analyzing data; and the capability to translate data into actionable information.\nFast Facts\n140\nThrough UnitedHealthcare and Optum, UnitedHealth Group offers health benefits and services to people residing in all 50 states in the United States and more than 140 other countries.\nRelated Topics\nGlobal Health\nOptum\nUnitedHealthcare\n~$3.6B\nUnitedHealth Group invests more than $3.6 billion in technology and innovation, and processes approximately 1.1 trillion transactions annually.\nRelated Topics\nOptum\nOur History of Innovation\nResearch & Development\n325K\n325,000 people worldwide power UnitedHealth Group with their entrepreneurial spirit and commitment to quality, including approximately 122,000 clinicians focused on helping people live healthier lives.\nRelated Topics\nCareers at UnitedHealth Group\nCenter for Clinician Advancement\nDiversity and Inclusion"
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2024",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ticker": "F",
+  "company_name": "Ford Motor",
+  "sector": "Consumer Discretionary",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "OK",
+      "chosen_url": "https://corporate.ford.com/about.html",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "community_social_responsibility|innovation_technology|customer_focus|environmental_sustainability",
+      "text": "About\nAbout Us\nIn the words of our founder, Henry Ford, \u201cTo do more for the world than the world does for you. That is success.\u201d Throughout our 117-year history and today, we strive to do more through our products, our services and by supporting the communities where we operate globally. We are proud of our contributions \u2013 yesterday, today and tomorrow.\nOur purpose\nWe are once again working to revolutionize mobility, fueled by new challenges and creating solutions to build a better world for everyone.\nOur purpose\nOur leadership\nMaking life better for our everyday customers, our communities and our climate takes impassioned direction.\nOur leadership\nOur history\nSince 1903, Ford Motor Company has put the world on wheels. From the moving assembly line and the $5 workday, to soy foam seats and aluminum truck bodies, Ford has a long heritage of progress. Learn more about the automobiles, innovations and manufacturing that have made the blue oval known around the world.\nOur history\nOur culture\nOur backgrounds, experiences and beliefs not only define us as individuals, they enhance our efforts in delivering vehicles that benefit all walks of life.\nOur culture\nOur brands\nOur brands"
+    },
+    {
+      "year": "2021",
+      "status": "OK",
+      "chosen_url": "https://corporate.ford.com/about.html",
+      "classical_similarity_to_prior": "0.133",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "integrity_ethics_trust|innovation_technology|customer_focus|diversity_equity_inclusion",
+      "text": "About\nAbout Us\nFord is a family company, one that spans the globe and has shared ideals. We value service to each other and the world as much as to our customers. Generations have made their memories with us and included us in their hopes and dreams. After 117 years, we\u2019re used to adapting to and leading change. That\u2019s why we\u2019re evolving to focus on services, experiences and software as well as vehicles.\nOur purpose\nWe are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.\nOur purpose\nOur leadership\nWith the people of Ford around the world, our leadership is committed to serving all of our stakeholder groups. Like generations of leaders before them, they understand that by helping to create a world with fewer obstacles and limits, we help people to move forward and upward.\nOur leadership\nOur history\nHenry Ford transformed not only the automobile but working life and the role of transportation. Having played our part in everything from the birth of the middle class to the recent global pandemic, we serve the world with integrity and competence. The Blue Oval is one of the most recognized corporate symbols in history, continually striving to earn the trust of all stakeholders.\nOur history\nOur culture\nFord is a family company in more ways than one. The culture is anchored in shared beliefs and ideals, acting for the common good. As an organization, Ford believes everyone should have the freedom to move and pursue their dreams, and seeks to create a culture of belonging for every employee.\nOur culture\nOur brands\nOur brands"
+    },
+    {
+      "year": "2022",
+      "status": "OK",
+      "chosen_url": "https://corporate.ford.com/about.html",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "integrity_ethics_trust|innovation_technology|customer_focus|diversity_equity_inclusion",
+      "text": "About\nAbout Us\nFord is a family company, one that spans the globe and has shared ideals. We value service to each other and the world as much as to our customers. Generations have made their memories with us and included us in their hopes and dreams. After 117 years, we\u2019re used to adapting to and leading change. That\u2019s why we\u2019re evolving to focus on services, experiences and software as well as vehicles.\nOur purpose\nWe are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.\nOur purpose\nOur leadership\nWith the people of Ford around the world, our leadership is committed to serving all of our stakeholder groups. Like generations of leaders before them, they understand that by helping to create a world with fewer obstacles and limits, we help people to move forward and upward.\nOur leadership\nOur history\nHenry Ford transformed not only the automobile but working life and the role of transportation. Having played our part in everything from the birth of the middle class to the recent global pandemic, we serve the world with integrity and competence. The Blue Oval is one of the most recognized corporate symbols in history, continually striving to earn the trust of all stakeholders.\nOur history\nOur culture\nFord is a family company in more ways than one. The culture is anchored in shared beliefs and ideals, acting for the common good. As an organization, Ford believes everyone should have the freedom to move and pursue their dreams, and seeks to create a culture of belonging for every employee.\nOur culture\nOur brands\nOur brands"
+    },
+    {
+      "year": "2023",
+      "status": "OK",
+      "chosen_url": "https://corporate.ford.com/about.html",
+      "classical_similarity_to_prior": "0.8821",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "integrity_ethics_trust|innovation_technology|customer_focus",
+      "text": "About\nAbout Us\nFord is a family company, one that spans the globe and has shared ideals. We value service to each other and the world as much as to our customers. Generations have made their memories with us and included us in their hopes and dreams. After 117 years, we\u2019re used to adapting to and leading change. That\u2019s why we\u2019re evolving to focus on services, experiences and software as well as vehicles.\nOur purpose\nWe are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.\nOur purpose\nOur leadership\nWith the people of Ford around the world, our leadership is committed to serving all of our stakeholder groups. Like generations of leaders before them, they understand that by helping to create a world with fewer obstacles and limits, we help people to move forward and upward.\nOur leadership\nOur history\nHenry Ford transformed not only the automobile but working life and the role of transportation. Having played our part in everything from the birth of the middle class to the recent global pandemic, we serve the world with integrity and competence. The Blue Oval is one of the most recognized corporate symbols in history, continually striving to earn the trust of all stakeholders.\nOur history\nOur brands\nOur brands"
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "https://corporate.ford.com/about.html",
+      "classical_similarity_to_prior": "0.9907",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "integrity_ethics_trust|innovation_technology|customer_focus",
+      "text": "About\nAbout Us\nFord is a family company, one that spans the globe and has shared ideals. We value service to each other and the world as much as to our customers. Generations have made their memories with us and included us in their hopes and dreams. After 121 years, we\u2019re used to adapting to and leading change. That is why we are evolving to focus on services, experiences and software as well as vehicles.\nOur purpose\nWe are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.\nOur purpose\nOur leadership\nWith the people of Ford around the world, our leadership is committed to serving all of our stakeholder groups. Like generations of leaders before them, they understand that by helping to create a world with fewer obstacles and limits, we help people to move forward and upward.\nOur leadership\nOur history\nHenry Ford transformed not only the automobile but working life and the role of transportation. Having played our part in everything from the birth of the middle class to the recent global pandemic, we serve the world with integrity and competence. The Blue Oval is one of the most recognized corporate symbols in history, continually striving to earn the trust of all stakeholders.\nOur history\nOur brands\nOur brands"
+    }
+  ]
+}

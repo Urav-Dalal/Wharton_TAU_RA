@@ -1,0 +1,38 @@
+{
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so there is no prior to compare against.",
+    "theme_categories": ["integrity_ethics_trust", "innovation_technology", "patient_health_outcomes", "diversity_equity_inclusion"],
+    "analyst_notes": "Values-led copy with three named core values (Integrity, Excellence, Respect for People), a founder history and a 'Spirit of Discovery' framing. Respect for people is defined in general terms with a diversity link but no metrics."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "Body copy is identical to 2019; only navigation items for COVID-19 and insulin affordability were added.",
+    "theme_categories": ["integrity_ethics_trust", "innovation_technology", "patient_health_outcomes", "diversity_equity_inclusion"],
+    "analyst_notes": "Same values and history text as 2019. The additions are navigation links that signal access priorities rather than new commitments."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "The captured text is a single 'Loading...' placeholder, so there is no content to compare and no change is evidenced.",
+    "theme_categories": ["no_content_captured"],
+    "analyst_notes": "The JavaScript-rendered page did not load in the capture, so nothing about 2021 messaging can be inferred. Treat as missing for theme purposes."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "The captured text is the same 'Loading...' placeholder as 2021, so no change in content can be judged.",
+    "theme_categories": ["no_content_captured"],
+    "analyst_notes": "Capture failure (placeholder only). Nothing analyzable."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "The captured text is the same 'Loading...' placeholder as 2022, so no change in content can be judged.",
+    "theme_categories": ["no_content_captured"],
+    "analyst_notes": "Capture failure (placeholder only). Nothing analyzable."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "The prior available year (2023) is a placeholder, so this is compared with the last substantive capture (2020), and the page is now a short pipeline-focused About page with no values or history copy.",
+    "theme_categories": ["patient_health_outcomes", "innovation_technology", "access_affordability"],
+    "analyst_notes": "Tone moves from values and history to a short emotive line ('When health is lost, the only thing you want is to get better') and a list of six therapeutic focus areas. It is specific about disease areas and silent on DEI, environment and governance, but the capture may be truncated, so that absence is not conclusive."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so there is no prior to compare against.",
+    "theme_categories": ["environmental_sustainability", "integrity_ethics_trust", "diversity_equity_inclusion", "patient_health_outcomes"],
+    "analyst_notes": "Not a mission page: it is an ESG policy index with a short intro and dozens of topic blocks (animal welfare, anti-corruption, DEI, water, climate). It is detailed and specific in places, but reads as a policy catalogue, and its DEI copy uses 'diversity & inclusion' with no 'equity' language."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "'Diversity & Inclusion' is renamed and expanded to 'Diversity, Equity and Inclusion' with explicit equity language, and new topics (innovation, business continuity, employee wellbeing, health equity) are added under the Health for Humanity report structure.",
+    "theme_categories": ["diversity_equity_inclusion", "access_affordability", "innovation_technology", "people_culture"],
+    "analyst_notes": "'Equity' goes from 0 to 13 mentions, so the change is in framing and vocabulary rather than policy volume. The 'Our Race to Health Equity' item is a new emphasis, and the page is fully substantive with long policy copy."
+  },
+  "2022": {
+    "changed_from_prior": true,
+    "change_reason": "The page adds an ESG-strategy framing (materiality assessment, Credo stakeholders, purpose-driven language), new policy topics such as the human right to water and anti-human trafficking, and COVID-19 intellectual-property positions.",
+    "theme_categories": ["environmental_sustainability", "integrity_ethics_trust", "access_affordability", "diversity_equity_inclusion"],
+    "analyst_notes": "Ties ESG explicitly to business strategy and 'enduring impact' and calls sustainability a strategic component of successful businesses. The DEI policy text itself carries over from 2021."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "Terminology shifts from 'sustainability' to 'ESG' (ESG mentions go from 8 to 17), 'Sustainability Governance' becomes 'ESG Governance', 'Climate Policy' becomes 'Climate Action', and pre-approval access and tax responsibility topics are added.",
+    "theme_categories": ["environmental_sustainability", "integrity_ethics_trust", "access_affordability", "diversity_equity_inclusion"],
+    "analyst_notes": "Mostly relabeling and reorganization rather than reversal: the DEI workforce text, the climate and product copy persist word for word. The framing moves from 'sustainability' to 'ESG', which matters for any analysis of sustainability language."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "The capture contains only the page heading, so no content can be compared and no change is evidenced.",
+    "theme_categories": ["no_content_captured"],
+    "analyst_notes": "Not usable. The classical flag marks this as changed, but the drop from about 37,000 characters to a heading reflects a failed render rather than a content change."
+  }
+}

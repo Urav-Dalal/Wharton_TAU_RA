@@ -1,0 +1,32 @@
+{
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, so there is no prior to compare against.",
+    "theme_categories": ["patient_health_outcomes", "innovation_technology", "integrity_ethics_trust", "access_affordability"],
+    "analyst_notes": "Explicit values vocabulary (Patients first, Respect for people, Ethics and integrity, Innovation) and concrete scale figures (71K employees, $9.9B R&D, $2.8B philanthropy). Much of the page is navigation and teaser stories, so the substance is brand storytelling more than measurable commitment."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "The mission and values statements are unchanged, but the page adds a COVID-19 focus area, new stories on HIV stigma, inclusion and hybrid work, and updated headline figures (74K employees, $13.6B R&D).",
+    "theme_categories": ["patient_health_outcomes", "innovation_technology", "people_culture", "diversity_equity_inclusion"],
+    "analyst_notes": "The values vocabulary is unchanged from 2020, but the people-centred stories (HIV stigma, a transgender patient, the hybrid work model) are new and give the page more human content. The pandemic response is now a named focus area."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "The captured text is a title-only placeholder ('About us - Merck.com'), so there is no content to compare and no change is evidenced.",
+    "theme_categories": ["no_content_captured"],
+    "analyst_notes": "JavaScript-rendered page not captured. Nothing analyzable."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "The captured text is the same title-only placeholder as 2022, so no change in content can be judged.",
+    "theme_categories": ["no_content_captured"],
+    "analyst_notes": "Capture failure (title only). Nothing analyzable."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "The captured text is a title-only placeholder ('Who we are - Merck.com'), so no content change can be judged.",
+    "theme_categories": ["no_content_captured"],
+    "analyst_notes": "Capture failure (title only). The only visible signal is the title change from 'About us' to 'Who we are', which is not a content judgment."
+  }
+}

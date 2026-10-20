@@ -1,0 +1,56 @@
+{
+  "ticker": "NKE",
+  "company_name": "Nike",
+  "sector": "Consumer Discretionary",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "https://about.nike.com/0",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "innovation_technology|community_social_responsibility|people_culture|environmental_sustainability",
+      "text": "About Nike - The official website for NIKE, Inc., Converse and Jordan Brands Read Nike's Mission Statement, find information about NIKE, Inc. innovation, sustainability, community impact and more \u2014 NIKE, Inc.\nSkip to content\nBring inspiration and innovation to every athlete* in the world\n*If you have a body, you are an athlete\nWE\nSERVE\nKIDS\nPROS\nDREAMERS\nWOMEN\nTEAMS\nCOACHES\nMEN\nBEGINNERS\nGIRLS\nREBELS\nATHLETES\n*\n*If you have a body, you are an athlete\nBrand of Athletes\nTatyana McFadden Is the Fastest Woman Alive \u2014 the Nike Sport Research Lab Wanted to Help Her Get Faster\nAn upgrade to one key product could be the unlock for the legendary track and field athlete to achieve her highest potential.\nFrom the Newsroom\nNew Nike Kiger and ReactX Wildhorse 10 Mark a Decade of Serving Adventurous Runners\nJordan Brand Athletes Visit China to Grow the Game and Inspire Local Youth\nAir Jordan V El Grito Pays Homage to Mexican Culture and Global Influence\nNike\u2019s Commitment to Supporting Athletes Continues Beyond the Summer of Sport\nNike x Patta Celebrate Landmark Anniversary with New Release of Coveted Air Max 1 Chlorophyll\nLeBron TR1 Transcends Disciplines in Versatile Training Silhouette\nConverse x Isabel Marant Collection Debuts New Chuck 70 Wedge\nNike Announces GameOn, a New Career Program for All Athletes\nOksana Masters Wins Second Paralympic Gold in Paris\nNew Nike Kiger and ReactX Wildhorse 10 Mark a Decade of Serving Adventurous Runners\nJordan Brand Athletes Visit China to Grow the Game and Inspire Local Youth\nAir Jordan V El Grito Pays Homage to Mexican Culture and Global Influence\nNike\u2019s Commitment to Supporting Athletes Continues Beyond the Summer of Sport\nBorn Tenacious: How Tatyana McFadden Became the Champion She Is Today\nThe fastest woman in the world has always possessed steely resolve. Hear her describe it.\nWomen Who Win on Nike Air\nThe competitive advantage for athletes like Beatriz Hatz, Sifan Hassan, and Sha\u2019Carri Richardson? Shoes, boots and spikes with our proprietary cushioning technology.\nTatyana McFadden Becomes Most Winning American Track and Field Athlete\nThrough the Power of Community, NIKE, Inc. Advances Toward a Better World for All\nFY23 NIKE, Inc. Impact Report\nGetting Kids Active\nNike invests in play and sport for all kids, because an active next generation means a healthier and more equitable future.\nBuilding and Investing In Our Teams\nWe support the personal and professional wellbeing of NIKE, Inc. employees \u2014 from manufacturing to corporate \u2014 through a range of programs and partnerships.\nGiving Back to Our Communities\nWe\u2019re committed to building a future where everyone \u2014 regardless of where they are from, the color of their skin, their abilities or who they love \u2014 can thrive."
+    }
+  ]
+}

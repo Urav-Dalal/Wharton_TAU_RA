@@ -1,0 +1,68 @@
+{
+  "ticker": "SBUX",
+  "company_name": "Starbucks",
+  "sector": "Consumer Discretionary",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "OK",
+      "chosen_url": "https://www.starbucks.com/about-us/web-accessibility",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "diversity_equity_inclusion|innovation_technology|environmental_sustainability",
+      "text": "Web Accessibility: Starbucks Coffee Company\nWeb Accessibility\nSkip to main content\nWeb Accessibility\nStarbucks is committed to diversity, inclusion and accessibility in everything we do. These core values are fundamental to the way we do business and come through in the experiences we design for people \u00e2\u0080\u0093 both in our coffeehouses and on the web.\nWith this in mind, we are continuously taking steps to improve Starbucks.com and ensure it complies with the best practices and standards defined by\nSection 508 of the U.S. Rehabilitation Act\nand the\nWeb Content Accessibility Guidelines\nof the\nWorld Wide Web Consortium\n.\nOur website is monitored and tested periodically by internal and third-party accessibility consultants. These people help us identify usability issues and discover new solutions to further improve the accessibility of our site.\nStarbucks Online Policies\nOur Current Accessibility Features\nAlternative text detail for appropriate images and other non-text elements.\nTitle attributes for additional information about links and indication of new browser windows.\nStructural markup to indicate headings and lists to aid in page comprehension.\nAssociation of forms with labels.\nAssociation of all data cells in a data table with their headers.\nJavaScript and style sheets to enhance the appearance and functionality of the site. If these technologies are not available, alternative content is provided where necessary to ensure a usable experience.\nFurther accessibility efforts are under way. As we continue to improve our website, we will reflect any changes here within our accessibility statement. That way you\u00e2\u0080\u0099ll know about the progress we\u00e2\u0080\u0099re making.\nLearn More About Accessibility\nSection 508: The Road to Accessibility\nProvides information and news about the accessibility standards introduced by Section 508 of the Rehabilitation Act.\nLearn more\nDepartment of Justice Section 508\nOffers information about Section 508 from the Department of Justice.\nLearn more\nU.S. Access Board\nProvides design guidelines for the built environment, transit vehicles, telecommunications equipment, and for electronic and information technology.\nLearn more\nWeb Accessibility\nDescribes the work being done to provide equal access to websites.\nLearn more\nWeb Accessibility Initiative (WAI)\nDevelops strategies, guidelines and resources to help make the web accessible to people with disabilities.\nLearn more\nDownload Plug-ins\nSome of the content on this website requires a plug-in to view. Links to download these plug-ins are available here:\nAdobe Acrobat Reader\nAdobe Flash Player"
+    },
+    {
+      "year": "2022",
+      "status": "OK",
+      "chosen_url": "https://www.starbucks.com/about-us/web-accessibility",
+      "classical_similarity_to_prior": "0.9977",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "diversity_equity_inclusion|innovation_technology|environmental_sustainability",
+      "text": "Web Accessibility: Starbucks Coffee Company\nWeb Accessibility\nSkip to main content\nWeb Accessibility\nStarbucks is committed to diversity, inclusion and accessibility in everything we do. These core values are fundamental to the way we do business and come through in the experiences we design for people \u2013 both in our coffeehouses and on the web.\nWith this in mind, we are continuously taking steps to improve Starbucks.com and ensure it complies with the best practices and standards defined by\nSection 508 of the U.S. Rehabilitation Act\nand the\nWeb Content Accessibility Guidelines\nof the\nWorld Wide Web Consortium\n.\nOur website is monitored and tested periodically by internal and third-party accessibility consultants. These people help us identify usability issues and discover new solutions to further improve the accessibility of our site.\nStarbucks Online Policies\nOur Current Accessibility Features\nAlternative text detail for appropriate images and other non-text elements.\nTitle attributes for additional information about links and indication of new browser windows.\nStructural markup to indicate headings and lists to aid in page comprehension.\nAssociation of forms with labels.\nAssociation of all data cells in a data table with their headers.\nJavaScript and style sheets to enhance the appearance and functionality of the site. If these technologies are not available, alternative content is provided where necessary to ensure a usable experience.\nFurther accessibility efforts are under way. As we continue to improve our website, we will reflect any changes here within our accessibility statement. That way you\u2019ll know about the progress we\u2019re making.\nLearn More About Accessibility\nSection 508: The Road to Accessibility\nProvides information and news about the accessibility standards introduced by Section 508 of the Rehabilitation Act.\nLearn more\nDepartment of Justice Section 508\nOffers information about Section 508 from the Department of Justice.\nLearn more\nU.S. Access Board\nProvides design guidelines for the built environment, transit vehicles, telecommunications equipment, and for electronic and information technology.\nLearn more\nWeb Accessibility\nDescribes the work being done to provide equal access to websites.\nLearn more\nWeb Accessibility Initiative (WAI)\nDevelops strategies, guidelines and resources to help make the web accessible to people with disabilities.\nLearn more\nDownload Plug-ins\nSome of the content on this website requires a plug-in to view. Links to download these plug-ins are available here:\nAdobe Acrobat Reader\nAdobe Flash Player"
+    },
+    {
+      "year": "2023",
+      "status": "OK",
+      "chosen_url": "https://www.starbucks.com/about-us/web-accessibility",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "diversity_equity_inclusion|innovation_technology|environmental_sustainability",
+      "text": "Web Accessibility: Starbucks Coffee Company\nWeb Accessibility\nSkip to main content\nWeb Accessibility\nStarbucks is committed to diversity, inclusion and accessibility in everything we do. These core values are fundamental to the way we do business and come through in the experiences we design for people \u2013 both in our coffeehouses and on the web.\nWith this in mind, we are continuously taking steps to improve Starbucks.com and ensure it complies with the best practices and standards defined by\nSection 508 of the U.S. Rehabilitation Act\nand the\nWeb Content Accessibility Guidelines\nof the\nWorld Wide Web Consortium\n.\nOur website is monitored and tested periodically by internal and third-party accessibility consultants. These people help us identify usability issues and discover new solutions to further improve the accessibility of our site.\nStarbucks Online Policies\nOur Current Accessibility Features\nAlternative text detail for appropriate images and other non-text elements.\nTitle attributes for additional information about links and indication of new browser windows.\nStructural markup to indicate headings and lists to aid in page comprehension.\nAssociation of forms with labels.\nAssociation of all data cells in a data table with their headers.\nJavaScript and style sheets to enhance the appearance and functionality of the site. If these technologies are not available, alternative content is provided where necessary to ensure a usable experience.\nFurther accessibility efforts are under way. As we continue to improve our website, we will reflect any changes here within our accessibility statement. That way you\u2019ll know about the progress we\u2019re making.\nLearn More About Accessibility\nSection 508: The Road to Accessibility\nProvides information and news about the accessibility standards introduced by Section 508 of the Rehabilitation Act.\nLearn more\nDepartment of Justice Section 508\nOffers information about Section 508 from the Department of Justice.\nLearn more\nU.S. Access Board\nProvides design guidelines for the built environment, transit vehicles, telecommunications equipment, and for electronic and information technology.\nLearn more\nWeb Accessibility\nDescribes the work being done to provide equal access to websites.\nLearn more\nWeb Accessibility Initiative (WAI)\nDevelops strategies, guidelines and resources to help make the web accessible to people with disabilities.\nLearn more\nDownload Plug-ins\nSome of the content on this website requires a plug-in to view. Links to download these plug-ins are available here:\nAdobe Acrobat Reader\nAdobe Flash Player"
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "https://www.starbucks.com/about-us/web-accessibility",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "diversity_equity_inclusion|innovation_technology|environmental_sustainability",
+      "text": "Web Accessibility: Starbucks Coffee Company\nWeb Accessibility\nSkip to main content\nWeb Accessibility\nStarbucks is committed to diversity, inclusion and accessibility in everything we do. These core values are fundamental to the way we do business and come through in the experiences we design for people \u2013 both in our coffeehouses and on the web.\nWith this in mind, we are continuously taking steps to improve Starbucks.com and ensure it complies with the best practices and standards defined by\nSection 508 of the U.S. Rehabilitation Act\nand the\nWeb Content Accessibility Guidelines\nof the\nWorld Wide Web Consortium\n.\nOur website is monitored and tested periodically by internal and third-party accessibility consultants. These people help us identify usability issues and discover new solutions to further improve the accessibility of our site.\nStarbucks Online Policies\nOur Current Accessibility Features\nAlternative text detail for appropriate images and other non-text elements.\nTitle attributes for additional information about links and indication of new browser windows.\nStructural markup to indicate headings and lists to aid in page comprehension.\nAssociation of forms with labels.\nAssociation of all data cells in a data table with their headers.\nJavaScript and style sheets to enhance the appearance and functionality of the site. If these technologies are not available, alternative content is provided where necessary to ensure a usable experience.\nFurther accessibility efforts are under way. As we continue to improve our website, we will reflect any changes here within our accessibility statement. That way you\u2019ll know about the progress we\u2019re making.\nLearn More About Accessibility\nSection 508: The Road to Accessibility\nProvides information and news about the accessibility standards introduced by Section 508 of the Rehabilitation Act.\nLearn more\nDepartment of Justice Section 508\nOffers information about Section 508 from the Department of Justice.\nLearn more\nU.S. Access Board\nProvides design guidelines for the built environment, transit vehicles, telecommunications equipment, and for electronic and information technology.\nLearn more\nWeb Accessibility\nDescribes the work being done to provide equal access to websites.\nLearn more\nWeb Accessibility Initiative (WAI)\nDevelops strategies, guidelines and resources to help make the web accessible to people with disabilities.\nLearn more\nDownload Plug-ins\nSome of the content on this website requires a plug-in to view. Links to download these plug-ins are available here:\nAdobe Acrobat Reader\nAdobe Flash Player"
+    }
+  ]
+}

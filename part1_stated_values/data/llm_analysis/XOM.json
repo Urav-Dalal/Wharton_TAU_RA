@@ -1,0 +1,14 @@
+{
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with captured text, so there is no prior year to compare against.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "The capture contains only the page title 'Who we are | ExxonMobil' and no body copy, so no stated values, tone, or environmental content can be coded. Treat this year as unscorable rather than as evidence of silence on these topics."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Only the title differs ('Who we are | Technology and Innovation | ExxonMobil'), which most likely reflects a different sub-page being captured rather than a change in About copy.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "The title hints at a technology and innovation focus, but no body text was captured to verify it. The classical 'changed' flag rests on the title string alone and should not be treated as a content change."
+  }
+}

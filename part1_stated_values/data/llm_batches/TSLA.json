@@ -1,0 +1,88 @@
+{
+  "ticker": "TSLA",
+  "company_name": "Tesla",
+  "sector": "Consumer Discretionary",
+  "years": [
+    {
+      "year": "2016",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.tesla.com/about",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "",
+      "text": ""
+    },
+    {
+      "year": "2017",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.tesla.com/about",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": ""
+    },
+    {
+      "year": "2018",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.tesla.com/about",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": ""
+    },
+    {
+      "year": "2019",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.tesla.com/about",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": ""
+    },
+    {
+      "year": "2020",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.tesla.com/about",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": ""
+    },
+    {
+      "year": "2021",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.tesla.com/about",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": ""
+    },
+    {
+      "year": "2022",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.tesla.com/about",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": ""
+    },
+    {
+      "year": "2023",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.tesla.com/about",
+      "classical_similarity_to_prior": "0.0",
+      "classical_changed_flag": "True",
+      "classical_top_categories": "",
+      "text": "About | Tesla"
+    },
+    {
+      "year": "2024",
+      "status": "OK_BUT_THIN",
+      "chosen_url": "https://www.tesla.com/about",
+      "classical_similarity_to_prior": "1.0",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "",
+      "text": "About | Tesla"
+    }
+  ]
+}

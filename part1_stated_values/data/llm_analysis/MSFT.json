@@ -1,0 +1,14 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year, no comparison.",
+    "theme_categories": ["community_social_responsibility", "digital_inclusion_education", "innovation_technology"],
+    "analyst_notes": "This is a narrow program page (Microsoft Unlimited Potential community technology skills grants and curriculum), not a corporate About or mission page, so it says little about Microsoft's company-wide values. The text is dated (it cites Windows Vista, 2007 Office, and a 2005 census figure) and contains a stray editorial note, which suggests a legacy page rather than current 2016 messaging."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "Text is identical to the 2016 snapshot, so no change in content or emphasis.",
+    "theme_categories": ["community_social_responsibility", "digital_inclusion_education", "innovation_technology"],
+    "analyst_notes": "Textually identical to 2016, so this is the same cached legacy program page rather than a separate 2017 communication. The classical similarity of 1.0 is accurate, but it should not be read as evidence of stable corporate messaging across the two years."
+  }
+}

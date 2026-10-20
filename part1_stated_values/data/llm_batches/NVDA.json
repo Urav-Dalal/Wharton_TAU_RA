@@ -1,0 +1,56 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA",
+  "sector": "Technology",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2023",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "https://www.nvidia.com/en-us/about-nvidia/ebc/",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "innovation_technology|people_culture",
+      "text": "Executive Briefing Center | NVIDIA\nDiscover How Artificial Intelligence and\nAccelerated Computing\nAre Transforming\nEvery Industry\nWatch this video to see how AI is transforming the way we work and live\nInsights to Innovate\nWe use our unique position and experience to align every aspect of your business with relevant thought leaders and experts.\nExclusive Experience\nOur teams manage unparallelled end-to-end experiences and demos customized to the goals and business objectives of our guests.\nStrategic Partnership\nWe offer our guests the tools and technology to continuously collaborate, learn, develop, partner, and grow.\nAligned to your Objectives\nCustomized agendas\nHigh-quality demos\nPersonalized presentations from NVIDIA leadership, specialists, and experts\nUnique access and privileges\nA global ecosystem served by experts around the world\u2014armed with deep knowledge across every industry\nRelevant digital content and tools designed and packaged for you to engage beyond the briefing\nIn-depth discussions around NVIDIA strategies and innovations\nDiscover What\u2019s Possible With NVIDIA\nTo schedule a briefing, please contact your NVIDIA sales representative or contact the NVIDIA Executive Briefing Center team.\nContact us"
+    }
+  ]
+}

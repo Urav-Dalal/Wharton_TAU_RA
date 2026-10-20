@@ -1,0 +1,38 @@
+{
+  "2019": {
+    "changed_from_prior": false,
+    "change_reason": "First available year with text, so no prior comparison is possible; the capture contains only the page title.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "The captured text is only the title 'Goldman Sachs | About Us'. The About Us body is JavaScript-rendered and was not captured, so no values language can be assessed. The chosen URL is a dedicated about-us page, so a rendered re-scrape is needed."
+  },
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only capture identical to the prior year; this reflects the same capture failure, not a verified unchanged page.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Same title-only capture as prior years; no content to assess."
+  },
+  "2021": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only capture identical to the prior year; this reflects the same capture failure, not a verified unchanged page.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Same title-only capture as prior years; no content to assess."
+  },
+  "2022": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only capture identical to the prior year; this reflects the same capture failure, not a verified unchanged page.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Same title-only capture as prior years; no content to assess."
+  },
+  "2023": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only capture identical to the prior year; this reflects the same capture failure, not a verified unchanged page.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Same title-only capture as prior years; no content to assess."
+  },
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "Title-only capture identical to the prior year; this reflects the same capture failure, not a verified unchanged page.",
+    "theme_categories": ["no_extractable_content"],
+    "analyst_notes": "Same title-only capture as prior years; no content to assess."
+  }
+}

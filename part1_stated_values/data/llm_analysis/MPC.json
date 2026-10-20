@@ -1,0 +1,56 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year.",
+    "theme_categories": ["growth_scale_performance", "investor_news_navigation"],
+    "analyst_notes": "Almost all captured copy is navigation and investor news (quarterly results, dividends, conference appearances), so the tone is transactional. The classical diversity tag is not supported by any text on the page."
+  },
+  "2017": {
+    "changed_from_prior": true,
+    "change_reason": "Navigation relabels 'Pipeline Transportation' as 'Midstream' and the news feed is replaced, but no value or mission language changes.",
+    "theme_categories": ["growth_scale_performance", "investor_news_navigation"],
+    "analyst_notes": "The change reflects restructuring (MPLX drop-downs, executive moves) rather than any shift in how MPC describes its values."
+  },
+  "2018": {
+    "changed_from_prior": true,
+    "change_reason": "Adds the Andeavor combination announcement ('a leading U.S. refining, marketing, and midstream company') and an ENERGY STAR award, which are major structural and reputational items.",
+    "theme_categories": ["growth_scale_performance", "environmental_sustainability", "investor_news_navigation"],
+    "analyst_notes": "Still a news-driven homepage with no stated values. The ENERGY STAR mention is the first environmental content and is framed as an award rather than a commitment."
+  },
+  "2019": {
+    "changed_from_prior": true,
+    "change_reason": "A redesign introduces a 'Providing Energy Solutions' tagline, an 'Our Values' paragraph, an ENERGY STAR section, and a refinery-by-refinery operations map, replacing the news-feed format.",
+    "theme_categories": ["environmental_sustainability", "community_social_responsibility", "diversity_equity_inclusion", "growth_scale_performance"],
+    "analyst_notes": "The 'Our Values' paragraph ('We promote diversity and inclusion. We back worthy community causes. We save energy, reduce emissions and preserve wildlife.') is the most explicit values statement across the MPC captures, and it sits next to specific operations data (16 refineries, over 3 million bpd)."
+  },
+  "2020": {
+    "changed_from_prior": true,
+    "change_reason": "A COVID-19 response block is added, the ENERGY STAR section is updated to 2018-2020, a volunteerism news item appears, and the midstream description is reduced to MPLX alone.",
+    "theme_categories": ["community_social_responsibility", "environmental_sustainability", "people_culture", "diversity_equity_inclusion"],
+    "analyst_notes": "The COVID copy is specific about actions ('matching essential supplies to what they need and can handle'). The values paragraph is unchanged, so emergency-response language now sits alongside the same generic values statement."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "Martinez is repositioned as Martinez Renewable Fuels, Speedway drops off the brand list, and the refinery count falls from 16 to 13, while the values paragraph is kept.",
+    "theme_categories": ["environmental_sustainability", "people_culture", "community_social_responsibility", "diversity_equity_inclusion"],
+    "analyst_notes": "The renewable-fuels repositioning is the most concrete environmental claim so far, tied to 'reducing our carbon emissions intensity' but without a quantified target on the page. The portfolio shrinkage is not explained on the page."
+  },
+  "2022": {
+    "changed_from_prior": true,
+    "change_reason": "A 'Sustainability' section ('creating shared value... protecting the environment we all share') replaces the 2019-2021 'Our Values' paragraph, which disappears from the homepage.",
+    "theme_categories": ["environmental_sustainability", "community_social_responsibility", "people_culture"],
+    "analyst_notes": "Sustainability is now a headline, but the wording is generic ('shared value', 'empowering people to achieve more') and links to a report rather than stating targets. The explicit promise to save energy, reduce emissions, and preserve wildlife is gone."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "Adds a Digital Transformation recruiting block, names the Martinez Renewable Fuels Project, and updates the ENERGY STAR and news items, while the sustainability paragraph is unchanged from 2022.",
+    "theme_categories": ["environmental_sustainability", "innovation_technology", "people_culture", "safety_operational_excellence"],
+    "analyst_notes": "The digital-transformation copy ('welcomes new ideas, encourages diverse perspectives') is standard recruiting language. The AFPM safety awards are specific third-party recognitions and carry more weight than the generic values text."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "The sustainability lead softens from 'means taking actions' to 'means striving to create shared value', the ENERGY STAR count moves to five years, and new Human Rights Campaign and river-revitalization news is added.",
+    "theme_categories": ["environmental_sustainability", "innovation_technology", "people_culture", "diversity_equity_inclusion"],
+    "analyst_notes": "The softened verb shifts the sustainability claim from commitment toward aspiration, which is a notable rhetorical change. The page still gives no quantified emissions figures or targets."
+  }
+}

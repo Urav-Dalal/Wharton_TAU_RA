@@ -1,0 +1,64 @@
+{
+  "ticker": "C",
+  "company_name": "Citigroup",
+  "sector": "Financials",
+  "years": [
+    {
+      "year": "2016",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2017",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2018",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2019",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2020",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2021",
+      "status": "MISSING_NO_NEARBY_SNAPSHOT",
+      "text": null
+    },
+    {
+      "year": "2022",
+      "status": "OK",
+      "chosen_url": "https://www.citigroup.com/global/about-us",
+      "classical_similarity_to_prior": "",
+      "classical_changed_flag": "",
+      "classical_top_categories": "customer_focus|growth_scale_performance|integrity_ethics_trust|innovation_technology",
+      "text": "Financial Services and Solutions - About Us | Citi\nWe live in an increasingly complex world. Companies these days are either born global or are going global at record speed. Business and geopolitics are forging an entirely new dynamic and consumers now expect financial services to be a seamless part of their digital lives.\nCiti is a bank that\u2019s uniquely positioned for this moment. Through our vast global network and our on-the-ground expertise, we can connect the dots, anticipate change and empathize the needs of our clients and customers in ways that other banks simply cannot.\nOur Global Impact\n$4+ trillion\nfinancial flows\nOur global network allows us to move the equivalent of Germany\u2019s GDP each day across borders, currencies and asset classes.\n13,000+\ninstitutional clients\nOur clients include 90% of global Fortune 500 companies who are served through our institutional banking franchise.\n$1+ trillion\ncommitted to ESG\nWe believe in playing a leading role in solving increasingly interconnected societal challenges. We set goals and we hold ourselves accountable to reaching them.\n100+ million\ncustomers\nThrough our retail bank, credit cards and wealth management business, we provide personalized financial guidance supported by leading digital capabilities.\nOur Mission\nCiti's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We have set expectations for how we must act to bring our mission to life. These expectations are at the heart of our Leadership Principles \u2013 we take ownership, we deliver with pride and we succeed together.\nIn this section\nStrategy\nWe are transforming Citi into a modern, simpler, more efficient bank.\nLearn More\nLeadership\nOur diverse leadership team is committed to stewarding a firm known for excellence.\nLearn More\nGlobal Presence\nCiti has a global network of financial services that stretches across nearly 160 countries.\nLearn More\nHeritage\nCiti has more than 200 years of experience growing businesses and supporting communities.\nLearn More\nOur Businesses\nThrough our five businesses, we have the experience and capabilities to meet the banking needs of our clients and customers as they grow across borders and adapt to the digital age.\nRead More\nCiti Infographics\nA Clear Vision for Our Future\nCiti at a Glance\nDriving Increased Shareholder Value\nBusiness Drivers and Projected Growth\nRelated Articles\nPRESS RELEASE\nCiti Velocity Ranked No. 1 for Web-Based Analytics in Institutional Investor\u2019s 2022 Global Fixed Income Research Poll\nDecember 20, 2022\nPRESS RELEASE\nCiti Funds $20 Million Loan for ASA Philippines Foundation to Support Women Microentrepreneurs\nNovember 25, 2022\nPRESS RELEASE\nCiti Markets to Donate Over $10 Million to Education-Focused Non-Profit Organizations\nNovember 21, 2022\nPRESS RELEASE\nCiti and AT&T Expand Credit Card Offerings with New AT&T Points Plus Card\nNovember 14, 2022"
+    },
+    {
+      "year": "2023",
+      "status": "OK",
+      "chosen_url": "https://www.citigroup.com/global/about-us",
+      "classical_similarity_to_prior": "0.8564",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "customer_focus|integrity_ethics_trust|innovation_technology|environmental_sustainability",
+      "text": "Financial Services and Solutions - About Us | Citi\nWe live in an increasingly complex world. Companies these days are either born global or are going global at record speed. Business and geopolitics are forging an entirely new dynamic and consumers now expect financial services to be a seamless part of their digital lives. Citi is a bank that\u2019s uniquely positioned for this moment. Through our vast global network and our on-the-ground expertise, we can connect the dots, anticipate change and empathize the needs of our clients and customers in ways that other banks simply cannot.\nOur Global Impact\n$4+ trillion\nfinancial flows\nOur global network allows us to move the equivalent of Germany\u2019s GDP each day across borders, currencies and asset classes.\n13,000+\ninstitutional clients\nOur clients include 90% of global Fortune 500 companies who are served through our institutional banking franchise.\n$1+ trillion\ncommitted to ESG\nWe believe in playing a leading role in solving increasingly interconnected societal challenges. We set goals and we hold ourselves accountable to reaching them.\n100+ million\ncustomers\nThrough our retail bank, credit cards and wealth management business, we provide personalized financial guidance supported by leading digital capabilities.\nOur Mission\nCiti's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We have set expectations for how we must act to bring our mission to life. These expectations are at the heart of our Leadership Principles \u2013 we take ownership, we deliver with pride and we succeed together.\nLearn more\nIn this section\nStrategy\nWe are transforming Citi into a modern, simpler, more efficient bank.\nLearn More\nLeadership\nOur diverse leadership team is committed to stewarding a firm known for excellence.\nLearn More\nGlobal Presence\nCiti has a global network of financial services that stretches across nearly 160 countries.\nLearn More\nHeritage\nCiti has more than 200 years of experience growing businesses and supporting communities.\nLearn More\nOur Businesses\nThrough our five businesses, we have the experience and capabilities to meet the banking needs of our clients and customers as they grow across borders and adapt to the digital age.\nRead More\nCiti Infographics\nDelivering the Full Value of Our Franchise\nCiti at a Glance\nRelated Articles\nPRESS RELEASE\nSecond Quarter 2023 Results and Key Metrics\nJuly 14, 2023\nPRESS RELEASE\nCiti Commercial Bank launches new digital client platform, CitiDirect\u00ae Commercial Banking\nJuly 10, 2023\nPERSPECTIVES\nLearn How Citi is Helping the Transition to a Net Zero Economy\nJune 26, 2023"
+    },
+    {
+      "year": "2024",
+      "status": "OK",
+      "chosen_url": "https://www.citigroup.com/global/about-us",
+      "classical_similarity_to_prior": "0.8539",
+      "classical_changed_flag": "False",
+      "classical_top_categories": "customer_focus|innovation_technology|growth_scale_performance|integrity_ethics_trust",
+      "text": "Citi | About Us\nWe live in an increasingly complex world. Companies these days are either born global or are going global at record speed. Business and geopolitics are forging an entirely new dynamic and consumers now expect financial services to be a seamless part of their digital lives. Citi is a bank that\u2019s uniquely positioned for this moment. Through our vast global network and our on-the-ground expertise, we can connect the dots, anticipate change and empathize the needs of our clients and customers in ways that other banks simply cannot.\nOur Global Impact\n$4+ trillion\nfinancial flows\nOur global network allows us to move the equivalent of Germany\u2019s GDP each day across borders, currencies and asset classes.\n13,000+\ninstitutional clients\nOur clients include 90% of global Fortune 500 companies who are served through our institutional banking franchise.\n$1+ trillion\ncommitted to ESG\nWe believe in playing a leading role in solving increasingly interconnected societal challenges. We set goals and we hold ourselves accountable to reaching them.\n100+ million\ncustomers\nThrough our retail bank, credit cards and wealth management business, we provide personalized financial guidance supported by leading digital capabilities.\nOur Mission\nCiti's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We have set expectations for how we must act to bring our mission to life. These expectations are at the heart of our Leadership Principles \u2013 we take ownership, we deliver with pride and we succeed together.\nLearn more\nIn this section\nStrategy\nWe are transforming Citi into a modern, simpler, more efficient bank.\nLearn More\nLeadership\nOur diverse leadership team is committed to stewarding a firm known for excellence.\nLearn More\nGlobal Presence\nCiti has a global network of financial services that stretches across nearly 160 countries.\nLearn More\nHeritage\nCiti has more than 200 years of experience growing businesses and supporting communities.\nLearn More\nOur Businesses\nThrough our five businesses, we have the experience and capabilities to meet the banking needs of our clients and customers as they grow across borders and adapt to the digital age.\nRead More\nCiti Infographics\nCiti at a Glance\nRecent news\nPRESS RELEASE\nCiti Enhances the Citi Premier Card with New Benefits to Make Travel Adventures More Rewarding\nMay 13, 2024\nGROWTH & PROSPERITY\nStrained U.S. China Relations: The Ripple Effect\nMay 09, 2024\nTECHNOLOGY & INNOVATION\nSkills for Thriving Amid AI\nMay 08, 2024\nPERSPECTIVES\nJoining Forces to Fight World Hunger\nMay 02, 2024\nJulie Monaco\n, Global Head, Public Sector Group, Citi\n,\nJay Collins\n, Vice Chairman, Corporate & Investment Bank, Citi\nGROWTH & PROSPERITY\nSunless tanning goes global \u2013 the Bondi Sands story\nApril 22, 2024"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+About | IBM
+Home
+about
+About IBM
+Creators, partners and clients putting technology to work in the real world
+Get the latest IBM news
+Explore financial information
+Our clients’ systems support modern society. In making them faster, more productive, and more secure, we don’t just make business work better. We make the world work better.
+Arvind Krishna
+Chairman and CEO
+IBM
+See IBM leadership
+What does IBM do?
+We bring together all the necessary technology and services to help our clients solve their business problems.
+Consulting
+A trusted partner to clients that delivers meaningful impact faster.
+Learn about our insightful approach
+Software
+Enables clients to leverage the full power of hybrid cloud and AI, with strong demand for open source innovation.
+Learn about our intelligent software
+Red Hat
+Unlocks greater velocity for clients to increase productivity, reduce costs and improve business outcomes.
+Learn about IBM and Red Hat solutions
+Infrastructure
+Delivers the storage, servers and mainframe systems that build hybrid cloud foundations.
+Learn about modernizing infrastructure
+Ecosystem
+Brings together the world’s leading platform and infrastructure partners who add critical value to solutions.
+Learn about our partnerships
+Our impact
+IBM Trust Center
+Learn how IBM protects our clients and business with security and privacy practices.
+Enterprise social good
+Learn how IBM aspires to be the catalyst that makes the world work better.
+IBM Sustainability Accelerator
+The IBM Sustainability Accelerator brings IBM technology, resources and experts to projects supporting vulnerable communities around the world.
+IBM SkillsBuild
+IBM SkillsBuild is a free education program that provides valuable skills and career opportunities to traditionally underrepresented communities in technology.
+Iconic moments in IBM history
+2021: The world's first 2-nanometer chip
+With 50 billion transistors on a fingernail-sized chip—the most dense to date—this innovation holds the potential for greener data centers and safer autonomous vehicles.
+1997: AI defeats a reigning chess champion
+IBM Deep Blue supercomputer defeats the best chess player in the world. Thinking computers take a giant leap forward toward the kind of AI that we know and use today.
+1969: The first men on the moon
+In an epic feat of engineering, IBM builds the computers and software for the Apollo missions, landing Neil Armstrong and Buzz Aldrin on the moon and guiding them back to Earth.
+1956: AI before AI
+Arthur L. Samuel programs an IBM 704 to play checkers and learn from its experience. It is considered the first demonstration of artificial intelligence.
+1952: The inception of digital storage
+IBM introduces the world to digital storage via magnetic tape data, marking the transition from punched-card calculators to electronic computers.
+1928: The punch card and the US Census
+IBM punch cards become the industry standard for the next 50 years, holding nearly all of the world’s known information and enabling large-scale projects like the US Census.
+Frequently asked questions
+IBM integrates technology and expertise, providing
+infrastructure
+,
+software
+(including market-leading
+Red Hat
+) and
+consulting services
+for clients as they pursue the digital transformation of the world’s mission-critical businesses.
+In 2021, we furthered our tradition of leadership in sustainability, announcing a goal of net-zero greenhouse gas emissions by 2030 across all the countries in which we operate. Our data-driven
+sustainability solutions
+are helping clients turn ambition into action.
+IBM is always on the hunt for what’s next. Learn more about the group of more than 3,000 scientists and researchers around the globe who deeply believe in the power of the scientific method to invent at
+IBM Research
+. For example, we are leading the charge in
+quantum computing
+.
+One area of interest for IBM is in personal digital employees, or digeys, AI-powered workers who can relieve employees of their most repetitive, mundane tasks. Learn more about
+watsonx Orchestrate
+. We believe intelligent automation solutions will help businesses improve workflows, integrate systems and gain insights into operations. Learn more at
+IBM Automation
+.
+Additional resources
+Connect and learn
+Explore careers at IBM
+Training and skills
+IBM Community
+Develop
+IBM Developer
+Technologies
+IBM Documentation
+Creativity at work
+Explore client stories
+Design thinking with IBM Garage
+Free trials
+Next steps
+Get curated newsletters on the latest IBM technology and thought leadership delivered to your inbox.
+Subscribe now

@@ -1,0 +1,8 @@
+{
+  "2024": {
+    "changed_from_prior": false,
+    "change_reason": "First and only year with non-null text, so no prior comparison is possible; the captured text is unreadable, so no change can be assessed.",
+    "theme_categories": ["unreadable_text"],
+    "analyst_notes": "The 2024 text field is binary/compressed data (non-UTF-8 bytes), not page content, and the chosen URL (govern/code.html) appears to be a governance code page rather than an About page. Nothing here can be analyzed; this is a failed capture and should be re-scraped. Years 2016-2023 have no snapshot."
+  }
+}

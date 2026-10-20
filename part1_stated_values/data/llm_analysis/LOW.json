@@ -1,0 +1,32 @@
+{
+  "2020": {
+    "changed_from_prior": false,
+    "change_reason": "First available year; it sets the baseline of headline-driven community and product news under a 'Building a Responsible Foundation' tagline.",
+    "theme_categories": ["community_social_responsibility", "customer_focus", "people_culture"],
+    "analyst_notes": "Brief news-feed copy with a corporate-citizenship tagline ('use our growth for the greater good') backed by a concrete $9.25 million Charlotte-area commitment. Otherwise the page is mostly headlines and navigation, so few stated values are visible."
+  },
+  "2021": {
+    "changed_from_prior": true,
+    "change_reason": "The featured headlines changed (a military-family commercial, a Remembrance Trail project, a private-brand carpet launch), while the responsibility tagline stayed the same.",
+    "theme_categories": ["community_social_responsibility", "customer_focus", "people_culture"],
+    "analyst_notes": "Story-driven and warm, with emphasis on military families and product launches. The claims are episodic and carry no metrics."
+  },
+  "2022": {
+    "changed_from_prior": true,
+    "change_reason": "Featured content moved to a $100 million five-year Hometowns commitment, a sustainability report and an LGBTQ-owned vendor spotlight, replacing the 2021 military and product stories.",
+    "theme_categories": ["community_social_responsibility", "environmental_sustainability", "diversity_equity_inclusion"],
+    "analyst_notes": "The most concrete page so far ($100 million over five years, a Corporate Responsibility Report), though the page itself reports no outcomes. The vendor story is a DEI signal but appears as a single news item."
+  },
+  "2023": {
+    "changed_from_prior": true,
+    "change_reason": "Sustainability and vendor items dropped out, replaced by community projects (Build it Forward, a gardener story) and an internship story.",
+    "theme_categories": ["community_social_responsibility", "people_culture"],
+    "analyst_notes": "Human-interest storytelling about community and careers. The claims are anecdotal and contain few measurable commitments, so specificity is lower than in 2022."
+  },
+  "2024": {
+    "changed_from_prior": true,
+    "change_reason": "Featured stories shifted to associate and partner stories (an associate's assistance story, a Messi partnership), with the Hometowns season the only community item.",
+    "theme_categories": ["people_culture", "community_social_responsibility"],
+    "analyst_notes": "Tone shifts to associate-centered and sponsorship marketing. The personal-story framing is more emotional than the earlier program and dollar claims, and the page contains no metrics."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "2016": {
+    "changed_from_prior": false,
+    "change_reason": "First available year; the capture is only the page title 'Our Brand - Accountability + Performance | ConocoPhillips'.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "No body text was captured, so tone and specificity cannot be assessed. The classical integrity_ethics_trust tag rests entirely on the title wording 'Accountability + Performance'."
+  },
+  "2017": {
+    "changed_from_prior": false,
+    "change_reason": "The title is identical to 2016 and there is no body text to show any change.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture identical to 2016. The classical similarity of 1.0 reflects the identical title, not verified stability of the About copy."
+  },
+  "2018": {
+    "changed_from_prior": false,
+    "change_reason": "The title is identical to 2017 and there is no body text to show any change.",
+    "theme_categories": ["insufficient_content"],
+    "analyst_notes": "Title-only capture identical to 2016 and 2017. Nothing on environmental or sustainability messaging can be read from this year."
+  }
+}
