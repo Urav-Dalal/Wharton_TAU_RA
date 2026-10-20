@@ -1,0 +1,9 @@
+category,label,contemporaneous_r,contemporaneous_p,contemporaneous_n,rhetoric_leads_1yr_r,rhetoric_leads_1yr_p,rhetoric_leads_1yr_n,substance_leads_1yr_r,substance_leads_1yr_p,substance_leads_1yr_n
+innovation_technology,Innovation & Technology Leadership,0.001,0.9928,207,-0.003,0.9686,174,-0.001,0.9906,159
+customer_focus,Customer Focus,-0.044,0.5263,207,0.204,0.007,174,0.226,0.0041,159
+people_culture,"People, Talent & Culture",-0.068,0.3305,207,-0.109,0.1521,174,-0.126,0.1143,159
+diversity_equity_inclusion,"Diversity, Equity & Inclusion",-0.068,0.3279,207,0.084,0.2689,174,0.102,0.199,159
+environmental_sustainability,Environmental Sustainability,0.018,0.795,207,0.219,0.0038,174,0.221,0.0052,159
+community_social_responsibility,Community & Social Responsibility,-0.094,0.1761,207,0.061,0.4274,174,0.06,0.4545,159
+integrity_ethics_trust,"Integrity, Ethics & Trust",-0.024,0.7277,207,0.096,0.2093,174,0.101,0.2073,159
+growth_scale_performance,"Growth, Scale & Financial Performance",0.074,0.2861,207,-0.147,0.0527,174,-0.155,0.0509,159

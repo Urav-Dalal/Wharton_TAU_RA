@@ -1,0 +1,447 @@
+ticker,company_name,sector,year,authenticity_index,status,stated_year_used,stated_year_imputed
+AAPL,Apple,Technology,2016,,FLAT_VECTOR_UNDEFINED,2016,False
+AAPL,Apple,Technology,2017,,FLAT_VECTOR_UNDEFINED,2017,False
+AAPL,Apple,Technology,2019,,FLAT_VECTOR_UNDEFINED,2017,True
+AAPL,Apple,Technology,2020,,FLAT_VECTOR_UNDEFINED,2017,True
+AAPL,Apple,Technology,2021,,FLAT_VECTOR_UNDEFINED,2017,True
+AAPL,Apple,Technology,2022,,FLAT_VECTOR_UNDEFINED,2017,True
+AAPL,Apple,Technology,2023,,FLAT_VECTOR_UNDEFINED,2017,True
+AAPL,Apple,Technology,2024,,FLAT_VECTOR_UNDEFINED,2017,True
+ABBV,AbbVie,Healthcare,2016,45.32,OK,2016,False
+ABBV,AbbVie,Healthcare,2017,34.32,OK,2017,False
+ABBV,AbbVie,Healthcare,2018,39.42,OK,2017,True
+ABBV,AbbVie,Healthcare,2019,50.78,OK,2017,True
+ABBV,AbbVie,Healthcare,2020,38.31,OK,2017,True
+ABBV,AbbVie,Healthcare,2021,42.21,OK,2017,True
+ABBV,AbbVie,Healthcare,2022,39.87,OK,2017,True
+ABBV,AbbVie,Healthcare,2023,39.87,OK,2017,True
+ABBV,AbbVie,Healthcare,2024,39.87,OK,2017,True
+ABT,Abbott Laboratories,Healthcare,2016,56.3,OK,2016,False
+ABT,Abbott Laboratories,Healthcare,2017,70.74,OK,2017,False
+ABT,Abbott Laboratories,Healthcare,2018,50.0,OK,2018,False
+ABT,Abbott Laboratories,Healthcare,2019,38.96,OK,2019,False
+ABT,Abbott Laboratories,Healthcare,2020,46.56,OK,2020,False
+ABT,Abbott Laboratories,Healthcare,2021,48.11,OK,2021,False
+ABT,Abbott Laboratories,Healthcare,2022,64.45,OK,2022,False
+ABT,Abbott Laboratories,Healthcare,2023,46.17,OK,2023,False
+ABT,Abbott Laboratories,Healthcare,2024,50.61,OK,2024,False
+AMZN,Amazon,Consumer Discretionary,2016,,MISSING_STATED_DATA,,
+AMZN,Amazon,Consumer Discretionary,2017,,MISSING_STATED_DATA,,
+AMZN,Amazon,Consumer Discretionary,2018,33.73,OK,2018,False
+AMZN,Amazon,Consumer Discretionary,2019,54.19,OK,2019,False
+AMZN,Amazon,Consumer Discretionary,2020,65.66,OK,2020,False
+AMZN,Amazon,Consumer Discretionary,2021,79.46,OK,2021,False
+AMZN,Amazon,Consumer Discretionary,2022,29.01,OK,2022,False
+AMZN,Amazon,Consumer Discretionary,2023,46.81,OK,2023,False
+AMZN,Amazon,Consumer Discretionary,2024,72.83,OK,2024,False
+AVGO,Broadcom,Technology,2016,66.37,OK,2016,False
+AVGO,Broadcom,Technology,2017,77.28,OK,2017,False
+AVGO,Broadcom,Technology,2018,77.28,OK,2018,False
+AVGO,Broadcom,Technology,2019,,FLAT_VECTOR_UNDEFINED,2019,False
+AVGO,Broadcom,Technology,2020,,FLAT_VECTOR_UNDEFINED,2020,False
+AVGO,Broadcom,Technology,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+AVGO,Broadcom,Technology,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+AVGO,Broadcom,Technology,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+AVGO,Broadcom,Technology,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+AXP,American Express,Financials,2016,62.37,OK,2016,False
+AXP,American Express,Financials,2017,62.45,OK,2017,False
+AXP,American Express,Financials,2018,54.12,OK,2017,True
+AXP,American Express,Financials,2019,37.63,OK,2017,True
+AXP,American Express,Financials,2020,45.88,OK,2017,True
+AXP,American Express,Financials,2021,29.38,OK,2017,True
+AXP,American Express,Financials,2022,29.26,OK,2017,True
+AXP,American Express,Financials,2023,37.63,OK,2017,True
+AXP,American Express,Financials,2024,29.38,OK,2017,True
+BAC,Bank of America,Financials,2016,54.12,OK,2016,False
+BAC,Bank of America,Financials,2017,54.12,OK,2017,False
+BAC,Bank of America,Financials,2018,,FLAT_VECTOR_UNDEFINED,2018,False
+BAC,Bank of America,Financials,2019,,FLAT_VECTOR_UNDEFINED,2019,False
+BAC,Bank of America,Financials,2020,,FLAT_VECTOR_UNDEFINED,2020,False
+BAC,Bank of America,Financials,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+BAC,Bank of America,Financials,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+BAC,Bank of America,Financials,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+BAC,Bank of America,Financials,2024,37.63,OK,2024,False
+BLK,BlackRock,Financials,2016,,MISSING_STATED_DATA,,
+BLK,BlackRock,Financials,2017,57.98,OK,2017,False
+BLK,BlackRock,Financials,2018,57.98,OK,2018,False
+BLK,BlackRock,Financials,2019,52.46,OK,2019,False
+BLK,BlackRock,Financials,2020,39.09,OK,2020,False
+BLK,BlackRock,Financials,2021,59.55,OK,2021,False
+BLK,BlackRock,Financials,2022,39.76,OK,2022,False
+BLK,BlackRock,Financials,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+BLK,BlackRock,Financials,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+BMY,Bristol-Myers Squibb,Healthcare,2016,,MISSING_STATED_DATA,,
+BMY,Bristol-Myers Squibb,Healthcare,2017,53.53,OK,2017,False
+BMY,Bristol-Myers Squibb,Healthcare,2018,50.0,OK,2018,False
+BMY,Bristol-Myers Squibb,Healthcare,2019,50.0,OK,2019,False
+BMY,Bristol-Myers Squibb,Healthcare,2020,53.09,OK,2020,False
+BMY,Bristol-Myers Squibb,Healthcare,2021,88.92,OK,2021,False
+BMY,Bristol-Myers Squibb,Healthcare,2022,91.32,OK,2022,False
+BMY,Bristol-Myers Squibb,Healthcare,2023,92.52,OK,2023,False
+BMY,Bristol-Myers Squibb,Healthcare,2024,95.14,OK,2024,False
+BRK.B,Berkshire Hathaway,Financials,2016,,MISSING_STATED_DATA,,
+BRK.B,Berkshire Hathaway,Financials,2017,,MISSING_STATED_DATA,,
+BRK.B,Berkshire Hathaway,Financials,2018,,MISSING_STATED_DATA,,
+BRK.B,Berkshire Hathaway,Financials,2019,,MISSING_STATED_DATA,,
+BRK.B,Berkshire Hathaway,Financials,2020,,MISSING_STATED_DATA,,
+BRK.B,Berkshire Hathaway,Financials,2021,,MISSING_STATED_DATA,,
+BRK.B,Berkshire Hathaway,Financials,2022,,MISSING_STATED_DATA,,
+BRK.B,Berkshire Hathaway,Financials,2023,,MISSING_STATED_DATA,,
+BRK.B,Berkshire Hathaway,Financials,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+C,Citigroup,Financials,2016,,MISSING_STATED_DATA,,
+C,Citigroup,Financials,2017,,MISSING_STATED_DATA,,
+C,Citigroup,Financials,2018,,MISSING_STATED_DATA,,
+C,Citigroup,Financials,2019,,MISSING_STATED_DATA,,
+C,Citigroup,Financials,2020,,MISSING_STATED_DATA,,
+C,Citigroup,Financials,2021,,MISSING_STATED_DATA,,
+C,Citigroup,Financials,2022,60.43,OK,2022,False
+C,Citigroup,Financials,2023,62.77,OK,2023,False
+C,Citigroup,Financials,2024,48.77,OK,2024,False
+COP,ConocoPhillips,Energy,2016,70.74,OK,2016,False
+COP,ConocoPhillips,Energy,2017,70.62,OK,2017,False
+COP,ConocoPhillips,Energy,2018,70.62,OK,2018,False
+COP,ConocoPhillips,Energy,2019,70.62,OK,2018,True
+COP,ConocoPhillips,Energy,2020,70.62,OK,2018,True
+COP,ConocoPhillips,Energy,2021,70.62,OK,2018,True
+COP,ConocoPhillips,Energy,2022,62.37,OK,2018,True
+COP,ConocoPhillips,Energy,2023,70.62,OK,2018,True
+COP,ConocoPhillips,Energy,2024,62.37,OK,2018,True
+CRM,Salesforce,Technology,2016,24.62,OK,2016,False
+CRM,Salesforce,Technology,2017,26.81,OK,2017,False
+CRM,Salesforce,Technology,2018,20.5,OK,2018,False
+CRM,Salesforce,Technology,2019,35.95,OK,2019,False
+CRM,Salesforce,Technology,2020,42.34,OK,2020,False
+CRM,Salesforce,Technology,2021,42.34,OK,2021,False
+CRM,Salesforce,Technology,2022,29.57,OK,2021,True
+CRM,Salesforce,Technology,2023,40.42,OK,2021,True
+CRM,Salesforce,Technology,2024,46.17,OK,2021,True
+CVX,Chevron,Energy,2016,43.25,OK,2016,False
+CVX,Chevron,Energy,2017,49.39,OK,2017,False
+CVX,Chevron,Energy,2018,29.26,OK,2018,False
+CVX,Chevron,Energy,2019,36.58,OK,2019,False
+CVX,Chevron,Energy,2020,53.68,OK,2020,False
+CVX,Chevron,Energy,2021,46.34,OK,2021,False
+CVX,Chevron,Energy,2022,46.34,OK,2022,False
+CVX,Chevron,Energy,2023,46.34,OK,2023,False
+CVX,Chevron,Energy,2024,46.34,OK,2024,False
+EOG,EOG Resources,Energy,2016,,MISSING_STATED_DATA,,
+EOG,EOG Resources,Energy,2017,,FLAT_VECTOR_UNDEFINED,2017,False
+EOG,EOG Resources,Energy,2018,,FLAT_VECTOR_UNDEFINED,2018,False
+EOG,EOG Resources,Energy,2019,,FLAT_VECTOR_UNDEFINED,2019,False
+EOG,EOG Resources,Energy,2020,,FLAT_VECTOR_UNDEFINED,2020,False
+EOG,EOG Resources,Energy,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+EOG,EOG Resources,Energy,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+EOG,EOG Resources,Energy,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+EOG,EOG Resources,Energy,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+F,Ford Motor,Consumer Discretionary,2016,,MISSING_STATED_DATA,,
+F,Ford Motor,Consumer Discretionary,2017,,MISSING_STATED_DATA,,
+F,Ford Motor,Consumer Discretionary,2018,,MISSING_STATED_DATA,,
+F,Ford Motor,Consumer Discretionary,2019,,MISSING_STATED_DATA,,
+F,Ford Motor,Consumer Discretionary,2020,27.18,OK,2020,False
+F,Ford Motor,Consumer Discretionary,2021,91.08,OK,2021,False
+F,Ford Motor,Consumer Discretionary,2022,81.95,OK,2022,False
+F,Ford Motor,Consumer Discretionary,2023,64.43,OK,2023,False
+F,Ford Motor,Consumer Discretionary,2024,64.43,OK,2024,False
+GOOGL,Alphabet,Technology,2016,,MISSING_STATED_DATA,,
+GOOGL,Alphabet,Technology,2017,,MISSING_STATED_DATA,,
+GOOGL,Alphabet,Technology,2018,,MISSING_STATED_DATA,,
+GOOGL,Alphabet,Technology,2019,,MISSING_STATED_DATA,,
+GOOGL,Alphabet,Technology,2020,,MISSING_STATED_DATA,,
+GOOGL,Alphabet,Technology,2021,,MISSING_STATED_DATA,,
+GOOGL,Alphabet,Technology,2022,,MISSING_STATED_DATA,,
+GOOGL,Alphabet,Technology,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+GOOGL,Alphabet,Technology,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+GS,Goldman Sachs,Financials,2016,,MISSING_STATED_DATA,,
+GS,Goldman Sachs,Financials,2017,,MISSING_STATED_DATA,,
+GS,Goldman Sachs,Financials,2018,,MISSING_STATED_DATA,,
+GS,Goldman Sachs,Financials,2019,,FLAT_VECTOR_UNDEFINED,2019,False
+GS,Goldman Sachs,Financials,2020,,FLAT_VECTOR_UNDEFINED,2020,False
+GS,Goldman Sachs,Financials,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+GS,Goldman Sachs,Financials,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+GS,Goldman Sachs,Financials,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+GS,Goldman Sachs,Financials,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+HAL,Halliburton,Energy,2016,,MISSING_STATED_DATA,,
+HAL,Halliburton,Energy,2017,,MISSING_STATED_DATA,,
+HAL,Halliburton,Energy,2018,,MISSING_STATED_DATA,,
+HAL,Halliburton,Energy,2019,,MISSING_STATED_DATA,,
+HAL,Halliburton,Energy,2020,,MISSING_STATED_DATA,,
+HAL,Halliburton,Energy,2021,50.0,OK,2021,False
+HAL,Halliburton,Energy,2022,50.0,OK,2022,False
+HAL,Halliburton,Energy,2023,51.21,OK,2023,False
+HAL,Halliburton,Energy,2024,58.76,OK,2024,False
+HD,Home Depot,Consumer Discretionary,2016,,MISSING_STATED_DATA,,
+HD,Home Depot,Consumer Discretionary,2017,,MISSING_STATED_DATA,,
+HD,Home Depot,Consumer Discretionary,2018,,MISSING_STATED_DATA,,
+HD,Home Depot,Consumer Discretionary,2019,,MISSING_STATED_DATA,,
+HD,Home Depot,Consumer Discretionary,2020,,MISSING_STATED_DATA,,
+HD,Home Depot,Consumer Discretionary,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+HD,Home Depot,Consumer Discretionary,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+HD,Home Depot,Consumer Discretionary,2023,,FLAT_VECTOR_UNDEFINED,2022,True
+HD,Home Depot,Consumer Discretionary,2024,,FLAT_VECTOR_UNDEFINED,2022,True
+IBM,IBM,Technology,2016,,MISSING_STATED_DATA,,
+IBM,IBM,Technology,2017,,MISSING_STATED_DATA,,
+IBM,IBM,Technology,2018,,MISSING_STATED_DATA,,
+IBM,IBM,Technology,2019,,MISSING_STATED_DATA,,
+IBM,IBM,Technology,2020,37.72,OK,2020,False
+IBM,IBM,Technology,2021,24.97,OK,2021,False
+IBM,IBM,Technology,2022,22.99,OK,2022,False
+IBM,IBM,Technology,2023,27.25,OK,2023,False
+IBM,IBM,Technology,2024,50.0,OK,2024,False
+INTC,Intel,Technology,2016,,FLAT_VECTOR_UNDEFINED,2016,False
+INTC,Intel,Technology,2017,,FLAT_VECTOR_UNDEFINED,2017,False
+INTC,Intel,Technology,2018,,FLAT_VECTOR_UNDEFINED,2018,False
+INTC,Intel,Technology,2019,,FLAT_VECTOR_UNDEFINED,2019,False
+INTC,Intel,Technology,2020,,FLAT_VECTOR_UNDEFINED,2020,False
+INTC,Intel,Technology,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+INTC,Intel,Technology,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+INTC,Intel,Technology,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+INTC,Intel,Technology,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+JNJ,Johnson & Johnson,Healthcare,2016,,MISSING_STATED_DATA,,
+JNJ,Johnson & Johnson,Healthcare,2017,,MISSING_STATED_DATA,,
+JNJ,Johnson & Johnson,Healthcare,2018,,MISSING_STATED_DATA,,
+JNJ,Johnson & Johnson,Healthcare,2019,,MISSING_STATED_DATA,,
+JNJ,Johnson & Johnson,Healthcare,2020,54.76,OK,2020,False
+JNJ,Johnson & Johnson,Healthcare,2021,69.16,OK,2021,False
+JNJ,Johnson & Johnson,Healthcare,2022,63.1,OK,2022,False
+JNJ,Johnson & Johnson,Healthcare,2023,82.93,OK,2023,False
+JNJ,Johnson & Johnson,Healthcare,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+JPM,JPMorgan Chase,Financials,2016,33.43,OK,2016,False
+JPM,JPMorgan Chase,Financials,2017,23.44,OK,2017,False
+JPM,JPMorgan Chase,Financials,2018,26.5,OK,2018,False
+JPM,JPMorgan Chase,Financials,2019,44.99,OK,2019,False
+JPM,JPMorgan Chase,Financials,2020,45.88,OK,2020,False
+JPM,JPMorgan Chase,Financials,2021,52.46,OK,2021,False
+JPM,JPMorgan Chase,Financials,2022,32.09,OK,2022,False
+JPM,JPMorgan Chase,Financials,2023,46.34,OK,2023,False
+JPM,JPMorgan Chase,Financials,2024,38.81,OK,2024,False
+LLY,Eli Lilly,Healthcare,2016,,MISSING_STATED_DATA,,
+LLY,Eli Lilly,Healthcare,2017,,MISSING_STATED_DATA,,
+LLY,Eli Lilly,Healthcare,2018,,MISSING_STATED_DATA,,
+LLY,Eli Lilly,Healthcare,2019,50.31,OK,2019,False
+LLY,Eli Lilly,Healthcare,2020,50.0,OK,2020,False
+LLY,Eli Lilly,Healthcare,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+LLY,Eli Lilly,Healthcare,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+LLY,Eli Lilly,Healthcare,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+LLY,Eli Lilly,Healthcare,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+LOW,Lowe's,Consumer Discretionary,2016,,MISSING_STATED_DATA,,
+LOW,Lowe's,Consumer Discretionary,2017,,MISSING_STATED_DATA,,
+LOW,Lowe's,Consumer Discretionary,2018,,MISSING_STATED_DATA,,
+LOW,Lowe's,Consumer Discretionary,2019,,MISSING_STATED_DATA,,
+LOW,Lowe's,Consumer Discretionary,2020,47.39,OK,2020,False
+LOW,Lowe's,Consumer Discretionary,2021,72.6,OK,2021,False
+LOW,Lowe's,Consumer Discretionary,2022,45.85,OK,2022,False
+LOW,Lowe's,Consumer Discretionary,2023,37.4,OK,2023,False
+LOW,Lowe's,Consumer Discretionary,2024,50.78,OK,2024,False
+MCD,McDonald's,Consumer Discretionary,2016,,MISSING_STATED_DATA,,
+MCD,McDonald's,Consumer Discretionary,2017,,MISSING_STATED_DATA,,
+MCD,McDonald's,Consumer Discretionary,2018,,MISSING_STATED_DATA,,
+MCD,McDonald's,Consumer Discretionary,2019,,MISSING_STATED_DATA,,
+MCD,McDonald's,Consumer Discretionary,2020,80.73,OK,2020,False
+MCD,McDonald's,Consumer Discretionary,2021,74.85,OK,2021,False
+MCD,McDonald's,Consumer Discretionary,2023,62.65,OK,2023,False
+MCD,McDonald's,Consumer Discretionary,2024,69.28,OK,2024,False
+MDT,Medtronic,Healthcare,2016,66.77,OK,2016,False
+MDT,Medtronic,Healthcare,2017,50.0,OK,2017,False
+MDT,Medtronic,Healthcare,2018,50.0,OK,2018,False
+MDT,Medtronic,Healthcare,2019,79.04,OK,2019,False
+MDT,Medtronic,Healthcare,2020,85.25,OK,2020,False
+MDT,Medtronic,Healthcare,2021,90.23,OK,2021,False
+MDT,Medtronic,Healthcare,2022,88.86,OK,2022,False
+MDT,Medtronic,Healthcare,2023,83.84,OK,2022,True
+MDT,Medtronic,Healthcare,2024,90.23,OK,2022,True
+META,Meta Platforms,Technology,2016,,MISSING_STATED_DATA,,
+META,Meta Platforms,Technology,2017,,MISSING_STATED_DATA,,
+META,Meta Platforms,Technology,2018,,MISSING_STATED_DATA,,
+META,Meta Platforms,Technology,2019,,MISSING_STATED_DATA,,
+META,Meta Platforms,Technology,2020,,MISSING_STATED_DATA,,
+META,Meta Platforms,Technology,2021,,MISSING_STATED_DATA,,
+META,Meta Platforms,Technology,2022,50.69,OK,2022,False
+META,Meta Platforms,Technology,2023,50.0,OK,2023,False
+META,Meta Platforms,Technology,2024,65.81,OK,2024,False
+MPC,Marathon Petroleum,Energy,2016,62.37,OK,2016,False
+MPC,Marathon Petroleum,Energy,2017,62.37,OK,2017,False
+MPC,Marathon Petroleum,Energy,2018,,FLAT_VECTOR_UNDEFINED,2018,False
+MPC,Marathon Petroleum,Energy,2019,39.08,OK,2019,False
+MPC,Marathon Petroleum,Energy,2020,67.8,OK,2020,False
+MPC,Marathon Petroleum,Energy,2021,64.73,OK,2021,False
+MPC,Marathon Petroleum,Energy,2022,76.28,OK,2022,False
+MPC,Marathon Petroleum,Energy,2023,69.79,OK,2023,False
+MPC,Marathon Petroleum,Energy,2024,61.66,OK,2024,False
+MRK,Merck,Healthcare,2016,,MISSING_STATED_DATA,,
+MRK,Merck,Healthcare,2017,,MISSING_STATED_DATA,,
+MRK,Merck,Healthcare,2018,,MISSING_STATED_DATA,,
+MRK,Merck,Healthcare,2019,,MISSING_STATED_DATA,,
+MRK,Merck,Healthcare,2020,84.64,OK,2020,False
+MRK,Merck,Healthcare,2021,80.0,OK,2021,False
+MRK,Merck,Healthcare,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+MRK,Merck,Healthcare,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+MRK,Merck,Healthcare,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+MS,Morgan Stanley,Financials,2016,,MISSING_STATED_DATA,,
+MS,Morgan Stanley,Financials,2017,,FLAT_VECTOR_UNDEFINED,2017,False
+MS,Morgan Stanley,Financials,2018,,FLAT_VECTOR_UNDEFINED,2018,False
+MS,Morgan Stanley,Financials,2019,,FLAT_VECTOR_UNDEFINED,2019,False
+MS,Morgan Stanley,Financials,2020,,FLAT_VECTOR_UNDEFINED,2020,False
+MS,Morgan Stanley,Financials,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+MS,Morgan Stanley,Financials,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+MS,Morgan Stanley,Financials,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+MS,Morgan Stanley,Financials,2024,,FLAT_VECTOR_UNDEFINED,2023,True
+MSFT,Microsoft,Technology,2016,50.0,OK,2016,False
+MSFT,Microsoft,Technology,2017,29.52,OK,2017,False
+MSFT,Microsoft,Technology,2018,30.72,OK,2017,True
+MSFT,Microsoft,Technology,2019,34.94,OK,2017,True
+MSFT,Microsoft,Technology,2020,29.52,OK,2017,True
+MSFT,Microsoft,Technology,2021,33.13,OK,2017,True
+MSFT,Microsoft,Technology,2022,27.11,OK,2017,True
+MSFT,Microsoft,Technology,2023,27.11,OK,2017,True
+MSFT,Microsoft,Technology,2024,25.3,OK,2017,True
+NKE,Nike,Consumer Discretionary,2016,,MISSING_STATED_DATA,,
+NKE,Nike,Consumer Discretionary,2017,,MISSING_STATED_DATA,,
+NKE,Nike,Consumer Discretionary,2018,,MISSING_STATED_DATA,,
+NKE,Nike,Consumer Discretionary,2019,,MISSING_STATED_DATA,,
+NKE,Nike,Consumer Discretionary,2020,,MISSING_STATED_DATA,,
+NKE,Nike,Consumer Discretionary,2021,,MISSING_STATED_DATA,,
+NKE,Nike,Consumer Discretionary,2022,,MISSING_STATED_DATA,,
+NKE,Nike,Consumer Discretionary,2023,,MISSING_STATED_DATA,,
+NKE,Nike,Consumer Discretionary,2024,34.25,OK,2024,False
+NVDA,NVIDIA,Technology,2016,,MISSING_STATED_DATA,,
+NVDA,NVIDIA,Technology,2017,,MISSING_STATED_DATA,,
+NVDA,NVIDIA,Technology,2018,,MISSING_STATED_DATA,,
+NVDA,NVIDIA,Technology,2019,,MISSING_STATED_DATA,,
+NVDA,NVIDIA,Technology,2020,,MISSING_STATED_DATA,,
+NVDA,NVIDIA,Technology,2021,,MISSING_STATED_DATA,,
+NVDA,NVIDIA,Technology,2022,,MISSING_STATED_DATA,,
+NVDA,NVIDIA,Technology,2023,,MISSING_STATED_DATA,,
+NVDA,NVIDIA,Technology,2024,38.31,OK,2024,False
+ORCL,Oracle,Technology,2016,,MISSING_STATED_DATA,,
+ORCL,Oracle,Technology,2017,,MISSING_STATED_DATA,,
+ORCL,Oracle,Technology,2018,26.68,OK,2018,False
+ORCL,Oracle,Technology,2019,28.31,OK,2019,False
+ORCL,Oracle,Technology,2020,61.68,OK,2020,False
+ORCL,Oracle,Technology,2021,50.62,OK,2021,False
+ORCL,Oracle,Technology,2022,26.65,OK,2022,False
+ORCL,Oracle,Technology,2023,35.54,OK,2023,False
+ORCL,Oracle,Technology,2024,23.49,OK,2024,False
+OXY,Occidental Petroleum,Energy,2016,,MISSING_STATED_DATA,,
+OXY,Occidental Petroleum,Energy,2017,,MISSING_STATED_DATA,,
+OXY,Occidental Petroleum,Energy,2018,,MISSING_STATED_DATA,,
+OXY,Occidental Petroleum,Energy,2019,,MISSING_STATED_DATA,,
+OXY,Occidental Petroleum,Energy,2020,,MISSING_STATED_DATA,,
+OXY,Occidental Petroleum,Energy,2021,62.73,OK,2021,False
+OXY,Occidental Petroleum,Energy,2022,70.74,OK,2022,False
+OXY,Occidental Petroleum,Energy,2023,71.96,OK,2023,False
+OXY,Occidental Petroleum,Energy,2024,70.74,OK,2024,False
+PFE,Pfizer,Healthcare,2016,35.76,OK,2016,False
+PFE,Pfizer,Healthcare,2017,,FLAT_VECTOR_UNDEFINED,2017,False
+PFE,Pfizer,Healthcare,2018,,FLAT_VECTOR_UNDEFINED,2017,True
+PFE,Pfizer,Healthcare,2019,,FLAT_VECTOR_UNDEFINED,2017,True
+PFE,Pfizer,Healthcare,2020,,FLAT_VECTOR_UNDEFINED,2017,True
+PFE,Pfizer,Healthcare,2021,83.33,OK,2021,False
+PFE,Pfizer,Healthcare,2022,82.34,OK,2022,False
+PFE,Pfizer,Healthcare,2023,86.9,OK,2023,False
+PFE,Pfizer,Healthcare,2024,82.14,OK,2024,False
+PSX,Phillips 66,Energy,2016,,MISSING_STATED_DATA,,
+PSX,Phillips 66,Energy,2017,,MISSING_STATED_DATA,,
+PSX,Phillips 66,Energy,2018,,MISSING_STATED_DATA,,
+PSX,Phillips 66,Energy,2019,29.38,OK,2019,False
+PSX,Phillips 66,Energy,2020,25.11,OK,2020,False
+PSX,Phillips 66,Energy,2021,29.38,OK,2021,False
+PSX,Phillips 66,Energy,2022,37.63,OK,2022,False
+PSX,Phillips 66,Energy,2023,37.63,OK,2022,True
+PSX,Phillips 66,Energy,2024,54.15,OK,2022,True
+SBUX,Starbucks,Consumer Discretionary,2016,,MISSING_STATED_DATA,,
+SBUX,Starbucks,Consumer Discretionary,2017,,MISSING_STATED_DATA,,
+SBUX,Starbucks,Consumer Discretionary,2018,,MISSING_STATED_DATA,,
+SBUX,Starbucks,Consumer Discretionary,2019,,MISSING_STATED_DATA,,
+SBUX,Starbucks,Consumer Discretionary,2020,,MISSING_STATED_DATA,,
+SBUX,Starbucks,Consumer Discretionary,2021,74.06,OK,2021,False
+SBUX,Starbucks,Consumer Discretionary,2022,74.06,OK,2022,False
+SBUX,Starbucks,Consumer Discretionary,2023,66.94,OK,2023,False
+SCHW,Charles Schwab,Financials,2016,53.66,OK,2016,False
+SCHW,Charles Schwab,Financials,2017,59.57,OK,2017,False
+SCHW,Charles Schwab,Financials,2018,67.12,OK,2018,False
+SCHW,Charles Schwab,Financials,2019,83.64,OK,2019,False
+SCHW,Charles Schwab,Financials,2020,74.1,OK,2019,True
+SCHW,Charles Schwab,Financials,2021,81.33,OK,2019,True
+SCHW,Charles Schwab,Financials,2022,78.92,OK,2019,True
+SCHW,Charles Schwab,Financials,2023,78.35,OK,2019,True
+SCHW,Charles Schwab,Financials,2024,74.7,OK,2019,True
+SLB,SLB (Schlumberger),Energy,2016,,FLAT_VECTOR_UNDEFINED,2016,False
+SLB,SLB (Schlumberger),Energy,2017,,FLAT_VECTOR_UNDEFINED,2017,False
+SLB,SLB (Schlumberger),Energy,2018,,FLAT_VECTOR_UNDEFINED,2018,False
+SLB,SLB (Schlumberger),Energy,2019,,FLAT_VECTOR_UNDEFINED,2019,False
+SLB,SLB (Schlumberger),Energy,2020,,FLAT_VECTOR_UNDEFINED,2019,True
+SLB,SLB (Schlumberger),Energy,2021,,FLAT_VECTOR_UNDEFINED,2019,True
+SLB,SLB (Schlumberger),Energy,2022,,FLAT_VECTOR_UNDEFINED,2019,True
+SLB,SLB (Schlumberger),Energy,2023,,FLAT_VECTOR_UNDEFINED,2019,True
+SLB,SLB (Schlumberger),Energy,2024,87.13,OK,2024,False
+TGT,Target,Consumer Discretionary,2016,,FLAT_VECTOR_UNDEFINED,2016,False
+TGT,Target,Consumer Discretionary,2017,,FLAT_VECTOR_UNDEFINED,2017,False
+TGT,Target,Consumer Discretionary,2018,,FLAT_VECTOR_UNDEFINED,2018,False
+TGT,Target,Consumer Discretionary,2019,,FLAT_VECTOR_UNDEFINED,2019,False
+TGT,Target,Consumer Discretionary,2020,,FLAT_VECTOR_UNDEFINED,2020,False
+TGT,Target,Consumer Discretionary,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+TGT,Target,Consumer Discretionary,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+TGT,Target,Consumer Discretionary,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+TGT,Target,Consumer Discretionary,2024,75.43,OK,2024,False
+TJX,TJX Companies,Consumer Discretionary,2016,,MISSING_STATED_DATA,,
+TJX,TJX Companies,Consumer Discretionary,2017,,MISSING_STATED_DATA,,
+TJX,TJX Companies,Consumer Discretionary,2018,,MISSING_STATED_DATA,,
+TJX,TJX Companies,Consumer Discretionary,2019,,FLAT_VECTOR_UNDEFINED,2019,False
+TJX,TJX Companies,Consumer Discretionary,2020,,FLAT_VECTOR_UNDEFINED,2020,False
+TJX,TJX Companies,Consumer Discretionary,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+TJX,TJX Companies,Consumer Discretionary,2022,,FLAT_VECTOR_UNDEFINED,2021,True
+TJX,TJX Companies,Consumer Discretionary,2023,,FLAT_VECTOR_UNDEFINED,2021,True
+TJX,TJX Companies,Consumer Discretionary,2024,,FLAT_VECTOR_UNDEFINED,2021,True
+TMO,Thermo Fisher Scientific,Healthcare,2016,,MISSING_STATED_DATA,,
+TMO,Thermo Fisher Scientific,Healthcare,2017,,MISSING_STATED_DATA,,
+TMO,Thermo Fisher Scientific,Healthcare,2018,16.16,OK,2018,False
+TMO,Thermo Fisher Scientific,Healthcare,2019,29.52,OK,2019,False
+TMO,Thermo Fisher Scientific,Healthcare,2020,26.5,OK,2020,False
+TMO,Thermo Fisher Scientific,Healthcare,2021,29.52,OK,2021,False
+TMO,Thermo Fisher Scientific,Healthcare,2022,28.31,OK,2021,True
+TMO,Thermo Fisher Scientific,Healthcare,2023,11.21,OK,2021,True
+TMO,Thermo Fisher Scientific,Healthcare,2024,25.9,OK,2021,True
+TSLA,Tesla,Consumer Discretionary,2016,,FLAT_VECTOR_UNDEFINED,2016,False
+TSLA,Tesla,Consumer Discretionary,2017,,FLAT_VECTOR_UNDEFINED,2017,False
+TSLA,Tesla,Consumer Discretionary,2018,,FLAT_VECTOR_UNDEFINED,2018,False
+TSLA,Tesla,Consumer Discretionary,2019,,FLAT_VECTOR_UNDEFINED,2019,False
+TSLA,Tesla,Consumer Discretionary,2020,,FLAT_VECTOR_UNDEFINED,2020,False
+TSLA,Tesla,Consumer Discretionary,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+TSLA,Tesla,Consumer Discretionary,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+TSLA,Tesla,Consumer Discretionary,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+TSLA,Tesla,Consumer Discretionary,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+UNH,UnitedHealth Group,Healthcare,2016,,MISSING_STATED_DATA,,
+UNH,UnitedHealth Group,Healthcare,2017,,MISSING_STATED_DATA,,
+UNH,UnitedHealth Group,Healthcare,2018,38.67,OK,2018,False
+UNH,UnitedHealth Group,Healthcare,2019,42.45,OK,2019,False
+UNH,UnitedHealth Group,Healthcare,2020,32.37,OK,2020,False
+UNH,UnitedHealth Group,Healthcare,2021,36.15,OK,2020,True
+UNH,UnitedHealth Group,Healthcare,2022,29.97,OK,2020,True
+UNH,UnitedHealth Group,Healthcare,2023,29.97,OK,2020,True
+UNH,UnitedHealth Group,Healthcare,2024,44.99,OK,2020,True
+VLO,Valero Energy,Energy,2016,,MISSING_STATED_DATA,,
+VLO,Valero Energy,Energy,2017,,MISSING_STATED_DATA,,
+VLO,Valero Energy,Energy,2018,,MISSING_STATED_DATA,,
+VLO,Valero Energy,Energy,2019,,MISSING_STATED_DATA,,
+VLO,Valero Energy,Energy,2020,,FLAT_VECTOR_UNDEFINED,2020,False
+VLO,Valero Energy,Energy,2021,,FLAT_VECTOR_UNDEFINED,2021,False
+VLO,Valero Energy,Energy,2022,,FLAT_VECTOR_UNDEFINED,2022,False
+VLO,Valero Energy,Energy,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+VLO,Valero Energy,Energy,2024,,FLAT_VECTOR_UNDEFINED,2024,False
+WFC,Wells Fargo,Financials,2016,70.25,OK,2016,False
+WFC,Wells Fargo,Financials,2017,83.95,OK,2017,False
+WFC,Wells Fargo,Financials,2018,81.33,OK,2018,False
+WFC,Wells Fargo,Financials,2019,81.33,OK,2019,False
+WFC,Wells Fargo,Financials,2020,68.07,OK,2020,False
+WFC,Wells Fargo,Financials,2021,71.09,OK,2021,False
+WFC,Wells Fargo,Financials,2022,73.5,OK,2022,False
+WFC,Wells Fargo,Financials,2023,53.61,OK,2023,False
+WFC,Wells Fargo,Financials,2024,69.28,OK,2024,False
+XOM,ExxonMobil,Energy,2016,,MISSING_STATED_DATA,,
+XOM,ExxonMobil,Energy,2017,,MISSING_STATED_DATA,,
+XOM,ExxonMobil,Energy,2018,,MISSING_STATED_DATA,,
+XOM,ExxonMobil,Energy,2019,,MISSING_STATED_DATA,,
+XOM,ExxonMobil,Energy,2020,,MISSING_STATED_DATA,,
+XOM,ExxonMobil,Energy,2022,,MISSING_STATED_DATA,,
+XOM,ExxonMobil,Energy,2023,,FLAT_VECTOR_UNDEFINED,2023,False
+XOM,ExxonMobil,Energy,2024,62.37,OK,2024,False
